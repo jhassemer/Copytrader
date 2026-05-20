@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-20
 
+### 20:25 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW SHORT PAXG (0x3dc90837...)
+- NEW SHORT HYPE (0xe867fbda...)
+- NEW LONG HYPE (0xffe4e398...)
+- Portfolio equity: $9,997.86 (-0.02%)
+
 ### 17:56 UTC — Daily refresh (Job A)
 - Leaderboard: 36580 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped
