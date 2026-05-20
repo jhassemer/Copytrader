@@ -1,0 +1,47 @@
+{
+  "cash": 8573.75,
+  "starting_cash": 10000.0,
+  "open_positions": {
+    "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
+      "trader": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
+      "coin": "PAXG",
+      "side": "SHORT",
+      "size": 0.33130975775431176,
+      "entry_price": 4527.485125,
+      "leverage": 3,
+      "margin": 500.0,
+      "notional": 1500.0,
+      "opened_at": "2026-05-20T17:55:41.391239+00:00"
+    },
+    "0xe867fbdad3291530e41530301ecb77693850c78e:HYPE:SHORT": {
+      "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 27.483356428915652,
+      "entry_price": 51.849562250000005,
+      "leverage": 3,
+      "margin": 475.0,
+      "notional": 1425.0,
+      "opened_at": "2026-05-20T17:55:41.391259+00:00"
+    },
+    "0xffe4e3986d18333402564ea64f3a83fcc1907b52:HYPE:LONG": {
+      "trader": "0xffe4e3986d18333402564ea64f3a83fcc1907b52",
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 26.083092466932673,
+      "entry_price": 51.90143775,
+      "leverage": 3,
+      "margin": 451.25,
+      "notional": 1353.75,
+      "opened_at": "2026-05-20T17:55:41.391265+00:00"
+    }
+  },
+  "equity_history": [
+    {
+      "ts": "2026-05-20T17:55:41.391271+00:00",
+      "equity": 9997.860231652558,
+      "cash": 8573.75
+    }
+  ],
+  "last_processed_signal_index": 2
+}
