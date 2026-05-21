@@ -2,6 +2,29 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-05-21
+
+### 12:25 UTC — Daily refresh (Job A)
+- Leaderboard: 36839 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- +added 0x13c50dcd...
+- +added 0x2fcb6898...
+- +added 0x525232cb...
+- -removed 0xffe4e398...
+- -removed 0x23afa6c8...
+- -removed 0xaefcc9ca...
+- #1 0x3dc90837... acc=$30,540,857 month=$1,593,123 edge=1907bps
+- #2 0xe867fbda... acc=$61,918,574 month=$16,850,672 edge=8036bps
+- #3 0x13c50dcd... acc=$55,546,449 month=$14,984,219 edge=21439bps
+- #4 0x2fcb6898... acc=$4,175,130 month=$473,971 edge=211bps
+- #5 0x525232cb... acc=$5,426,657 month=$917,050 edge=1440bps
+- Current positions across the shortlist:
+-   0x3dc90837... 1 positions: SHORT PAXG x10
+-   0xe867fbda... 1 positions: SHORT HYPE x6
+-   0x13c50dcd... no open positions
+-   0x2fcb6898... 35 positions: SHORT BTC x40, SHORT APE x5, SHORT BCH x10, SHORT UNI x10, SHORT ZRO x5, SHORT ORDI x3, SHORT ZEN x5, SHORT FIL x5, SHORT kLUNC x3, SHORT STRK x5, SHORT TNSR x3, SHORT kNEIRO x3, SHORT VIRTUAL x5, SHORT BIO x3, SHORT TRUMP x10, SHORT MELANIA x3, SHORT ANIME x3, SHORT VVV x3, SHORT BERA x5, SHORT IP x3, SHORT INIT x3, SHORT RESOLV x3, SHORT WLFI x5, SHORT AVNT x5, SHORT STBL x3, SHORT 0G x3, SHORT ZEC x10, SHORT MET x3, SHORT ICP x5, SHORT FOGO x3, SHORT LIT x3, SHORT AXS x5, SHORT DASH x5, SHORT AZTEC x3, SHORT CHIP x3
+-   0x525232cb... 2 positions: SHORT BTC x40, SHORT ETH x25
+
 ## 2026-05-20
 
 ### 20:25 UTC — Position poll (Job B)
