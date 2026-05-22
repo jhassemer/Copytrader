@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-22
 
+### 13:39 UTC — Position poll (Job B)
+- 11 signal(s) this poll
+- NEW SHORT BTC (0x99b1098d...)
+- NEW SHORT ETH (0x99b1098d...)
+- NEW LONG SOL (0x99b1098d...)
+- NEW SHORT BNB (0x99b1098d...)
+- NEW LONG SUI (0x99b1098d...)
+- NEW LONG ADA (0x99b1098d...)
+- NEW SHORT HYPE (0x99b1098d...)
+- NEW LONG WLFI (0x99b1098d...)
+- NEW SHORT ZEC (0x99b1098d...)
+- NEW SHORT XMR (0x99b1098d...)
+- NEW LONG CHIP (0xb5e7dee0...)
+- Portfolio equity: $9,393.85 (-6.06%)
+
 ### 11:53 UTC — Daily refresh (Job A)
 - Leaderboard: 37038 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
