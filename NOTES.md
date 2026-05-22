@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-05-22
+
+### 08:03 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW SHORT HYPE (0x525232cb...)
+- Portfolio equity: $9,560.63 (-4.39%)
+
 ## 2026-05-21
 
 ### 12:53 UTC — Position poll (Job B)
