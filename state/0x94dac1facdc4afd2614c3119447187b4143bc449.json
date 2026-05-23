@@ -5,59 +5,59 @@
       "side": "SHORT",
       "size": 570704.0,
       "entry_price": 0.27713,
-      "position_value_usd": 135359.57472,
+      "position_value_usd": 133316.4544,
       "leverage": 3,
-      "unrealized_pnl": 22805.152091,
-      "liquidation_price": 1.3575021908
+      "unrealized_pnl": 24848.272411,
+      "liquidation_price": 1.3894045319
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 801.46,
       "entry_price": 94.251,
-      "position_value_usd": 70406.65808,
+      "position_value_usd": 69653.28568,
       "leverage": 3,
-      "unrealized_pnl": 5131.776695,
-      "liquidation_price": 885.6075333243
+      "unrealized_pnl": 5885.149095,
+      "liquidation_price": 909.9338148439
     },
     {
       "coin": "ZRO",
       "side": "SHORT",
       "size": 194818.3,
       "entry_price": 1.65748,
-      "position_value_usd": 261972.16801,
+      "position_value_usd": 258991.44802,
       "leverage": 3,
-      "unrealized_pnl": 60936.742635,
-      "liquidation_price": 4.4774137942
+      "unrealized_pnl": 63917.462625,
+      "liquidation_price": 4.561331698
     },
     {
       "coin": "TON",
       "side": "SHORT",
-      "size": 41747.4,
+      "size": 40558.1,
       "entry_price": 2.33039,
-      "position_value_usd": 76464.53784,
+      "position_value_usd": 72951.85447,
       "leverage": 3,
-      "unrealized_pnl": 20823.235581,
-      "liquidation_price": 17.1468616828
+      "unrealized_pnl": 21564.384701,
+      "liquidation_price": 18.0623383254
     },
     {
       "coin": "PENDLE",
       "side": "SHORT",
       "size": 52028.0,
       "entry_price": 1.811188,
-      "position_value_usd": 97661.7588,
+      "position_value_usd": 96433.898,
       "leverage": 3,
-      "unrealized_pnl": -3429.236811,
-      "liquidation_price": 13.6075139267
+      "unrealized_pnl": -2201.376011,
+      "liquidation_price": 13.9554343263
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 764.82,
       "entry_price": 55.061,
-      "position_value_usd": 44807.74452,
+      "position_value_usd": 44063.57466,
       "leverage": 3,
-      "unrealized_pnl": 2695.938606,
+      "unrealized_pnl": 1951.768746,
       "liquidation_price": 0.0
     },
     {
@@ -65,19 +65,19 @@
       "side": "SHORT",
       "size": 242406.0,
       "entry_price": 0.55974,
-      "position_value_usd": 125178.4584,
+      "position_value_usd": 123978.5487,
       "leverage": 3,
-      "unrealized_pnl": 10508.19367,
-      "liquidation_price": 2.8902485022
+      "unrealized_pnl": 11708.10337,
+      "liquidation_price": 2.9604819654
     },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 22.33,
       "entry_price": 596.1118,
-      "position_value_usd": 14317.5494,
+      "position_value_usd": 14151.1909,
       "leverage": 3,
-      "unrealized_pnl": 1006.372845,
+      "unrealized_pnl": 840.014345,
       "liquidation_price": 0.0
     },
     {
@@ -85,31 +85,31 @@
       "side": "SHORT",
       "size": 6789967.0,
       "entry_price": 0.031693,
-      "position_value_usd": 175133.618831,
+      "position_value_usd": 173531.186619,
       "leverage": 3,
-      "unrealized_pnl": 40066.415691,
-      "liquidation_price": 0.1156770857
+      "unrealized_pnl": 41668.847903,
+      "liquidation_price": 0.1182878541
     },
     {
       "coin": "LIT",
       "side": "SHORT",
       "size": 152858.0,
       "entry_price": 1.136353,
-      "position_value_usd": 191882.6474,
+      "position_value_usd": 183827.0308,
       "leverage": 3,
-      "unrealized_pnl": -18181.916746,
-      "liquidation_price": 5.2479596958
+      "unrealized_pnl": -10126.300146,
+      "liquidation_price": 5.3217134198
     },
     {
       "coin": "CHIP",
       "side": "SHORT",
       "size": 1094302.0,
       "entry_price": 0.085778,
-      "position_value_usd": 53343.939594,
+      "position_value_usd": 52487.101128,
       "leverage": 3,
-      "unrealized_pnl": 40523.219594,
-      "liquidation_price": 0.5745937224
+      "unrealized_pnl": 41380.05806,
+      "liquidation_price": 0.5904651035
     }
   ],
-  "timestamp_ms": 1779572294352
+  "timestamp_ms": 1779575828701
 }
