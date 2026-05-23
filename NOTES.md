@@ -4,6 +4,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-23
 
+### 11:17 UTC — Position poll (Job B)
+- 12 signal(s) this poll
+- NEW LONG HYPE (0xa6afc461...)
+- NEW SHORT CRV (0x94dac1fa...)
+- NEW SHORT AAVE (0x94dac1fa...)
+- NEW SHORT ZRO (0x94dac1fa...)
+- NEW SHORT TON (0x94dac1fa...)
+- NEW SHORT PENDLE (0x94dac1fa...)
+- NEW LONG HYPE (0x94dac1fa...)
+- NEW SHORT IP (0x94dac1fa...)
+- NEW LONG ZEC (0x94dac1fa...)
+- NEW SHORT MON (0x94dac1fa...)
+- NEW SHORT LIT (0x94dac1fa...)
+- NEW SHORT CHIP (0x94dac1fa...)
+- Portfolio equity: $11,222.02 (+12.22%)
+
 ### 10:42 UTC — Daily refresh (Job A)
 - Leaderboard: 36883 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
