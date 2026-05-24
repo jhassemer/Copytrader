@@ -856,5 +856,18 @@
     "leverage": 40,
     "unrealized_pnl": 1801.0,
     "liquidation_price": 1083421.6475990124
+  },
+  {
+    "ts": "2026-05-24T05:49:17.734581+00:00",
+    "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 100000.0,
+    "entry_price": 60.0028,
+    "position_value_usd": 6117100.0,
+    "leverage": 6,
+    "unrealized_pnl": -116812.05812,
+    "liquidation_price": 94.6941563882
   }
 ]
