@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-25
 
+### 19:57 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW LONG BTC (0x36874c19...)
+- NEW LONG TAO (0x36874c19...)
+- NEW LONG ZEC (0x36874c19...)
+- NEW LONG MON (0x36874c19...)
+- Portfolio equity: $10,257.82 (+2.58%)
+
 ### 12:42 UTC — Daily refresh (Job A)
 - Leaderboard: 37383 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped

@@ -1,4 +1,45 @@
 {
-  "positions": [],
-  "timestamp_ms": 1779732402954
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 25.0,
+      "entry_price": 77429.0,
+      "position_value_usd": 1935025.0,
+      "leverage": 40,
+      "unrealized_pnl": -700.0,
+      "liquidation_price": 72436.1624620557
+    },
+    {
+      "coin": "TAO",
+      "side": "LONG",
+      "size": 700.0,
+      "entry_price": 282.707,
+      "position_value_usd": 198401.0,
+      "leverage": 5,
+      "unrealized_pnl": 506.0,
+      "liquidation_price": 88.8753544159
+    },
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 800.0,
+      "entry_price": 660.3446,
+      "position_value_usd": 526992.0,
+      "leverage": 10,
+      "unrealized_pnl": -1283.7415,
+      "liquidation_price": 497.4644385289
+    },
+    {
+      "coin": "MON",
+      "side": "LONG",
+      "size": 4855006.0,
+      "entry_price": 0.026472,
+      "position_value_usd": 128720.774078,
+      "leverage": 5,
+      "unrealized_pnl": 195.795278,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1779739069511
 }
