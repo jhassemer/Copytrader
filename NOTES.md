@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-05-26
+
+### 18:38 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- CLOSED LONG BTC (0x36874c19...)
+- CLOSED LONG TAO (0x36874c19...)
+- CLOSED LONG MON (0x36874c19...)
+- Portfolio equity: $10,944.70 (+9.45%)
+
 ## 2026-05-25
 
 ### 19:57 UTC — Position poll (Job B)
