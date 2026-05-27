@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-05-27
+
+### 01:37 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED LONG ZEC (0x36874c19...)
+- Portfolio equity: $10,786.21 (+7.86%)
+
 ## 2026-05-26
 
 ### 18:38 UTC — Position poll (Job B)
