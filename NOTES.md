@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-27
 
+### 12:31 UTC — Daily refresh (Job A)
+- Leaderboard: 37474 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- +added 0x99b1098d...
+- +added 0x0f991873...
+- -removed 0x36874c19...
+- -removed 0x7be1cba6...
+- #1 0x99b1098d... acc=$1,511,110 month=$757,973 edge=539bps
+- #2 0xa6afc461... acc=$648,937 month=$154,540 edge=198bps
+- #3 0x13c50dcd... acc=$53,493,673 month=$18,349,223 edge=24314bps
+- #4 0x22edc387... acc=$674,514 month=$201,535 edge=243bps
+- #5 0x0f991873... acc=$18,907,206 month=$7,726,565 edge=13238bps
+- Current positions across the shortlist:
+-   0x99b1098d... 10 positions: SHORT BTC x40, SHORT ETH x25, LONG SOL x20, SHORT BNB x10, LONG SUI x10, LONG ADA x10, SHORT HYPE x10, LONG WLFI x5, SHORT ZEC x10, SHORT XMR x5
+-   0xa6afc461... 1 positions: LONG HYPE x5
+-   0x13c50dcd... no open positions
+-   0x22edc387... no open positions
+-   0x0f991873... no open positions
+
 ### 01:37 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - CLOSED LONG ZEC (0x36874c19...)
