@@ -4,6 +4,30 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-28
 
+### 16:24 UTC — Position poll (Job B)
+- 20 signal(s) this poll
+- NEW LONG BTC (0x5f94a519...)
+- NEW SHORT OP (0x5f94a519...)
+- NEW SHORT CRV (0x5f94a519...)
+- NEW SHORT APT (0x5f94a519...)
+- NEW SHORT AAVE (0x5f94a519...)
+- NEW SHORT DOT (0x5f94a519...)
+- NEW SHORT ADA (0x5f94a519...)
+- NEW LONG NEAR (0x5f94a519...)
+- NEW SHORT STRK (0x5f94a519...)
+- NEW SHORT EIGEN (0x5f94a519...)
+- NEW SHORT MORPHO (0x5f94a519...)
+- NEW SHORT TRUMP (0x5f94a519...)
+- NEW SHORT WLFI (0x5f94a519...)
+- NEW LONG ZEC (0x5f94a519...)
+- NEW SHORT BTC (0xfce053a5...)
+- NEW SHORT ETH (0xfce053a5...)
+- NEW SHORT SOL (0xfeec88b1...)
+- NEW SHORT HYPE (0xfeec88b1...)
+- NEW SHORT BTC (0xa1582a9d...)
+- NEW SHORT HYPE (0xa1582a9d...)
+- Portfolio equity: $12,534.42 (+25.34%)
+
 ### 12:43 UTC — Daily refresh (Job A)
 - Leaderboard: 37197 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

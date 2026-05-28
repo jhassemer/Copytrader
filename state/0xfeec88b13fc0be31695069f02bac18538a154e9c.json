@@ -1,0 +1,25 @@
+{
+  "positions": [
+    {
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 44703.09,
+      "entry_price": 95.281,
+      "position_value_usd": 3652018.93755,
+      "leverage": 7,
+      "unrealized_pnl": 607336.48694,
+      "liquidation_price": 90.5131397729
+    },
+    {
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 1080.59,
+      "entry_price": 48.831,
+      "position_value_usd": 63121.58426,
+      "leverage": 10,
+      "unrealized_pnl": -10355.20832,
+      "liquidation_price": 414.5272593799
+    }
+  ],
+  "timestamp_ms": 1779985469201
+}
