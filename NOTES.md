@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-28
 
+### 19:12 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED LONG BTC (0x5f94a519...)
+- Portfolio equity: $12,328.99 (+23.29%)
+
 ### 16:24 UTC — Position poll (Job B)
 - 20 signal(s) this poll
 - NEW LONG BTC (0x5f94a519...)
