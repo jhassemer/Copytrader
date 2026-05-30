@@ -1,0 +1,115 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 1.97888,
+      "entry_price": 77000.0,
+      "position_value_usd": 145588.18048,
+      "leverage": 40,
+      "unrealized_pnl": -6785.57952,
+      "liquidation_price": 603.1367857231
+    },
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 13.9174,
+      "entry_price": 2107.1,
+      "position_value_usd": 28068.61232,
+      "leverage": 25,
+      "unrealized_pnl": -1256.74122,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SOL",
+      "side": "LONG",
+      "size": 351.98,
+      "entry_price": 84.201,
+      "position_value_usd": 28975.34558,
+      "leverage": 20,
+      "unrealized_pnl": -661.7224,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "DOGE",
+      "side": "LONG",
+      "size": 184245.0,
+      "entry_price": 0.114329,
+      "position_value_usd": 18571.896,
+      "leverage": 10,
+      "unrealized_pnl": -2492.788175,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SUI",
+      "side": "LONG",
+      "size": 10125.3,
+      "entry_price": 1.0571,
+      "position_value_usd": 9087.963015,
+      "leverage": 10,
+      "unrealized_pnl": -1615.491615,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "TON",
+      "side": "LONG",
+      "size": 607.1,
+      "entry_price": 2.81125,
+      "position_value_usd": 1067.46393,
+      "leverage": 10,
+      "unrealized_pnl": -639.24965,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "JTO",
+      "side": "LONG",
+      "size": 18746.0,
+      "entry_price": 0.53342,
+      "position_value_usd": 10304.48874,
+      "leverage": 5,
+      "unrealized_pnl": 304.99742,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 46.81,
+      "entry_price": 54.5282,
+      "position_value_usd": 3165.71349,
+      "leverage": 10,
+      "unrealized_pnl": 613.24749,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "PENGU",
+      "side": "LONG",
+      "size": 96369.0,
+      "entry_price": 0.010467,
+      "position_value_usd": 775.481343,
+      "leverage": 5,
+      "unrealized_pnl": -233.254786,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SPX",
+      "side": "LONG",
+      "size": 114.4,
+      "entry_price": 0.4438,
+      "position_value_usd": 37.82636,
+      "leverage": 5,
+      "unrealized_pnl": -12.945287,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 26.48,
+      "entry_price": 528.1166,
+      "position_value_usd": 13897.4984,
+      "leverage": 5,
+      "unrealized_pnl": -87.0317,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1780141716717
+}

@@ -4,6 +4,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-05-30
 
+### 11:48 UTC — Position poll (Job B)
+- 12 signal(s) this poll
+- NEW LONG BTC (0x13640f45...)
+- NEW LONG ETH (0x13640f45...)
+- NEW LONG SOL (0x13640f45...)
+- NEW LONG DOGE (0x13640f45...)
+- NEW LONG SUI (0x13640f45...)
+- NEW LONG TON (0x13640f45...)
+- NEW LONG JTO (0x13640f45...)
+- NEW LONG HYPE (0x13640f45...)
+- NEW LONG PENGU (0x13640f45...)
+- NEW LONG SPX (0x13640f45...)
+- NEW LONG ZEC (0x13640f45...)
+- NEW LONG HYPE (0xe7ec7fbf...)
+- Portfolio equity: $12,156.20 (+21.56%)
+
 ### 10:52 UTC — Daily refresh (Job A)
 - Leaderboard: 37859 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
