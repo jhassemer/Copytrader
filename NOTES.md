@@ -2,6 +2,27 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-05-31
+
+### 11:05 UTC — Daily refresh (Job A)
+- Leaderboard: 37913 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- +added 0x9137bd93...
+- +added 0x8af700ba...
+- -removed 0x13640f45...
+- -removed 0x44ca55a6...
+- #1 0x9137bd93... acc=$16,311,824 month=$1,207,735 edge=800bps
+- #2 0xefba0f56... acc=$9,575,517 month=$2,404,952 edge=1156bps
+- #3 0x13c50dcd... acc=$43,291,106 month=$24,211,559 edge=30978bps
+- #4 0xe7ec7fbf... acc=$9,901,175 month=$3,318,009 edge=619bps
+- #5 0x8af700ba... acc=$24,220,909 month=$6,431,216 edge=6142bps
+- Current positions across the shortlist:
+-   0x9137bd93... no open positions
+-   0xefba0f56... no open positions
+-   0x13c50dcd... no open positions
+-   0xe7ec7fbf... 1 positions: LONG HYPE x3
+-   0x8af700ba... 23 positions: LONG BTC x40, SHORT ETH x25, SHORT AVAX x10, LONG DOGE x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT APT x10, LONG AAVE x10, SHORT kSHIB x10, SHORT DOT x10, SHORT ADA x10, SHORT TON x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, LONG HYPE x3, LONG PUMP x5, LONG ZEC x5
+
 ## 2026-05-30
 
 ### 11:48 UTC — Position poll (Job B)
