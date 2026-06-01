@@ -4,6 +4,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-01
 
+### 18:22 UTC — Position poll (Job B)
+- 6 signal(s) this poll
+- NEW LONG LDO (0x6555e1cc...)
+- NEW LONG TON (0x6555e1cc...)
+- NEW LONG ONDO (0x6555e1cc...)
+- NEW LONG ENA (0x6555e1cc...)
+- NEW LONG WLFI (0x6555e1cc...)
+- NEW LONG STBL (0x6555e1cc...)
+- Portfolio equity: $11,906.42 (+19.06%)
+
 ### 15:32 UTC — Daily refresh (Job A)
 - Leaderboard: 38118 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped

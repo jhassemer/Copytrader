@@ -1,5 +1,5 @@
 {
-  "cash": 64.09354936315083,
+  "cash": 47.114648378225304,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -1288,6 +1288,72 @@
       "margin": 3.3733447033237276,
       "notional": 10.120034109971183,
       "opened_at": "2026-05-31T11:18:08.401428+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:LDO:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "LDO",
+      "side": "LONG",
+      "size": 9.714827970617954,
+      "entry_price": 0.32987485499999997,
+      "leverage": 1,
+      "margin": 3.2046774681575414,
+      "notional": 3.2046774681575414,
+      "opened_at": "2026-06-01T18:22:07.825979+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:TON:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "TON",
+      "side": "LONG",
+      "size": 1.3868025401890545,
+      "entry_price": 2.1952971,
+      "leverage": 1,
+      "margin": 3.0444435947496644,
+      "notional": 3.0444435947496644,
+      "opened_at": "2026-06-01T18:22:07.826001+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:ONDO:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "ONDO",
+      "side": "LONG",
+      "size": 8.112409572314874,
+      "entry_price": 0.35651816999999997,
+      "leverage": 1,
+      "margin": 2.892221415012181,
+      "notional": 2.892221415012181,
+      "opened_at": "2026-06-01T18:22:07.826007+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:ENA:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "ENA",
+      "side": "LONG",
+      "size": 30.866655715331376,
+      "entry_price": 0.08901548549999999,
+      "leverage": 1,
+      "margin": 2.747610344261572,
+      "notional": 2.747610344261572,
+      "opened_at": "2026-06-01T18:22:07.826012+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:WLFI:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "WLFI",
+      "side": "LONG",
+      "size": 43.40179608335098,
+      "entry_price": 0.06014105549999999,
+      "leverage": 1,
+      "margin": 2.6102298270484936,
+      "notional": 2.6102298270484936,
+      "opened_at": "2026-06-01T18:22:07.826016+00:00"
+    },
+    "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8:STBL:LONG": {
+      "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "coin": "STBL",
+      "side": "LONG",
+      "size": 71.44238141784834,
+      "entry_price": 0.034709346,
+      "leverage": 1,
+      "margin": 2.479718335696069,
+      "notional": 2.479718335696069,
+      "opened_at": "2026-06-01T18:22:07.826019+00:00"
     }
   },
   "equity_history": [
@@ -1935,7 +2001,12 @@
       "ts": "2026-06-01T12:20:37.025213+00:00",
       "equity": 12454.90160073283,
       "cash": 64.09354936315083
+    },
+    {
+      "ts": "2026-06-01T18:22:07.826088+00:00",
+      "equity": 11906.416448312697,
+      "cash": 47.114648378225304
     }
   ],
-  "last_processed_signal_index": 130
+  "last_processed_signal_index": 136
 }

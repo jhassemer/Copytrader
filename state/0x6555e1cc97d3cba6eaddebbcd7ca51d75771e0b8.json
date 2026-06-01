@@ -1,0 +1,65 @@
+{
+  "positions": [
+    {
+      "coin": "LDO",
+      "side": "LONG",
+      "size": 1759490.8,
+      "entry_price": 0.99916,
+      "position_value_usd": 579840.19314,
+      "leverage": 1,
+      "unrealized_pnl": -1178182.569686,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "TON",
+      "side": "LONG",
+      "size": 1447915.9,
+      "entry_price": 3.44284,
+      "position_value_usd": 3175858.73506,
+      "leverage": 1,
+      "unrealized_pnl": -1809095.286137,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ONDO",
+      "side": "LONG",
+      "size": 1745500.0,
+      "entry_price": 0.992029,
+      "position_value_usd": 621956.56,
+      "leverage": 1,
+      "unrealized_pnl": -1109631.680749,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ENA",
+      "side": "LONG",
+      "size": 5431981.0,
+      "entry_price": 0.57887,
+      "position_value_usd": 483163.845988,
+      "leverage": 1,
+      "unrealized_pnl": -2661249.335512,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "WLFI",
+      "side": "LONG",
+      "size": 5929745.0,
+      "entry_price": 0.195226,
+      "position_value_usd": 356448.83144,
+      "leverage": 1,
+      "unrealized_pnl": -801197.28132,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "STBL",
+      "side": "LONG",
+      "size": 1915072.0,
+      "entry_price": 0.165307,
+      "position_value_usd": 66414.69696,
+      "leverage": 1,
+      "unrealized_pnl": -250160.47283,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1780338127288
+}
