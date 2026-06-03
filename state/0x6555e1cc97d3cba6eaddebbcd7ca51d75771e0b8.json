@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 1759490.8,
       "entry_price": 0.99916,
-      "position_value_usd": 523043.830116,
+      "position_value_usd": 527583.31638,
       "leverage": 1,
-      "unrealized_pnl": -1234978.93271,
+      "unrealized_pnl": -1230439.446446,
       "liquidation_price": 0.0
     },
     {
@@ -15,9 +15,9 @@
       "side": "LONG",
       "size": 1447915.9,
       "entry_price": 3.44284,
-      "position_value_usd": 2797663.10198,
+      "position_value_usd": 2768415.2008,
       "leverage": 1,
-      "unrealized_pnl": -2187290.919217,
+      "unrealized_pnl": -2216538.820397,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 1745500.0,
       "entry_price": 0.992029,
-      "position_value_usd": 736827.915,
+      "position_value_usd": 736793.005,
       "leverage": 1,
-      "unrealized_pnl": -994760.325749,
+      "unrealized_pnl": -994795.235749,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 5431981.0,
       "entry_price": 0.57887,
-      "position_value_usd": 605991.80036,
+      "position_value_usd": 619300.15381,
       "leverage": 1,
-      "unrealized_pnl": -2538421.38114,
+      "unrealized_pnl": -2525113.02769,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 5929745.0,
       "entry_price": 0.195226,
-      "position_value_usd": 368415.05685,
+      "position_value_usd": 375026.722525,
       "leverage": 1,
-      "unrealized_pnl": -789231.05591,
+      "unrealized_pnl": -782619.390235,
       "liquidation_price": 0.0
     },
     {
@@ -55,11 +55,11 @@
       "side": "LONG",
       "size": 1915072.0,
       "entry_price": 0.165307,
-      "position_value_usd": 59309.77984,
+      "position_value_usd": 59355.741568,
       "leverage": 1,
-      "unrealized_pnl": -257265.38995,
+      "unrealized_pnl": -257219.428222,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1780518959429
+  "timestamp_ms": 1780527128762
 }
