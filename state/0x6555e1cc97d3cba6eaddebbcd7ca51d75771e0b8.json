@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 1759490.8,
       "entry_price": 0.99916,
-      "position_value_usd": 527583.31638,
+      "position_value_usd": 518486.748944,
       "leverage": 1,
-      "unrealized_pnl": -1230439.446446,
+      "unrealized_pnl": -1239536.013882,
       "liquidation_price": 0.0
     },
     {
@@ -15,9 +15,9 @@
       "side": "LONG",
       "size": 1447915.9,
       "entry_price": 3.44284,
-      "position_value_usd": 2768415.2008,
+      "position_value_usd": 2722371.47518,
       "leverage": 1,
-      "unrealized_pnl": -2216538.820397,
+      "unrealized_pnl": -2262582.546017,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 1745500.0,
       "entry_price": 0.992029,
-      "position_value_usd": 736793.005,
+      "position_value_usd": 728205.145,
       "leverage": 1,
-      "unrealized_pnl": -994795.235749,
+      "unrealized_pnl": -1003383.095749,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 5431981.0,
       "entry_price": 0.57887,
-      "position_value_usd": 619300.15381,
+      "position_value_usd": 602406.6929,
       "leverage": 1,
-      "unrealized_pnl": -2525113.02769,
+      "unrealized_pnl": -2542006.4886,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 5929745.0,
       "entry_price": 0.195226,
-      "position_value_usd": 375026.722525,
+      "position_value_usd": 373573.935,
       "leverage": 1,
-      "unrealized_pnl": -782619.390235,
+      "unrealized_pnl": -784072.17776,
       "liquidation_price": 0.0
     },
     {
@@ -55,11 +55,11 @@
       "side": "LONG",
       "size": 1915072.0,
       "entry_price": 0.165307,
-      "position_value_usd": 59355.741568,
+      "position_value_usd": 58763.98432,
       "leverage": 1,
-      "unrealized_pnl": -257219.428222,
+      "unrealized_pnl": -257811.18547,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1780527128762
+  "timestamp_ms": 1780532894687
 }
