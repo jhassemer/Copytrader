@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 100.0,
+      "entry_price": 2378.95,
+      "position_value_usd": 175130.0,
+      "leverage": 25,
+      "unrealized_pnl": 62765.359315,
+      "liquidation_price": 3318.6120484118
+    }
+  ],
+  "timestamp_ms": 1780575734231
+}

@@ -3,23 +3,23 @@
     {
       "coin": "SOL",
       "side": "SHORT",
-      "size": 44703.09,
-      "entry_price": 95.281,
-      "position_value_usd": 3646475.75439,
+      "size": 45758.09,
+      "entry_price": 94.8523,
+      "position_value_usd": 3137311.92467,
       "leverage": 7,
-      "unrealized_pnl": 612879.6701,
-      "liquidation_price": 92.6269728165
+      "unrealized_pnl": 1202951.503117,
+      "liquidation_price": 80.0483262339
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
-      "size": 1080.59,
-      "entry_price": 48.831,
-      "position_value_usd": 66909.05221,
+      "size": 1926.33,
+      "entry_price": 58.7938,
+      "position_value_usd": 128638.39107,
       "leverage": 10,
-      "unrealized_pnl": -14142.67627,
-      "liquidation_price": 508.4052903815
+      "unrealized_pnl": -15382.032662,
+      "liquidation_price": 333.1059415968
     }
   ],
-  "timestamp_ms": 1780055600987
+  "timestamp_ms": 1780575734432
 }
