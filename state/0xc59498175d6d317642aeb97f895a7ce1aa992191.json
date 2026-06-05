@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 8766.63,
+      "entry_price": 627.1411,
+      "position_value_usd": 2800587.6198,
+      "leverage": 3,
+      "unrealized_pnl": 2697326.5363,
+      "liquidation_price": 797.1424122129
+    }
+  ],
+  "timestamp_ms": 1780666723145
+}
