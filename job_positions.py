@@ -61,14 +61,28 @@ def main() -> int:
     try:
         with ACTIVE_WALLETS.open() as f:
             shortlist = json.load(f).get("top_traders", [])
-        log(f"Polling {len(shortlist)} traders")
+        active_addrs = {t["address"] for t in shortlist}
+
+        # Follow-to-exit: also poll any trader we still hold open paper
+        # positions for, even if they've dropped off the shortlist, so their
+        # positions get a CLOSED signal when the trader actually exits.
+        # Without this, dropped traders' positions never close and leak forever.
+        held_addrs = {
+            pos["trader"]
+            for pos in paper_engine.load_portfolio().get("open_positions", {}).values()
+        }
+        follow_only = held_addrs - active_addrs
+        poll_addrs = sorted(active_addrs | held_addrs)
+        log(
+            f"Polling {len(poll_addrs)} traders "
+            f"({len(active_addrs)} shortlisted, {len(follow_only)} follow-to-exit)"
+        )
 
         signals = _load_signals()
         ts = datetime.now(timezone.utc).isoformat()
         new_count = 0
 
-        for t in shortlist:
-            addr = t["address"]
+        for addr in poll_addrs:
             try:
                 curr = fetch_positions.get_open_positions(addr)
             except Exception as e:
@@ -84,9 +98,12 @@ def main() -> int:
             opened = [curr_map[k] for k in curr_map if k not in prior_map]
             closed = [prior_map[k] for k in prior_map if k not in curr_map]
 
-            for p in opened:
-                signals.append({"ts": ts, "trader": addr, "type": "NEW", **p})
-                new_count += 1
+            # Only open new copies from traders on the current shortlist;
+            # for follow-to-exit traders we manage existing positions only.
+            if addr in active_addrs:
+                for p in opened:
+                    signals.append({"ts": ts, "trader": addr, "type": "NEW", **p})
+                    new_count += 1
             for p in closed:
                 signals.append({"ts": ts, "trader": addr, "type": "CLOSED", **p})
                 new_count += 1
