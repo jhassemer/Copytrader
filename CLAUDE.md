@@ -220,6 +220,9 @@ Take the top 5 by score.
 | Position sizing mismatch | Not the trader's notional — **5 % of our portfolio** per signal |
 | Leverage mismatch | Even if trader runs 20×, we cap at **3×** |
 | ROI data noisy | Use edge\_bps |
+| Dropped trader leaks positions | **Follow-to-exit**: keep polling any trader we still hold positions for, even after they leave the shortlist, so every held position gets a CLOSED signal |
+| Unbounded loss per trade | **Stop-loss** at 50 % of margin (`STOP_LOSS_PCT`) — we set our own even if the trader didn't |
+| Over-concentration / over-leverage | **Exposure caps**: gross notional ≤ 2× equity, per-coin ≤ 25 % equity, ≤ 40 open positions |
 
 ## Paper Trading First
 
@@ -391,29 +394,42 @@ SLIPPAGE\_BPS  \= 5
 
 MAX\_LEVERAGE  \= 3
 
+\# Risk controls — we set our own stops/caps even when the trader doesn't.
+
+STOP\_LOSS\_PCT       \= 0.50    \# close a position once unrealized loss \>= 50% of its margin
+
+MAX\_GROSS\_EXPOSURE  \= 2.0     \# total open notional capped at 2x current equity
+
+MAX\_COIN\_EXPOSURE   \= 0.25    \# per-coin open notional capped at 25% of current equity
+
+MAX\_OPEN\_POSITIONS  \= 40      \# hard cap on concurrent open positions
+
 - `get_mark_prices() -> dict[str, float]`: POST `{"type":"allMids"}` → `{coin: float(px)}`.  
 - `load_portfolio()`: read `portfolio.json` or default to `{"cash": STARTING_CASH, "starting_cash": STARTING_CASH, "open_positions": {}, "equity_history": [], "last_processed_signal_index": -1}`.  
 - Position key: `f"{trader}:{coin}:{side}"`.  
 - Slippage: `LONG` fills at `mid * (1 + 5/10000)`, `SHORT` fills at `mid * (1 - 5/10000)`. Closing reverses the side.  
-- `open_position(portfolio, signal, mark)`:  
+- `open_position(portfolio, signal, mark, marks)`:  
   - `leverage = min(int(signal.get("leverage", 1)), MAX_LEVERAGE)`  
   - `notional = cash * POSITION_PCT * leverage`  
   - `margin = notional / leverage`  
   - Skip if `margin > cash`.  
+  - **Risk caps** (skip the open if any breach, using current `marks` to value equity/exposure): skip if `len(open_positions) >= MAX_OPEN_POSITIONS`; skip if `gross_notional + notional > MAX_GROSS_EXPOSURE * equity`; skip if `coin_notional + notional > MAX_COIN_EXPOSURE * equity`.  
   - `fill_price = apply_slippage(mark, side)`, `size = notional / fill_price`.  
   - Add to `open_positions`, deduct `margin` from `cash`.  
 - `close_position(portfolio, signal, mark)`:  
   - Find by key, pop. `exit_price = apply_slippage(mark, opposite_side)`.  
   - `pnl = (exit - entry) * size` for LONG, `(entry - exit) * size` for SHORT.  
-  - `cash += margin + pnl`. Append to `paper_trades.json` with `exit_price`, `closed_at`, `pnl`, `pnl_pct`.  
+  - `cash += margin + pnl`. Append to `paper_trades.json` with `exit_price`, `closed_at`, `pnl`, `pnl_pct`, `close_reason` (`"signal"` or `"stop_loss"`).  
+- `apply_stop_losses(portfolio, marks) -> list`: close any position whose unrealized loss has breached `STOP_LOSS_PCT` of its margin (`close_reason="stop_loss"`); returns the list of closed keys.  
 - `apply_new_signals()`:  
   - Read `signals.json`. Slice from `last_processed_signal_index + 1`.  
   - For each new signal, look up mark price; skip if missing.  
   - `NEW` → `open_position`, `CLOSED` → `close_position`.  
+  - Run `apply_stop_losses()` over all open positions (stops fire on price moves alone, with zero signals) and store the closed keys in `portfolio["last_stopped"]`.  
   - Update `last_processed_signal_index = len(signals) - 1`.  
   - Append `{ts, equity, cash}` snapshot to `equity_history` (equity \= cash \+ margin \+ unrealized for each open).  
   - Save portfolio.  
-- CLI: `python paper_engine.py summary` prints current state.
+- CLI: `python paper_engine.py summary` prints current state (incl. gross exposure vs cap).
 
 ### `notes.py`
 
@@ -456,14 +472,15 @@ Then per-day sections:
 - Log to `logs/job_positions.log`.  
 - Position key for diff: `f"{coin}:{side}"`.  
 - **Bootstrap behavior**: if `active_wallets.json` doesn't exist, log "active\_wallets.json missing — Job A hasn't run yet, skipping" and **return 0** (NOT 1). Otherwise positions runs would alert-spam before the first daily.  
-- For each trader in shortlist:  
+- **Poll set (follow-to-exit)**: poll the current shortlist **plus any trader we still hold open paper positions for** (`{pos["trader"] for pos in portfolio.open_positions}`). Without this, a trader dropped by the daily refresh is never polled again, so their positions never get a CLOSED signal and leak open forever.  
+- For each trader in the poll set:  
   - `get_open_positions(addr)` → compare to `state/<addr>.json`'s prior `positions`.  
   - `opened = curr - prev`, `closed = prev - curr` by coin:side.  
-  - For each opened: append `{ts, trader, type:"NEW", **p}` to `signals.json`.  
-  - For each closed: append `{ts, trader, type:"CLOSED", **p}` to `signals.json`.  
+  - For each opened: append `{ts, trader, type:"NEW", **p}` to `signals.json` — **only if the trader is on the current shortlist** (we don't open fresh copies from dropped traders).  
+  - For each closed: append `{ts, trader, type:"CLOSED", **p}` to `signals.json` (for any polled trader, so held positions are followed to their real exit).  
   - Save current snapshot to `state/<addr>.json`.  
 - After polling: call `paper_engine.apply_new_signals()`.  
-- If any signals were generated, append a NOTES.md entry titled "Position poll (Job B)" with: count, one bullet per NEW/CLOSED, and current portfolio equity/PnL%.
+- If any signals were generated **or any stop-losses fired** (`portfolio["last_stopped"]`), append a NOTES.md entry titled "Position poll (Job B)" with: count, one bullet per NEW/CLOSED, one bullet per stop-loss close, and current portfolio equity/PnL%.
 
 ### `daily_report.py`
 
@@ -830,7 +847,7 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - [ ] Subaccount aggregation (resolve the `accountValue` mismatch)  
 - [ ] Confluence scoring (≥2 traders, same coin, same side → strong signal)  
 - [ ] Tie position sizing to the trader's notional/account\_value ratio  
-- [ ] Stop-loss automation (we set one if the trader didn't)  
+- [x] Stop-loss automation (we set one if the trader didn't) — `STOP_LOSS_PCT = 0.50` of margin, swept every poll  
 - [ ] Daily PnL chart / Streamlit dashboard from `equity_history`  
 - [ ] Collect 2 weeks of paper data, then:  
       - Win rate, average R:R, max drawdown  
@@ -851,5 +868,7 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - **2026-05-18:** Added the Quickstart protocol \+ Implementation Details section in English so a fresh Claude Code session reading this file can rebuild the entire project after asking the user for a repo, a PAT and a Slack webhook URL.  
 - **2026-05-19:** The 22-hour silent bug — `copytrade-positions` polled fine but never committed state. Root cause: `git add a b c d e` aborts entirely (exit 128\) if any one pathspec is missing, and `paper_trades.json` doesn't exist until the first trade closes. Fixed by staging each path in a loop. Also: `if: always()` on the commit step, broadened paper\_engine except, and `git pull --rebase -X theirs` to auto-resolve state-file conflicts between near-simultaneous runs.  
 - **2026-05-19:** GitHub Actions cron confirmed unreliable — \~80 % of scheduled runs dropped. Moved the real scheduling to **cron-job.org** (free external scheduler) hitting the `workflow_dispatch` API. Workflows keep `schedule:` blocks as fallback. Positions cadence raised to every 5 min (GitHub cron minimum), report to every 30 min for the launch period.  
-- **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal \+ closed trade with humanised age) so the reader can tell how fresh the data is at a glance.
+- **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal \+ closed trade with humanised age) so the reader can tell how fresh the data is at a glance.  
+- **2026-06-06:** Position leak fixed (go-live prep, step 1). Job B only ever polled the current top-5, so when the daily refresh dropped a trader their open positions never got a CLOSED signal — leaked to 176 open positions / 25 traders (22 dropped) and drained cash to \~$3. Switched to **follow-to-exit**: poll the shortlist plus any trader we still hold positions for; emit NEW only for shortlisted traders, CLOSED for any polled trader. Self-heals the backlog as dropped traders re-enter the poll set.  
+- **2026-06-06:** Risk controls added to `paper_engine.py` (go-live prep, step 2) so paper behavior matches live: **stop-loss** at 50 % of margin swept every poll (`STOP_LOSS_PCT`), **gross exposure** ≤ 2× equity (`MAX_GROSS_EXPOSURE`), **per-coin exposure** ≤ 25 % equity (`MAX_COIN_EXPOSURE`), **≤ 40 open positions** (`MAX_OPEN_POSITIONS`). Closed trades now carry a `close_reason` (`signal`/`stop_loss`).
 

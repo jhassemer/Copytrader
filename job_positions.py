@@ -121,15 +121,22 @@ def main() -> int:
 
         portfolio = paper_engine.apply_new_signals()
 
-        if new_count:
+        # Stop-losses can fire on price moves alone, with zero new signals.
+        stopped = portfolio.get("last_stopped", [])
+        if stopped:
+            log(f"{len(stopped)} position(s) stopped out: {', '.join(stopped)}")
+
+        if new_count or stopped:
             history = portfolio.get("equity_history", [])
             equity = history[-1]["equity"] if history else portfolio["cash"]
             start = portfolio["starting_cash"]
             pnl_pct = (equity - start) / start * 100 if start else 0.0
 
             lines = [f"{new_count} signal(s) this poll"]
-            for s in signals[-new_count:]:
+            for s in (signals[-new_count:] if new_count else []):
                 lines.append(f"{s['type']} {s['side']} {s['coin']} ({_short(s['trader'])})")
+            for key in stopped:
+                lines.append(f"STOP-LOSS closed {key}")
             lines.append(f"Portfolio equity: ${equity:,.2f} ({pnl_pct:+.2f}%)")
             notes.append_entry("Position poll (Job B)", lines)
 
