@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-07
 
+### 12:19 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- NEW SHORT ETH (0x0e0bf22e...)
+- NEW SHORT SOL (0x0e0bf22e...)
+- Portfolio equity: $15,970.44 (+59.70%)
+
 ### 11:15 UTC — Daily refresh (Job A)
 - Leaderboard: 38029 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
