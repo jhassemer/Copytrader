@@ -1,5 +1,5 @@
 {
-  "cash": 2.8051380887446147,
+  "cash": 13.423130287908254,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -826,17 +826,6 @@
       "margin": 25.50950038176914,
       "notional": 76.52850114530742,
       "opened_at": "2026-05-28T16:24:29.957824+00:00"
-    },
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:ZEC:LONG": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 0.13393742932056704,
-      "entry_price": 542.8062675,
-      "leverage": 3,
-      "margin": 24.234025362680683,
-      "notional": 72.70207608804205,
-      "opened_at": "2026-05-28T16:24:29.957827+00:00"
     },
     "0xfce053a5e461683454bf37ad66d20344c0e3f4c0:BTC:SHORT": {
       "trader": "0xfce053a5e461683454bf37ad66d20344c0e3f4c0",
@@ -1959,6 +1948,17 @@
       "margin": 0.14763884677603237,
       "notional": 0.44291654032809713,
       "opened_at": "2026-06-07T12:19:32.384405+00:00"
+    },
+    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:HYPE:SHORT": {
+      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.006521431121684324,
+      "entry_price": 64.52122325,
+      "leverage": 3,
+      "margin": 0.14025690443723074,
+      "notional": 0.42077071331169225,
+      "opened_at": "2026-06-08T16:14:20.855996+00:00"
     }
   },
   "equity_history": [
@@ -2926,7 +2926,12 @@
       "ts": "2026-06-08T12:01:42.350447+00:00",
       "equity": 15495.30085680654,
       "cash": 2.8051380887446147
+    },
+    {
+      "ts": "2026-06-08T16:14:20.856722+00:00",
+      "equity": 15259.908671051535,
+      "cash": 13.423130287908254
     }
   ],
-  "last_processed_signal_index": 191
+  "last_processed_signal_index": 193
 }

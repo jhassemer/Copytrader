@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-08
 
+### 16:14 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- NEW SHORT HYPE (0x5f94a519...)
+- CLOSED LONG ZEC (0x5f94a519...)
+- Portfolio equity: $15,259.91 (+52.60%)
+
 ### 13:15 UTC — Daily refresh (Job A)
 - Leaderboard: 38246 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
