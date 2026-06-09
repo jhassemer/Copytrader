@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 13.94034,
+      "entry_price": 71815.2,
+      "position_value_usd": 868859.57118,
+      "leverage": 40,
+      "unrealized_pnl": 132269.895648,
+      "liquidation_price": 68213.8308026814
+    }
+  ],
+  "timestamp_ms": 1781013677573
+}
