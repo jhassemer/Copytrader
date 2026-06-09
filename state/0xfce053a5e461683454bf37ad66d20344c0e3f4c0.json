@@ -5,21 +5,21 @@
       "side": "SHORT",
       "size": 50.0,
       "entry_price": 80801.5,
-      "position_value_usd": 3139400.0,
+      "position_value_usd": 3158800.0,
       "leverage": 20,
-      "unrealized_pnl": 900678.550438,
-      "liquidation_price": 107948.8184904296
+      "unrealized_pnl": 881278.550438,
+      "liquidation_price": 107636.2670700247
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1236.5004,
       "entry_price": 3238.95,
-      "position_value_usd": 2060627.9166,
+      "position_value_usd": 2076331.47168,
       "leverage": 20,
-      "unrealized_pnl": 1944337.808831,
-      "liquidation_price": 3479.2270176616
+      "unrealized_pnl": 1928634.253751,
+      "liquidation_price": 3463.8073216619
     }
   ],
-  "timestamp_ms": 1780977688120
+  "timestamp_ms": 1780991928267
 }
