@@ -5,31 +5,31 @@
       "side": "SHORT",
       "size": 739269.6,
       "entry_price": 2.27113,
-      "position_value_usd": 1448081.29248,
+      "position_value_usd": 1479648.1044,
       "leverage": 10,
-      "unrealized_pnl": 230898.04619,
-      "liquidation_price": 2.8554362732
+      "unrealized_pnl": 199331.23427,
+      "liquidation_price": 2.8357151634
     },
     {
       "coin": "PAXG",
       "side": "SHORT",
-      "size": 61.227,
-      "entry_price": 4113.329,
-      "position_value_usd": 247816.2825,
+      "size": 88.64,
+      "entry_price": 4097.14,
+      "position_value_usd": 364141.984,
       "leverage": 10,
-      "unrealized_pnl": 4030.5713,
-      "liquidation_price": 14873.7031295406
+      "unrealized_pnl": -971.4739,
+      "liquidation_price": 11065.567398369
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 1599.78,
       "entry_price": 458.7635,
-      "position_value_usd": 647910.9,
+      "position_value_usd": 667540.2006,
       "leverage": 10,
-      "unrealized_pnl": 86009.78035,
-      "liquidation_price": 819.3419338986
+      "unrealized_pnl": 66380.47975,
+      "liquidation_price": 802.7666996658
     }
   ],
-  "timestamp_ms": 1781132397386
+  "timestamp_ms": 1781141607694
 }
