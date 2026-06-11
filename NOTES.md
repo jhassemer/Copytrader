@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-11
 
+### 14:54 UTC — Position poll (Job B)
+- 13 signal(s) this poll
+- NEW LONG BTC (0xb83de012...)
+- NEW LONG ETH (0xb83de012...)
+- NEW SHORT SOL (0xb83de012...)
+- NEW SHORT AVAX (0xb83de012...)
+- NEW SHORT APE (0xb83de012...)
+- NEW SHORT DOGE (0xb83de012...)
+- NEW SHORT LINK (0xb83de012...)
+- NEW LONG XRP (0xb83de012...)
+- NEW SHORT HYPE (0xb83de012...)
+- NEW SHORT FARTCOIN (0xb83de012...)
+- NEW SHORT XPL (0xb83de012...)
+- NEW LONG ASTER (0xb83de012...)
+- NEW SHORT VVV (0xd8761765...)
+- Portfolio equity: $15,604.33 (+56.04%)
+
 ### 12:53 UTC — Daily refresh (Job A)
 - Leaderboard: 38359 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
