@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-11
 
+### 12:53 UTC — Daily refresh (Job A)
+- Leaderboard: 38359 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- +added 0xb83de012...
+- +added 0x005844b2...
+- +added 0xd8761765...
+- -removed 0x781e95fd...
+- -removed 0x25dacd8a...
+- -removed 0x7ee6b077...
+- #1 0x7dacca32... acc=$33,990,464 month=$7,400,053 edge=9703bps
+- #2 0xbe195419... acc=$5,330,730 month=$1,508,199 edge=1710bps
+- #3 0xb83de012... acc=$75,401,919 month=$15,504,276 edge=970bps
+- #4 0x005844b2... acc=$7,355,611 month=$1,822,261 edge=1467bps
+- #5 0xd8761765... acc=$349,843 month=$829,554 edge=835bps
+- Current positions across the shortlist:
+-   0x7dacca32... 1 positions: SHORT HYPE x10
+-   0xbe195419... 9 positions: LONG BTC x20, SHORT SOL x20, SHORT ENA x10, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT WLFI x5, SHORT ASTER x3, SHORT MEGA x3, SHORT CHIP x3
+-   0xb83de012... 12 positions: LONG BTC x5, LONG ETH x10, SHORT SOL x4, SHORT AVAX x10, SHORT APE x5, SHORT DOGE x10, SHORT LINK x10, LONG XRP x5, SHORT HYPE x5, SHORT FARTCOIN x10, SHORT XPL x5, LONG ASTER x3
+-   0x005844b2... no open positions
+-   0xd8761765... 1 positions: SHORT VVV x3
+
 ### 06:22 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - NEW LONG STABLE (0x7ee6b077...)
