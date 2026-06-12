@@ -3,13 +3,13 @@
     {
       "coin": "SEI",
       "side": "LONG",
-      "size": 1946773.0,
+      "size": 1625000.0,
       "entry_price": 0.05214,
-      "position_value_usd": 100087.493476,
+      "position_value_usd": 84404.125,
       "leverage": 3,
-      "unrealized_pnl": -1419.104798,
+      "unrealized_pnl": -324.922601,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1781287152547
+  "timestamp_ms": 1781295701474
 }
