@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-12
+
+### 12:28 UTC — Daily refresh (Job A)
+- Leaderboard: 38658 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x6555e1cc...
+- +added 0x4c6d679e...
+- +added 0xd2b2a8ab...
+- +added 0x29a38c88...
+- -removed 0xbe195419...
+- -removed 0xb83de012...
+- -removed 0x005844b2...
+- -removed 0xd8761765...
+- #1 0x7dacca32... acc=$34,709,775 month=$8,862,178 edge=11621bps
+- #2 0x6555e1cc... acc=$28,204,162 month=$6,596,228 edge=10512bps
+- #3 0x4c6d679e... acc=$18,408,777 month=$2,784,352 edge=411bps
+- #4 0xd2b2a8ab... acc=$5,983,320 month=$1,636,160 edge=3122bps
+- #5 0x29a38c88... acc=$1,012,334 month=$55,627 edge=77bps
+- Current positions across the shortlist:
+-   0x7dacca32... 1 positions: SHORT HYPE x10
+-   0x6555e1cc... 6 positions: LONG LDO x1, LONG TON x1, LONG ONDO x1, LONG ENA x1, LONG WLFI x1, LONG STBL x1
+-   0x4c6d679e... no open positions
+-   0xd2b2a8ab... no open positions
+-   0x29a38c88... 1 positions: LONG SEI x3
+
 ## 2026-06-11
 
 ### 14:54 UTC — Position poll (Job B)
