@@ -3352,5 +3352,18 @@
     "leverage": 3,
     "unrealized_pnl": -122371.621108,
     "liquidation_price": 18.4075746855
+  },
+  {
+    "ts": "2026-06-12T12:30:43.147952+00:00",
+    "trader": "0x29a38c8845f2849d189fb115d3a2cc73a3354c6a",
+    "type": "NEW",
+    "coin": "SEI",
+    "side": "LONG",
+    "size": 1625000.0,
+    "entry_price": 0.052638,
+    "position_value_usd": 84491.875,
+    "leverage": 3,
+    "unrealized_pnl": -1045.803564,
+    "liquidation_price": 0.0
   }
 ]

@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-12
 
+### 12:30 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG SEI (0x29a38c88...)
+- Portfolio equity: $15,088.78 (+50.89%)
+
 ### 12:28 UTC — Daily refresh (Job A)
 - Leaderboard: 38658 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
