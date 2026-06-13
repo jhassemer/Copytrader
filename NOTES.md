@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-13
 
+### 11:32 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- NEW SHORT ETH (0x91a9cadc...)
+- NEW SHORT HYPE (0x91a9cadc...)
+- Portfolio equity: $14,726.68 (+47.27%)
+
 ### 11:23 UTC — Daily refresh (Job A)
 - Leaderboard: 38567 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

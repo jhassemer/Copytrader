@@ -1,5 +1,5 @@
 {
-  "cash": 0.4785068390937976,
+  "cash": 0.4318524222821523,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -2674,6 +2674,28 @@
       "margin": 0.025184570478620927,
       "notional": 0.07555371143586279,
       "opened_at": "2026-06-12T12:30:45.193793+00:00"
+    },
+    "0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70:ETH:SHORT": {
+      "trader": "0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 4.2830603781340546e-05,
+      "entry_price": 1675.8116750000002,
+      "leverage": 3,
+      "margin": 0.023925341954689882,
+      "notional": 0.07177602586406964,
+      "opened_at": "2026-06-13T11:32:57.589048+00:00"
+    },
+    "0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70:HYPE:SHORT": {
+      "trader": "0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.0011695052626447136,
+      "entry_price": 58.304333250000006,
+      "leverage": 3,
+      "margin": 0.022729074856955387,
+      "notional": 0.06818722457086616,
+      "opened_at": "2026-06-13T11:32:57.589066+00:00"
     }
   },
   "equity_history": [
@@ -3841,7 +3863,12 @@
       "ts": "2026-06-13T09:42:03.509476+00:00",
       "equity": 14820.038421728144,
       "cash": 0.4785068390937976
+    },
+    {
+      "ts": "2026-06-13T11:32:57.589169+00:00",
+      "equity": 14726.683684300056,
+      "cash": 0.4318524222821523
     }
   ],
-  "last_processed_signal_index": 258
+  "last_processed_signal_index": 260
 }
