@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 1759490.8,
       "entry_price": 0.99916,
-      "position_value_usd": 464241.64758,
+      "position_value_usd": 460933.804876,
       "leverage": 1,
-      "unrealized_pnl": -1293781.115246,
+      "unrealized_pnl": -1297088.95795,
       "liquidation_price": 0.0
     },
     {
@@ -15,9 +15,9 @@
       "side": "LONG",
       "size": 1447915.9,
       "entry_price": 3.44284,
-      "position_value_usd": 2483465.35168,
+      "position_value_usd": 2476225.77218,
       "leverage": 1,
-      "unrealized_pnl": -2501488.669517,
+      "unrealized_pnl": -2508728.249017,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 1745500.0,
       "entry_price": 0.992029,
-      "position_value_usd": 634960.535,
+      "position_value_usd": 626320.31,
       "leverage": 1,
-      "unrealized_pnl": -1096627.705749,
+      "unrealized_pnl": -1105267.930749,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 5431981.0,
       "entry_price": 0.57887,
-      "position_value_usd": 457807.35868,
+      "position_value_usd": 450751.215361,
       "leverage": 1,
-      "unrealized_pnl": -2686605.82282,
+      "unrealized_pnl": -2693661.966139,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 5929745.0,
       "entry_price": 0.195226,
-      "position_value_usd": 349256.050755,
+      "position_value_usd": 347364.4621,
       "leverage": 1,
-      "unrealized_pnl": -808390.062005,
+      "unrealized_pnl": -810281.65066,
       "liquidation_price": 0.0
     },
     {
@@ -55,11 +55,11 @@
       "side": "LONG",
       "size": 1915072.0,
       "entry_price": 0.165307,
-      "position_value_usd": 49820.59808,
+      "position_value_usd": 48409.190016,
       "leverage": 1,
-      "unrealized_pnl": -266754.57171,
+      "unrealized_pnl": -268165.979774,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1781402376555
+  "timestamp_ms": 1781419987696
 }
