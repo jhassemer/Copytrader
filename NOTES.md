@@ -2,6 +2,27 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-15
+
+### 15:23 UTC — Daily refresh (Job A)
+- Leaderboard: 39101 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- +added 0x0a8494f7...
+- +added 0xfc1ccff3...
+- -removed 0xfb996bd6...
+- -removed 0x355cf0d9...
+- #1 0x992ec712... acc=$6,764,471 month=$3,659,452 edge=6022bps
+- #2 0x0a8494f7... acc=$49,975,970 month=$17,220,096 edge=31209bps
+- #3 0x7fa77093... acc=$3,205,459 month=$404,248 edge=111bps
+- #4 0xff2c13a2... acc=$2,534,577 month=$888,558 edge=1185bps
+- #5 0xfc1ccff3... acc=$9,589,220 month=$5,707,719 edge=5825bps
+- Current positions across the shortlist:
+-   0x992ec712... no open positions
+-   0x0a8494f7... no open positions
+-   0x7fa77093... no open positions
+-   0xff2c13a2... no open positions
+-   0xfc1ccff3... no open positions
+
 ## 2026-06-14
 
 ### 11:35 UTC — Daily refresh (Job A)
