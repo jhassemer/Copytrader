@@ -3807,5 +3807,18 @@
     "leverage": 10,
     "unrealized_pnl": -40843.47135,
     "liquidation_price": 159.8016082303
+  },
+  {
+    "ts": "2026-06-17T19:31:37.540183+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "NEW",
+    "coin": "AXS",
+    "side": "LONG",
+    "size": 49.4,
+    "entry_price": 1.0106,
+    "position_value_usd": 49.001836,
+    "leverage": 3,
+    "unrealized_pnl": -0.921804,
+    "liquidation_price": 0.0
   }
 ]
