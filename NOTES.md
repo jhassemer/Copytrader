@@ -4,6 +4,42 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-17
 
+### 13:57 UTC — Position poll (Job B)
+- 32 signal(s) this poll
+- NEW LONG BNB (0x94dac1fa...)
+- NEW SHORT LTC (0x94dac1fa...)
+- NEW LONG ARB (0x94dac1fa...)
+- NEW SHORT BCH (0x94dac1fa...)
+- NEW SHORT WLD (0x94dac1fa...)
+- NEW SHORT TRX (0x94dac1fa...)
+- NEW SHORT UNI (0x94dac1fa...)
+- NEW SHORT TIA (0x94dac1fa...)
+- NEW SHORT FET (0x94dac1fa...)
+- NEW SHORT NEAR (0x94dac1fa...)
+- NEW SHORT TAO (0x94dac1fa...)
+- NEW SHORT ENA (0x94dac1fa...)
+- NEW LONG POL (0x94dac1fa...)
+- NEW SHORT XLM (0x94dac1fa...)
+- NEW SHORT HYPE (0x94dac1fa...)
+- NEW SHORT FARTCOIN (0x94dac1fa...)
+- NEW LONG TRUMP (0x94dac1fa...)
+- NEW SHORT KAITO (0x94dac1fa...)
+- NEW SHORT XPL (0x94dac1fa...)
+- NEW LONG WLFI (0x94dac1fa...)
+- NEW SHORT ASTER (0x94dac1fa...)
+- NEW SHORT ZEC (0x94dac1fa...)
+- NEW SHORT ICP (0x94dac1fa...)
+- NEW SHORT XMR (0x94dac1fa...)
+- NEW SHORT DASH (0x94dac1fa...)
+- CLOSED SHORT CRV (0x94dac1fa...)
+- CLOSED SHORT TON (0x94dac1fa...)
+- CLOSED SHORT PENDLE (0x94dac1fa...)
+- CLOSED LONG HYPE (0x94dac1fa...)
+- CLOSED LONG ZEC (0x94dac1fa...)
+- CLOSED SHORT CHIP (0x94dac1fa...)
+- NEW SHORT HYPE (0x7ea90af3...)
+- Portfolio equity: $14,469.27 (+44.69%)
+
 ### 12:56 UTC — Daily refresh (Job A)
 - Leaderboard: 39318 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
