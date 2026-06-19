@@ -4,6 +4,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-19
 
+### 13:40 UTC — Position poll (Job B)
+- 9 signal(s) this poll
+- NEW SHORT BTC (0xbbfd8f29...)
+- NEW SHORT ETH (0xbbfd8f29...)
+- NEW SHORT SOL (0xbbfd8f29...)
+- NEW SHORT SUI (0x5f94a519...)
+- NEW SHORT kPEPE (0x5f94a519...)
+- CLOSED SHORT CRV (0x5f94a519...)
+- CLOSED SHORT AAVE (0x5f94a519...)
+- CLOSED SHORT MORPHO (0x5f94a519...)
+- NEW SHORT XRP (0x94dac1fa...)
+- Portfolio equity: $15,358.21 (+53.58%)
+
 ### 12:52 UTC — Daily refresh (Job A)
 - Leaderboard: 39186 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
