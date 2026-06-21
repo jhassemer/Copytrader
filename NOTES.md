@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-21
+
+### 11:51 UTC — Daily refresh (Job A)
+- Leaderboard: 39317 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0x5f94a519...
+- +added 0x6555e1cc...
+- +added 0xee7fd638...
+- +added 0xceec4858...
+- +added 0xcf67e4da...
+- -removed 0x7345985d...
+- -removed 0x33f9109a...
+- -removed 0x7fa77093...
+- -removed 0xfc1ccff3...
+- -removed 0xf704ebc7...
+- #1 0x5f94a519... acc=$14,798,946 month=$1,982,696 edge=1851bps
+- #2 0x6555e1cc... acc=$31,224,348 month=$3,159,210 edge=3556bps
+- #3 0xee7fd638... acc=$329,117 month=$239,920 edge=112bps
+- #4 0xceec4858... acc=$14,336,792 month=$1,687,771 edge=2424bps
+- #5 0xcf67e4da... acc=$3,566,370 month=$1,095,741 edge=392bps
+- Current positions across the shortlist:
+-   0x5f94a519... 13 positions: SHORT OP x5, SHORT SUI x10, SHORT kPEPE x10, SHORT APT x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, SHORT STRK x5, SHORT EIGEN x5, SHORT HYPE x10, SHORT TRUMP x8, SHORT WLFI x5, LONG LIT x5
+-   0x6555e1cc... 5 positions: LONG LDO x1, LONG ONDO x1, LONG ENA x1, LONG WLFI x1, LONG STBL x1
+-   0xee7fd638... no open positions
+-   0xceec4858... 1 positions: SHORT HYPE x5
+-   0xcf67e4da... no open positions
+
 ## 2026-06-20
 
 ### 11:47 UTC — Position poll (Job B)
