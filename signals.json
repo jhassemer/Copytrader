@@ -3963,5 +3963,18 @@
     "leverage": 10,
     "unrealized_pnl": 31501.456961,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-06-21T13:27:37.353980+00:00",
+    "trader": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+    "type": "CLOSED",
+    "coin": "TON",
+    "side": "LONG",
+    "size": 1447915.9,
+    "entry_price": 3.44284,
+    "position_value_usd": 2504749.71541,
+    "leverage": 1,
+    "unrealized_pnl": -2480204.305787,
+    "liquidation_price": 0.0
   }
 ]

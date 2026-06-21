@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-21
 
+### 13:27 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED LONG TON (0x6555e1cc...)
+- Portfolio equity: $14,478.20 (+44.78%)
+
 ### 11:51 UTC — Daily refresh (Job A)
 - Leaderboard: 39317 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
