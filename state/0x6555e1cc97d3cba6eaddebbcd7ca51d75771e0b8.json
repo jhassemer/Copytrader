@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 1759490.8,
       "entry_price": 0.99916,
-      "position_value_usd": 478845.42122,
+      "position_value_usd": 477138.715144,
       "leverage": 1,
-      "unrealized_pnl": -1279177.341606,
+      "unrealized_pnl": -1280884.047682,
       "liquidation_price": 0.0
     },
     {
@@ -15,9 +15,9 @@
       "side": "LONG",
       "size": 1745500.0,
       "entry_price": 0.992029,
-      "position_value_usd": 585719.98,
+      "position_value_usd": 582386.075,
       "leverage": 1,
-      "unrealized_pnl": -1145868.260749,
+      "unrealized_pnl": -1149202.165749,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 5431981.0,
       "entry_price": 0.57887,
-      "position_value_usd": 481154.013018,
+      "position_value_usd": 478524.934214,
       "leverage": 1,
-      "unrealized_pnl": -2663259.168482,
+      "unrealized_pnl": -2665888.247286,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 5929745.0,
       "entry_price": 0.195226,
-      "position_value_usd": 355891.43541,
+      "position_value_usd": 355506.001985,
       "leverage": 1,
-      "unrealized_pnl": -801754.67735,
+      "unrealized_pnl": -802140.110775,
       "liquidation_price": 0.0
     },
     {
@@ -45,11 +45,11 @@
       "side": "LONG",
       "size": 1915072.0,
       "entry_price": 0.165307,
-      "position_value_usd": 46325.59168,
+      "position_value_usd": 46335.16704,
       "leverage": 1,
-      "unrealized_pnl": -270249.57811,
+      "unrealized_pnl": -270240.00275,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1782078599719
+  "timestamp_ms": 1782082759152
 }
