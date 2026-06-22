@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "MEGA",
+      "side": "SHORT",
+      "size": 711000.0,
+      "entry_price": 0.062562,
+      "position_value_usd": 40764.474,
+      "leverage": 3,
+      "unrealized_pnl": 3717.290704,
+      "liquidation_price": 0.192277928
+    }
+  ],
+  "timestamp_ms": 1782144531064
+}
