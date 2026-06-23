@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 14:39 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW SHORT HYPE (0x065612c1...)
+- NEW LONG BTC (0x60a8c761...)
+- NEW LONG FARTCOIN (0x60a8c761...)
+- NEW SHORT BTC (0xbe4e91ae...)
+- Portfolio equity: $15,357.15 (+53.57%)
+
 ### 12:14 UTC — Daily refresh (Job A)
 - Leaderboard: 39157 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
