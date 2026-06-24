@@ -4704,5 +4704,18 @@
     "leverage": 5,
     "unrealized_pnl": -43974.424032,
     "liquidation_price": 0.0769616024
+  },
+  {
+    "ts": "2026-06-24T16:12:01.178113+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "DOGE",
+    "side": "SHORT",
+    "size": 400000.0,
+    "entry_price": 0.116129,
+    "position_value_usd": 30836.0,
+    "leverage": 10,
+    "unrealized_pnl": 15615.896751,
+    "liquidation_price": 5.0227881391
   }
 ]

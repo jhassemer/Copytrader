@@ -1,5 +1,5 @@
 {
-  "cash": 15.699533761827702,
+  "cash": 21.687067541109304,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -3170,17 +3170,6 @@
       "notional": 17.40834190987299,
       "opened_at": "2026-06-24T13:51:30.225527+00:00"
     },
-    "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:DOGE:SHORT": {
-      "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
-      "coin": "DOGE",
-      "side": "SHORT",
-      "size": 214.68215734869548,
-      "entry_price": 0.07703446350000001,
-      "leverage": 3,
-      "margin": 5.512641604793114,
-      "notional": 16.53792481437934,
-      "opened_at": "2026-06-24T13:51:30.225531+00:00"
-    },
     "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:kPEPE:LONG": {
       "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
       "coin": "kPEPE",
@@ -5259,7 +5248,12 @@
       "ts": "2026-06-24T13:51:30.225781+00:00",
       "equity": 15776.31016970216,
       "cash": 15.699533761827702
+    },
+    {
+      "ts": "2026-06-24T16:12:02.234222+00:00",
+      "equity": 15998.872387850994,
+      "cash": 21.687067541109304
     }
   ],
-  "last_processed_signal_index": 361
+  "last_processed_signal_index": 362
 }
