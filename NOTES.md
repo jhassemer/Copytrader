@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 13:13 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW LONG BTC (0x5272f37e...)
+- NEW SHORT ETH (0x5272f37e...)
+- NEW SHORT SOL (0x5272f37e...)
+- CLOSED SHORT ENA (0xbe195419...)
+- Portfolio equity: $15,719.35 (+57.19%)
+
 ### 11:48 UTC — Daily refresh (Job A)
 - Leaderboard: 39339 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
