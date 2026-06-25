@@ -1,5 +1,5 @@
 {
-  "cash": 21.687067541109304,
+  "cash": 24.468408779790625,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -3357,17 +3357,6 @@
       "notional": 6.91484266721784,
       "opened_at": "2026-06-24T13:51:30.225600+00:00"
     },
-    "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:MON:SHORT": {
-      "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
-      "coin": "MON",
-      "side": "SHORT",
-      "size": 112.57363834027983,
-      "entry_price": 0.0194512695,
-      "leverage": 1,
-      "margin": 2.1897001779523158,
-      "notional": 2.1897001779523158,
-      "opened_at": "2026-06-24T13:51:30.225605+00:00"
-    },
     "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:LIT:SHORT": {
       "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
       "coin": "LIT",
@@ -3411,17 +3400,6 @@
       "margin": 1.7835244805682737,
       "notional": 5.350573441704821,
       "opened_at": "2026-06-24T13:51:30.225621+00:00"
-    },
-    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:SOL:SHORT": {
-      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
-      "coin": "SOL",
-      "side": "SHORT",
-      "size": 0.07351611549299661,
-      "entry_price": 69.14191175,
-      "leverage": 3,
-      "margin": 1.69434825653986,
-      "notional": 5.08304476961958,
-      "opened_at": "2026-06-24T13:51:30.225625+00:00"
     },
     "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:BNB:LONG": {
       "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
@@ -3576,6 +3554,17 @@
       "margin": 0.8262912506225106,
       "notional": 2.478873751867532,
       "opened_at": "2026-06-24T13:51:30.225676+00:00"
+    },
+    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:SOL:LONG": {
+      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+      "coin": "SOL",
+      "side": "LONG",
+      "size": 0.05290751726810292,
+      "entry_price": 67.63530075,
+      "leverage": 3,
+      "margin": 1.1928052807879865,
+      "notional": 3.5784158423639596,
+      "opened_at": "2026-06-25T04:38:30.709658+00:00"
     }
   },
   "equity_history": [
@@ -5278,7 +5267,12 @@
       "ts": "2026-06-25T00:18:41.675313+00:00",
       "equity": 15930.745078629157,
       "cash": 21.687067541109304
+    },
+    {
+      "ts": "2026-06-25T04:38:30.713657+00:00",
+      "equity": 15984.40699506976,
+      "cash": 24.468408779790625
     }
   ],
-  "last_processed_signal_index": 362
+  "last_processed_signal_index": 365
 }

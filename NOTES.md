@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-25
+
+### 04:38 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- CLOSED SHORT MON (0x4a96036f...)
+- NEW LONG SOL (0xd6ef5649...)
+- CLOSED SHORT SOL (0xd6ef5649...)
+- Portfolio equity: $15,984.41 (+59.84%)
+
 ## 2026-06-24
 
 ### 16:12 UTC — Position poll (Job B)
