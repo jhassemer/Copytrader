@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 20:17 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG BTC (0x81d41632...)
+- Portfolio equity: $16,015.83 (+60.16%)
+
 ### 13:13 UTC — Position poll (Job B)
 - 4 signal(s) this poll
 - NEW LONG BTC (0x5272f37e...)
