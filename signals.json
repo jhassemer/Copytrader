@@ -4756,5 +4756,44 @@
     "leverage": 20,
     "unrealized_pnl": 5824.241746,
     "liquidation_price": 400.9989479847
+  },
+  {
+    "ts": "2026-06-25T10:51:38.114994+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 20.84,
+    "entry_price": 15.9341,
+    "position_value_usd": 278.86004,
+    "leverage": 3,
+    "unrealized_pnl": 53.207362,
+    "liquidation_price": 24211.756199383
+  },
+  {
+    "ts": "2026-06-25T10:51:38.114994+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 1.2,
+    "entry_price": 372.0998,
+    "position_value_usd": 502.176,
+    "leverage": 10,
+    "unrealized_pnl": 55.65623,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-06-25T10:51:38.114994+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 100.782,
+    "entry_price": 322.714,
+    "position_value_usd": 32048.676,
+    "leverage": 5,
+    "unrealized_pnl": 475.092671,
+    "liquidation_price": 5625.0728931393
   }
 ]

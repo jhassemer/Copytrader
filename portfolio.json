@@ -1,5 +1,5 @@
 {
-  "cash": 24.468408779790625,
+  "cash": 28.136872455749817,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -3456,39 +3456,6 @@
       "notional": 3.93316314719071,
       "opened_at": "2026-06-24T13:51:30.225644+00:00"
     },
-    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:VVV:SHORT": {
-      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
-      "coin": "VVV",
-      "side": "SHORT",
-      "size": 0.2830600573120038,
-      "entry_price": 13.200396500000002,
-      "leverage": 3,
-      "margin": 1.2455016632770581,
-      "notional": 3.7365049898311744,
-      "opened_at": "2026-06-24T13:51:30.225647+00:00"
-    },
-    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:ZEC:LONG": {
-      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 0.008617592177520051,
-      "entry_price": 411.9108525,
-      "leverage": 3,
-      "margin": 1.1832265801132051,
-      "notional": 3.5496797403396156,
-      "opened_at": "2026-06-24T13:51:30.225651+00:00"
-    },
-    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:XMR:SHORT": {
-      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
-      "coin": "XMR",
-      "side": "SHORT",
-      "size": 0.010496640568312886,
-      "entry_price": 321.2642875,
-      "leverage": 3,
-      "margin": 1.1240652511075448,
-      "notional": 3.3721957533226345,
-      "opened_at": "2026-06-24T13:51:30.225654+00:00"
-    },
     "0x06cecfbac34101ae41c88ebc2450f8602b3d164b:BTC:SHORT": {
       "trader": "0x06cecfbac34101ae41c88ebc2450f8602b3d164b",
       "coin": "BTC",
@@ -5277,7 +5244,12 @@
       "ts": "2026-06-25T08:03:54.600108+00:00",
       "equity": 15657.409795134057,
       "cash": 24.468408779790625
+    },
+    {
+      "ts": "2026-06-25T10:51:39.568815+00:00",
+      "equity": 15733.933535225495,
+      "cash": 28.136872455749817
     }
   ],
-  "last_processed_signal_index": 365
+  "last_processed_signal_index": 368
 }
