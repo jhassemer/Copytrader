@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 0.03112,
       "entry_price": 73618.9,
-      "position_value_usd": 1878.93224,
+      "position_value_usd": 1876.3804,
       "leverage": 20,
-      "unrealized_pnl": -412.090011,
+      "unrealized_pnl": -414.641851,
       "liquidation_price": 0.0
     },
     {
@@ -15,71 +15,71 @@
       "side": "SHORT",
       "size": 538.81,
       "entry_price": 83.8648,
-      "position_value_usd": 38658.53988,
+      "position_value_usd": 38592.26625,
       "leverage": 20,
-      "unrealized_pnl": 6528.68342,
-      "liquidation_price": 8144.1607894344
+      "unrealized_pnl": 6594.95705,
+      "liquidation_price": 8146.0187892071
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 6521.65,
       "entry_price": 38.9851,
-      "position_value_usd": 409683.53135,
+      "position_value_usd": 409787.87775,
       "leverage": 10,
-      "unrealized_pnl": -155436.29737,
-      "liquidation_price": 713.871615366
+      "unrealized_pnl": -155540.64377,
+      "liquidation_price": 714.0473860711
     },
     {
       "coin": "FARTCOIN",
       "side": "SHORT",
       "size": 0.1,
       "entry_price": 0.16342,
-      "position_value_usd": 0.012965,
+      "position_value_usd": 0.01286,
       "leverage": 10,
-      "unrealized_pnl": 0.003377,
-      "liquidation_price": 42459373.019666664
+      "unrealized_pnl": 0.003482,
+      "liquidation_price": 42469792.704809524
     },
     {
       "coin": "WLFI",
       "side": "SHORT",
       "size": 12643319.0,
       "entry_price": 0.226638,
-      "position_value_usd": 731997.596824,
+      "position_value_usd": 730745.908243,
       "leverage": 5,
-      "unrealized_pnl": 2133460.179781,
-      "liquidation_price": 0.3784558261
+      "unrealized_pnl": 2134711.868362,
+      "liquidation_price": 0.3784354926
     },
     {
       "coin": "ASTER",
       "side": "SHORT",
       "size": 769990.0,
       "entry_price": 1.39211,
-      "position_value_usd": 484916.6023,
+      "position_value_usd": 483176.4249,
       "leverage": 3,
-      "unrealized_pnl": 586994.55057,
-      "liquidation_price": 5.8933969815
+      "unrealized_pnl": 588734.72797,
+      "liquidation_price": 5.8924286949
     },
     {
       "coin": "MEGA",
       "side": "SHORT",
       "size": 10768092.0,
       "entry_price": 0.133232,
-      "position_value_usd": 485791.702488,
+      "position_value_usd": 483444.258432,
       "leverage": 3,
-      "unrealized_pnl": 948868.753775,
-      "liquidation_price": 0.3999905705
+      "unrealized_pnl": 951216.197831,
+      "liquidation_price": 0.3998596585
     },
     {
       "coin": "CHIP",
       "side": "SHORT",
       "size": 8183208.0,
       "entry_price": 0.063346,
-      "position_value_usd": 234129.764088,
+      "position_value_usd": 238319.566584,
       "leverage": 3,
-      "unrealized_pnl": 284246.921256,
-      "liquidation_price": 0.4955847785
+      "unrealized_pnl": 280057.11876,
+      "liquidation_price": 0.4962113756
     }
   ],
-  "timestamp_ms": 1782553790258
+  "timestamp_ms": 1782559142178
 }

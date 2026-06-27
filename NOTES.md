@@ -4,6 +4,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-27
 
+### 11:19 UTC — Position poll (Job B)
+- 7 signal(s) this poll
+- NEW SHORT ETH (0xa9814360...)
+- NEW SHORT SOL (0xa9814360...)
+- NEW SHORT ZRO (0xa9814360...)
+- NEW SHORT HYPE (0xa9814360...)
+- NEW SHORT FARTCOIN (0xa9814360...)
+- NEW SHORT MON (0xa9814360...)
+- NEW SHORT LIT (0xa9814360...)
+- Portfolio equity: $15,934.54 (+59.35%)
+
 ### 11:02 UTC — Daily refresh (Job A)
 - Leaderboard: 39497 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
