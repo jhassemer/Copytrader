@@ -1,0 +1,85 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.0233,
+      "entry_price": 102473.7,
+      "position_value_usd": 1404.5007,
+      "leverage": 2,
+      "unrealized_pnl": 983.138046,
+      "liquidation_price": 218232376.67177448
+    },
+    {
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 165.8017,
+      "entry_price": 2038.19,
+      "position_value_usd": 261999.84634,
+      "leverage": 2,
+      "unrealized_pnl": 75935.787369,
+      "liquidation_price": 32014.3382625148
+    },
+    {
+      "coin": "ADA",
+      "side": "LONG",
+      "size": 88320.0,
+      "entry_price": 0.144983,
+      "position_value_usd": 12801.984,
+      "leverage": 2,
+      "unrealized_pnl": -2.9971,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "GRIFFAIN",
+      "side": "SHORT",
+      "size": 3850000.0,
+      "entry_price": 0.0188,
+      "position_value_usd": 37202.55,
+      "leverage": 3,
+      "unrealized_pnl": 35177.808308,
+      "liquidation_price": 1.1555522392
+    },
+    {
+      "coin": "STBL",
+      "side": "SHORT",
+      "size": 1173634.0,
+      "entry_price": 0.032978,
+      "position_value_usd": 29701.155638,
+      "leverage": 3,
+      "unrealized_pnl": 9003.927176,
+      "liquidation_price": 3.7842928259
+    },
+    {
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 5850.05,
+      "entry_price": 513.5031,
+      "position_value_usd": 2260576.321,
+      "leverage": 10,
+      "unrealized_pnl": 743442.53411,
+      "liquidation_price": 1224.3375431061
+    },
+    {
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 66596.0,
+      "entry_price": 1.801341,
+      "position_value_usd": 120019.3112,
+      "leverage": 2,
+      "unrealized_pnl": -57.182,
+      "liquidation_price": 72.0623917014
+    },
+    {
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 146.739,
+      "entry_price": 381.819,
+      "position_value_usd": 45817.78536,
+      "leverage": 2,
+      "unrealized_pnl": 10210.01692,
+      "liquidation_price": 32199.1121099739
+    }
+  ],
+  "timestamp_ms": 1782645965823
+}
