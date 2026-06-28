@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-28
+
+### 11:15 UTC — Daily refresh (Job A)
+- Leaderboard: 39492 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x5272f37e...
+- +added 0x1f793d9f...
+- +added 0x71dfc07d...
+- +added 0xa20fb0c9...
+- -removed 0x4807c793...
+- -removed 0xbe195419...
+- -removed 0x5f94a519...
+- -removed 0xa9814360...
+- #1 0x5272f37e... acc=$1,120,767 month=$925,474 edge=1216bps
+- #2 0x06cecfba... acc=$3,162,960 month=$955,511 edge=1316bps
+- #3 0x1f793d9f... acc=$3,839,794 month=$69,364 edge=81bps
+- #4 0x71dfc07d... acc=$7,660,489 month=$1,560,598 edge=2773bps
+- #5 0xa20fb0c9... acc=$1,799,372 month=$889,055 edge=1448bps
+- Current positions across the shortlist:
+-   0x5272f37e... 3 positions: LONG BTC x2, SHORT ETH x5, SHORT SOL x5
+-   0x06cecfba... 6 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20, SHORT AAVE x10, SHORT HYPE x10, SHORT MON x5
+-   0x1f793d9f... no open positions
+-   0x71dfc07d... 8 positions: SHORT BTC x2, SHORT ETH x2, LONG ADA x2, SHORT GRIFFAIN x3, SHORT STBL x3, SHORT ZEC x10, SHORT LIT x2, SHORT XMR x2
+-   0xa20fb0c9... 48 positions: SHORT BTC x20, SHORT AVAX x10, SHORT DOGE x10, SHORT INJ x5, SHORT kPEPE x10, SHORT CRV x10, SHORT LDO x5, SHORT LINK x10, SHORT STX x5, LONG XRP x20, SHORT WLD x10, LONG ZRO x5, SHORT DOT x10, SHORT KAS x3, SHORT PENDLE x5, SHORT FET x5, LONG NEAR x10, SHORT FIL x5, SHORT kBONK x10, SHORT GALA x3, SHORT WIF x5, SHORT CAKE x3, SHORT ONDO x10, SHORT STRK x5, SHORT TAO x5, SHORT ETHFI x5, SHORT ENA x10, SHORT HBAR x5, SHORT RENDER x5, SHORT POL x5, SHORT XLM x5, SHORT ALGO x5, SHORT HYPE x10, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT FARTCOIN x10, SHORT MORPHO x5, SHORT XPL x10, SHORT WLFI x5, LONG SKY x3, SHORT ASTER x5, SHORT ZEC x10, SHORT MON x5, SHORT MET x3, SHORT ICP x5, SHORT AERO x3, LONG XMR x5, SHORT DASH x5
+
 ## 2026-06-27
 
 ### 11:19 UTC — Position poll (Job B)
