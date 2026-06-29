@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-06-29
+
+### 06:59 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG SOL (0xa20fb0c9...)
+- Portfolio equity: $16,070.24 (+60.70%)
+
 ## 2026-06-28
 
 ### 11:26 UTC — Position poll (Job B)
