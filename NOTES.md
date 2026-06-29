@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-29
 
+### 13:14 UTC — Daily refresh (Job A)
+- Leaderboard: 39568 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x2fcb6898...
+- +added 0x47f5a639...
+- +added 0x95fde6cf...
+- +added 0x60a8c761...
+- -removed 0x5272f37e...
+- -removed 0x06cecfba...
+- -removed 0x1f793d9f...
+- -removed 0xa20fb0c9...
+- #1 0x71dfc07d... acc=$7,671,994 month=$1,509,603 edge=2606bps
+- #2 0x2fcb6898... acc=$4,764,964 month=$544,468 edge=182bps
+- #3 0x47f5a639... acc=$1,648,598 month=$462,332 edge=801bps
+- #4 0x95fde6cf... acc=$2,325,051 month=$291,089 edge=329bps
+- #5 0x60a8c761... acc=$32,235,804 month=$3,129,964 edge=2002bps
+- Current positions across the shortlist:
+-   0x71dfc07d... 8 positions: SHORT BTC x2, SHORT ETH x2, LONG ADA x2, SHORT GRIFFAIN x3, SHORT STBL x3, SHORT ZEC x10, SHORT LIT x2, SHORT XMR x2
+-   0x2fcb6898... 28 positions: SHORT BCH x10, SHORT WLD x10, SHORT UNI x10, SHORT ZRO x5, SHORT NEAR x10, SHORT ORDI x3, SHORT ZEN x5, SHORT FIL x5, SHORT kLUNC x3, SHORT STRK x5, SHORT TNSR x3, SHORT XLM x5, SHORT VIRTUAL x5, SHORT TRUMP x10, SHORT MELANIA x3, SHORT ANIME x3, SHORT VVV x3, SHORT BERA x5, SHORT AVNT x5, SHORT STBL x3, SHORT 0G x3, SHORT ZEC x10, SHORT MET x3, SHORT ICP x5, SHORT FOGO x3, SHORT LIT x3, SHORT DASH x5, SHORT CHIP x3
+-   0x47f5a639... 46 positions: SHORT ATOM x5, LONG SOL x20, SHORT AVAX x10, SHORT BNB x10, SHORT DOGE x10, SHORT INJ x5, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT BCH x10, LONG APT x10, SHORT WLD x10, SHORT DOT x10, SHORT KAS x3, SHORT PENDLE x5, SHORT FET x5, LONG NEAR x10, SHORT FIL x5, SHORT kBONK x10, SHORT WIF x5, SHORT CAKE x3, SHORT MANTA x3, SHORT ONDO x10, SHORT STRK x5, SHORT TAO x5, SHORT kFLOKI x5, SHORT ETHFI x5, SHORT HBAR x5, SHORT RENDER x5, SHORT POL x5, SHORT PURR x3, SHORT XLM x5, SHORT HYPE x10, SHORT VIRTUAL x5, SHORT SPX x5, SHORT MORPHO x5, SHORT WLFI x3, LONG SKY x3, SHORT ASTER x5, SHORT APEX x3, SHORT ZEC x10, SHORT MON x5, SHORT MET x3, SHORT ICP x5, LONG XMR x5, SHORT SKR x3
+-   0x95fde6cf... 2 positions: SHORT ETH x20, LONG ZEC x5
+-   0x60a8c761... 2 positions: LONG BTC x20, LONG FARTCOIN x10
+
 ### 06:59 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - NEW LONG SOL (0xa20fb0c9...)
