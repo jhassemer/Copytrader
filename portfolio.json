@@ -1,5 +1,5 @@
 {
-  "cash": 223.90987089793097,
+  "cash": 202.0786584853827,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -4731,6 +4731,28 @@
       "margin": 11.784730047259524,
       "notional": 35.354190141778574,
       "opened_at": "2026-06-29T16:08:01.938634+00:00"
+    },
+    "0x05936f6a5ea9abfbfcc690f1a6140d97e80640f9:BTC:SHORT": {
+      "trader": "0x05936f6a5ea9abfbfcc690f1a6140d97e80640f9",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.0005702962752060345,
+      "entry_price": 58893.03875,
+      "leverage": 3,
+      "margin": 11.19549354489655,
+      "notional": 33.58648063468965,
+      "opened_at": "2026-06-30T12:21:27.278291+00:00"
+    },
+    "0x05936f6a5ea9abfbfcc690f1a6140d97e80640f9:ETH:SHORT": {
+      "trader": "0x05936f6a5ea9abfbfcc690f1a6140d97e80640f9",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.020342914234211366,
+      "entry_price": 1568.465375,
+      "leverage": 3,
+      "margin": 10.635718867651722,
+      "notional": 31.907156602955165,
+      "opened_at": "2026-06-30T12:21:27.278310+00:00"
     }
   },
   "equity_history": [
@@ -6728,7 +6750,12 @@
       "ts": "2026-06-30T10:01:55.528978+00:00",
       "equity": 15975.390103226879,
       "cash": 223.90987089793097
+    },
+    {
+      "ts": "2026-06-30T12:21:27.278447+00:00",
+      "equity": 16254.962687404608,
+      "cash": 202.0786584853827
     }
   ],
-  "last_processed_signal_index": 497
+  "last_processed_signal_index": 499
 }
