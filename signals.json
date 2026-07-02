@@ -7551,5 +7551,18 @@
     "leverage": 5,
     "unrealized_pnl": 77.329409,
     "liquidation_price": 69834.1926087296
+  },
+  {
+    "ts": "2026-07-02T05:34:56.866873+00:00",
+    "trader": "0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff",
+    "type": "NEW",
+    "coin": "INJ",
+    "side": "LONG",
+    "size": 555.7,
+    "entry_price": 4.58656,
+    "position_value_usd": 2558.27609,
+    "leverage": 5,
+    "unrealized_pnl": 9.52365,
+    "liquidation_price": 0.0
   }
 ]
