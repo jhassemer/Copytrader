@@ -3,23 +3,13 @@
     {
       "coin": "BTC",
       "side": "LONG",
-      "size": 80.0,
-      "entry_price": 62930.0,
-      "position_value_usd": 4978800.0,
+      "size": 90.0,
+      "entry_price": 62910.0,
+      "position_value_usd": 5661900.0,
       "leverage": 10,
-      "unrealized_pnl": -55600.47856,
-      "liquidation_price": 42548.4126508734
-    },
-    {
-      "coin": "STRK",
-      "side": "LONG",
-      "size": 10000.0,
-      "entry_price": 0.02885,
-      "position_value_usd": 314.8,
-      "leverage": 1,
-      "unrealized_pnl": 26.3,
-      "liquidation_price": 0.0
+      "unrealized_pnl": -8.57253,
+      "liquidation_price": 44884.7139997412
     }
   ],
-  "timestamp_ms": 1783108541502
+  "timestamp_ms": 1783113186353
 }

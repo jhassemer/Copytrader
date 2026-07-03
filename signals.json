@@ -7837,5 +7837,18 @@
     "leverage": 2,
     "unrealized_pnl": 337361.235522,
     "liquidation_price": 16.6406186909
+  },
+  {
+    "ts": "2026-07-03T21:13:06.481502+00:00",
+    "trader": "0x8c96e5a2d770f9f2c9d2464ce4e741df0b2bca57",
+    "type": "CLOSED",
+    "coin": "STRK",
+    "side": "LONG",
+    "size": 10000.0,
+    "entry_price": 0.02885,
+    "position_value_usd": 314.8,
+    "leverage": 1,
+    "unrealized_pnl": 26.3,
+    "liquidation_price": 0.0
   }
 ]
