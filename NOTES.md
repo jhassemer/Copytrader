@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-03
+
+### 11:39 UTC — Daily refresh (Job A)
+- Leaderboard: 40074 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0x8c96e5a2...
+- +added 0xfc16f256...
+- +added 0x3ee505ba...
+- +added 0xfdf891f2...
+- +added 0x54dbc1fb...
+- -removed 0xb4caaff7...
+- -removed 0x5e3b1ec0...
+- -removed 0xb885ed57...
+- -removed 0xebe126ad...
+- -removed 0x5bba1df1...
+- #1 0x8c96e5a2... acc=$1,601,446 month=$567,440 edge=18bps
+- #2 0xfc16f256... acc=$654,023 month=$153,885 edge=146bps
+- #3 0x3ee505ba... acc=$4,527,872 month=$402,254 edge=528bps
+- #4 0xfdf891f2... acc=$2,584,553 month=$578,376 edge=421bps
+- #5 0x54dbc1fb... acc=$2,671,327 month=$422,409 edge=237bps
+- Current positions across the shortlist:
+-   0x8c96e5a2... 2 positions: LONG BTC x10, LONG STRK x1
+-   0xfc16f256... no open positions
+-   0x3ee505ba... 7 positions: LONG ETH x20, SHORT SOL x20, LONG AAVE x10, LONG ZRO x5, LONG HYPE x10, LONG SKY x3, LONG LIT x5
+-   0xfdf891f2... 8 positions: SHORT ETH x20, LONG NEAR x10, LONG ENA x10, LONG GRASS x3, LONG HYPE x10, LONG VVV x3, LONG AERO x3, LONG LIT x5
+-   0x54dbc1fb... 1 positions: LONG HYPE x2
+
 ## 2026-07-02
 
 ### 13:11 UTC — Position poll (Job B)
