@@ -1,0 +1,75 @@
+{
+  "positions": [
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 920.5667,
+      "entry_price": 1737.62,
+      "position_value_usd": 1600589.32129,
+      "leverage": 20,
+      "unrealized_pnl": 989.892924,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 0.01,
+      "entry_price": 84.9189,
+      "position_value_usd": 0.81651,
+      "leverage": 20,
+      "unrealized_pnl": 0.032679,
+      "liquidation_price": 306385840.2816586
+    },
+    {
+      "coin": "AAVE",
+      "side": "LONG",
+      "size": 50821.83,
+      "entry_price": 77.3532,
+      "position_value_usd": 4431053.71404,
+      "leverage": 10,
+      "unrealized_pnl": 499822.277529,
+      "liquidation_price": 22.142308415
+    },
+    {
+      "coin": "ZRO",
+      "side": "LONG",
+      "size": 1925540.8,
+      "entry_price": 1.05124,
+      "position_value_usd": 1717755.692272,
+      "leverage": 5,
+      "unrealized_pnl": -306460.763336,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 0.01,
+      "entry_price": 32.7375,
+      "position_value_usd": 0.69344,
+      "leverage": 10,
+      "unrealized_pnl": 0.366065,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SKY",
+      "side": "LONG",
+      "size": 3869383.0,
+      "entry_price": 0.056455,
+      "position_value_usd": 227446.202123,
+      "leverage": 3,
+      "unrealized_pnl": 8997.989016,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 482853.0,
+      "entry_price": 1.603847,
+      "position_value_usd": 984199.2699,
+      "leverage": 5,
+      "unrealized_pnl": 209776.571713,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1783084458710
+}
