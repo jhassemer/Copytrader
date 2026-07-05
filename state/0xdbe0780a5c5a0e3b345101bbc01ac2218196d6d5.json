@@ -5,21 +5,21 @@
       "side": "LONG",
       "size": 3286.36,
       "entry_price": 422.9653,
-      "position_value_usd": 1522077.634,
+      "position_value_usd": 1515669.232,
       "leverage": 3,
-      "unrealized_pnl": 132061.3433,
-      "liquidation_price": 298.1549970734
+      "unrealized_pnl": 125652.9413,
+      "liquidation_price": 298.1610727312
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 337713.0,
       "entry_price": 1.603735,
-      "position_value_usd": 820811.4465,
+      "position_value_usd": 807775.7247,
       "leverage": 3,
-      "unrealized_pnl": 279209.253,
-      "liquidation_price": 1.2037677864
+      "unrealized_pnl": 266173.5312,
+      "liquidation_price": 1.2038011211
     }
   ],
-  "timestamp_ms": 1783272067000
+  "timestamp_ms": 1783276493681
 }
