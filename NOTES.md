@@ -4,6 +4,30 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-05
 
+### 11:44 UTC — Position poll (Job B)
+- 20 signal(s) this poll
+- NEW LONG BTC (0xe2823659...)
+- NEW LONG ETH (0xe2823659...)
+- NEW LONG LINK (0xe2823659...)
+- NEW LONG GMX (0xe2823659...)
+- NEW LONG AAVE (0xe2823659...)
+- NEW LONG UNI (0xe2823659...)
+- NEW LONG NEAR (0xe2823659...)
+- NEW LONG ONDO (0xe2823659...)
+- NEW LONG HYPE (0xe2823659...)
+- NEW LONG VVV (0xe2823659...)
+- NEW LONG ZEC (0xe2823659...)
+- NEW LONG ZEC (0xdbe0780a...)
+- NEW LONG LIT (0xdbe0780a...)
+- NEW LONG ETH (0x051c2e6d...)
+- NEW LONG AAVE (0x051c2e6d...)
+- NEW LONG NEAR (0x051c2e6d...)
+- NEW LONG XPL (0x051c2e6d...)
+- NEW LONG XPL (0xadd12adb...)
+- NEW LONG STABLE (0xadd12adb...)
+- NEW LONG LIT (0xadd12adb...)
+- Portfolio equity: $15,092.03 (+50.92%)
+
 ### 11:10 UTC — Daily refresh (Job A)
 - Leaderboard: 40151 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
