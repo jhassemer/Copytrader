@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-05
+
+### 11:10 UTC — Daily refresh (Job A)
+- Leaderboard: 40151 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0xe2823659...
+- +added 0xdbe0780a...
+- +added 0x051c2e6d...
+- +added 0xadd12adb...
+- +added 0x03b9a189...
+- -removed 0xea0027b6...
+- -removed 0x54dbc1fb...
+- -removed 0x92ea19ec...
+- -removed 0x0deb827a...
+- -removed 0xfc16f256...
+- #1 0xe2823659... acc=$5,316,004 month=$1,297,401 edge=1803bps
+- #2 0xdbe0780a... acc=$2,758,530 month=$397,922 edge=636bps
+- #3 0x051c2e6d... acc=$5,970,705 month=$1,268,595 edge=1052bps
+- #4 0xadd12adb... acc=$2,242,329 month=$424,372 edge=139bps
+- #5 0x03b9a189... acc=$62,461,573 month=$3,479,886 edge=723bps
+- Current positions across the shortlist:
+-   0xe2823659... 11 positions: LONG BTC x8, LONG ETH x5, LONG LINK x10, LONG GMX x3, LONG AAVE x10, LONG UNI x10, LONG NEAR x5, LONG ONDO x10, LONG HYPE x10, LONG VVV x3, LONG ZEC x10
+-   0xdbe0780a... 2 positions: LONG ZEC x3, LONG LIT x3
+-   0x051c2e6d... 4 positions: LONG ETH x8, LONG AAVE x10, LONG NEAR x10, LONG XPL x5
+-   0xadd12adb... 3 positions: LONG XPL x4, LONG STABLE x3, LONG LIT x5
+-   0x03b9a189... no open positions
+
 ## 2026-07-04
 
 ### 11:35 UTC — Position poll (Job B)
