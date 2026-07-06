@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-06
 
+### 13:34 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- NEW LONG ETH (0x6315c7d3...)
+- NEW LONG HYPE (0x6315c7d3...)
+- Portfolio equity: $15,265.16 (+52.65%)
+
 ### 12:56 UTC — Daily refresh (Job A)
 - Leaderboard: 40209 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
