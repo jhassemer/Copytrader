@@ -1,4 +1,15 @@
 {
-  "positions": [],
-  "timestamp_ms": 1783432227801
+  "positions": [
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 2000.0,
+      "entry_price": 466.6416,
+      "position_value_usd": 1003680.0,
+      "leverage": 10,
+      "unrealized_pnl": 70396.6364,
+      "liquidation_price": 415.4479762805
+    }
+  ],
+  "timestamp_ms": 1783441080278
 }

@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-07
 
+### 16:18 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG ZEC (0x59629e23...)
+- Portfolio equity: $14,925.65 (+49.26%)
+
 ### 12:07 UTC — Daily refresh (Job A)
 - Leaderboard: 40311 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
