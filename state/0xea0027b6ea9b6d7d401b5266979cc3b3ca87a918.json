@@ -5,19 +5,19 @@
       "side": "LONG",
       "size": 7003.8263,
       "entry_price": 1812.69,
-      "position_value_usd": 12424087.47357,
+      "position_value_usd": 12312726.6354,
       "leverage": 5,
-      "unrealized_pnl": -271693.610306,
-      "liquidation_price": 952.4911847219
+      "unrealized_pnl": -383054.448476,
+      "liquidation_price": 986.1555793154
     },
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 20022.69,
       "entry_price": 66.0904,
-      "position_value_usd": 1614529.60815,
+      "position_value_usd": 1581772.48731,
       "leverage": 20,
-      "unrealized_pnl": 291221.00912,
+      "unrealized_pnl": 258463.88828,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 15516.16,
       "entry_price": 44.2456,
-      "position_value_usd": 681485.26336,
+      "position_value_usd": 676070.12352,
       "leverage": 10,
-      "unrealized_pnl": -5037.07152,
+      "unrealized_pnl": -10452.21136,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 1916331.0,
       "entry_price": 0.72482,
-      "position_value_usd": 1395855.5004,
+      "position_value_usd": 1374315.93996,
       "leverage": 10,
-      "unrealized_pnl": 6851.025037,
+      "unrealized_pnl": -14688.535403,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 12815799.0,
       "entry_price": 0.123644,
-      "position_value_usd": 1220999.618127,
+      "position_value_usd": 1184461.775178,
       "leverage": 3,
-      "unrealized_pnl": -363607.777369,
+      "unrealized_pnl": -400145.620318,
       "liquidation_price": 0.0
     },
     {
@@ -55,19 +55,19 @@
       "side": "LONG",
       "size": 100028.87,
       "entry_price": 68.0554,
-      "position_value_usd": 6941903.54913,
+      "position_value_usd": 6816367.31728,
       "leverage": 10,
-      "unrealized_pnl": 134398.290947,
-      "liquidation_price": 10.0693435221
+      "unrealized_pnl": 8862.059097,
+      "liquidation_price": 12.3943373693
     },
     {
       "coin": "VVV",
       "side": "LONG",
       "size": 101371.1,
       "entry_price": 16.7791,
-      "position_value_usd": 1078993.9884,
+      "position_value_usd": 1103018.9391,
       "leverage": 3,
-      "unrealized_pnl": -621926.78213,
+      "unrealized_pnl": -597901.83143,
       "liquidation_price": 0.0
     },
     {
@@ -75,11 +75,11 @@
       "side": "LONG",
       "size": 13901.78,
       "entry_price": 340.9101,
-      "position_value_usd": 6745560.7094,
+      "position_value_usd": 6699406.7998,
       "leverage": 5,
-      "unrealized_pnl": 2006302.8358,
-      "liquidation_price": 58.3293804408
+      "unrealized_pnl": 1960148.9262,
+      "liquidation_price": 80.7688687328
     }
   ],
-  "timestamp_ms": 1783469345811
+  "timestamp_ms": 1783482258372
 }
