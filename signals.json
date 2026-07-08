@@ -8318,5 +8318,18 @@
     "leverage": 10,
     "unrealized_pnl": 70396.6364,
     "liquidation_price": 415.4479762805
+  },
+  {
+    "ts": "2026-07-08T12:54:19.451415+00:00",
+    "trader": "0x9751cec58be43e0e27d57ba49ac3d68ec269a97e",
+    "type": "NEW",
+    "coin": "PAXG",
+    "side": "SHORT",
+    "size": 193.97,
+    "entry_price": 4002.181,
+    "position_value_usd": 791009.66,
+    "leverage": 2,
+    "unrealized_pnl": -14706.506194,
+    "liquidation_price": 26171.1403706712
   }
 ]

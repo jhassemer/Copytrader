@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-08
 
+### 12:54 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW SHORT PAXG (0x9751cec5...)
+- Portfolio equity: $15,583.20 (+55.83%)
+
 ### 11:12 UTC — Daily refresh (Job A)
 - Leaderboard: 40230 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
