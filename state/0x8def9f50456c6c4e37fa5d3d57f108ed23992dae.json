@@ -1,0 +1,95 @@
+{
+  "positions": [
+    {
+      "coin": "SOL",
+      "side": "LONG",
+      "size": 169806.92,
+      "entry_price": 74.6913,
+      "position_value_usd": 13209959.53448,
+      "leverage": 17,
+      "unrealized_pnl": 526848.0558,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "AAVE",
+      "side": "LONG",
+      "size": 81683.16,
+      "entry_price": 85.3694,
+      "position_value_usd": 7442152.7076,
+      "leverage": 10,
+      "unrealized_pnl": 468908.65452,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 9737082.6,
+      "entry_price": 0.51467,
+      "position_value_usd": 3743810.888874,
+      "leverage": 10,
+      "unrealized_pnl": -1267643.850977,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 4228103.3,
+      "entry_price": 2.2171,
+      "position_value_usd": 8134870.7492,
+      "leverage": 10,
+      "unrealized_pnl": -1239294.49916,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 136619.44,
+      "entry_price": 70.5358,
+      "position_value_usd": 9218533.33344,
+      "leverage": 2,
+      "unrealized_pnl": -418041.05044,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "XPL",
+      "side": "LONG",
+      "size": 38988721.0,
+      "entry_price": 0.104,
+      "position_value_usd": 3608523.094713,
+      "leverage": 4,
+      "unrealized_pnl": -446309.698619,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ASTER",
+      "side": "LONG",
+      "size": 3584396.0,
+      "entry_price": 0.74332,
+      "position_value_usd": 2229673.5318,
+      "leverage": 5,
+      "unrealized_pnl": -434680.28876,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 49563.75,
+      "entry_price": 362.2776,
+      "position_value_usd": 22901921.9625,
+      "leverage": 10,
+      "unrealized_pnl": 4946084.834385,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "XMR",
+      "side": "LONG",
+      "size": 6421.686,
+      "entry_price": 336.877,
+      "position_value_usd": 2027775.78822,
+      "leverage": 5,
+      "unrealized_pnl": -135546.80852,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1783606615354
+}

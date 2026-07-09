@@ -4,6 +4,28 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-09
 
+### 14:16 UTC — Position poll (Job B)
+- 18 signal(s) this poll
+- NEW LONG SOL (0x8def9f50...)
+- NEW LONG AAVE (0x8def9f50...)
+- NEW LONG WLD (0x8def9f50...)
+- NEW LONG NEAR (0x8def9f50...)
+- NEW LONG HYPE (0x8def9f50...)
+- NEW LONG XPL (0x8def9f50...)
+- NEW LONG ASTER (0x8def9f50...)
+- NEW LONG ZEC (0x8def9f50...)
+- NEW LONG XMR (0x8def9f50...)
+- NEW LONG BTC (0x8fec806c...)
+- NEW LONG HYPE (0x8fec806c...)
+- NEW LONG GRAM (0x8fec806c...)
+- NEW LONG LDO (0x265eac78...)
+- NEW LONG ETHFI (0x265eac78...)
+- NEW LONG HYPE (0x265eac78...)
+- NEW LONG AERO (0x265eac78...)
+- NEW LONG BTC (0xaac091f5...)
+- NEW LONG HYPE (0xaac091f5...)
+- Portfolio equity: $15,251.95 (+52.52%)
+
 ### 12:14 UTC — Daily refresh (Job A)
 - Leaderboard: 40255 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
