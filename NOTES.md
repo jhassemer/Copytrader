@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-09
+
+### 12:14 UTC — Daily refresh (Job A)
+- Leaderboard: 40255 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0x7be1cba6...
+- +added 0x8def9f50...
+- +added 0x8fec806c...
+- +added 0x265eac78...
+- +added 0xaac091f5...
+- -removed 0xb4eac34d...
+- -removed 0x9751cec5...
+- -removed 0x9e875bd2...
+- -removed 0xa1a24012...
+- -removed 0x462e3f2c...
+- #1 0x7be1cba6... acc=$17,067,316 month=$683,666 edge=283bps
+- #2 0x8def9f50... acc=$98,512,674 month=$2,967,129 edge=794bps
+- #3 0x8fec806c... acc=$7,238,486 month=$311,102 edge=568bps
+- #4 0x265eac78... acc=$11,663,240 month=$831,157 edge=845bps
+- #5 0xaac091f5... acc=$3,724,080 month=$325,128 edge=326bps
+- Current positions across the shortlist:
+-   0x7be1cba6... no open positions
+-   0x8def9f50... 9 positions: LONG SOL x17, LONG AAVE x10, LONG WLD x10, LONG NEAR x10, LONG HYPE x2, LONG XPL x4, LONG ASTER x5, LONG ZEC x10, LONG XMR x5
+-   0x8fec806c... 3 positions: LONG BTC x7, LONG HYPE x7, LONG GRAM x4
+-   0x265eac78... 4 positions: LONG ETHFI x5, LONG HYPE x3, LONG AERO x3, LONG LIT x5
+-   0xaac091f5... 2 positions: LONG BTC x10, LONG HYPE x5
+
 ## 2026-07-08
 
 ### 12:54 UTC — Position poll (Job B)
