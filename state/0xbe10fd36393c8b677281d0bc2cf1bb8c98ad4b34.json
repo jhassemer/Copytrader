@@ -1,0 +1,35 @@
+{
+  "positions": [
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 1000.0557,
+      "entry_price": 1985.98,
+      "position_value_usd": 1798200.15417,
+      "leverage": 25,
+      "unrealized_pnl": -187895.8532,
+      "liquidation_price": 216.1819294645
+    },
+    {
+      "coin": "AAVE",
+      "side": "LONG",
+      "size": 11032.73,
+      "entry_price": 86.0965,
+      "position_value_usd": 1051904.60912,
+      "leverage": 10,
+      "unrealized_pnl": 102024.98858,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "XMR",
+      "side": "LONG",
+      "size": 1500.0,
+      "entry_price": 375.713,
+      "position_value_usd": 482625.0,
+      "leverage": 5,
+      "unrealized_pnl": -80945.97288,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1783690427246
+}

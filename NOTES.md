@@ -4,6 +4,18 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-10
 
+### 13:33 UTC — Position poll (Job B)
+- 8 signal(s) this poll
+- NEW SHORT ETH (0xead5b7d8...)
+- NEW SHORT SOL (0xead5b7d8...)
+- NEW SHORT WLD (0xead5b7d8...)
+- NEW SHORT VVV (0xead5b7d8...)
+- NEW SHORT ZEC (0xead5b7d8...)
+- NEW LONG ETH (0xbe10fd36...)
+- NEW LONG AAVE (0xbe10fd36...)
+- NEW LONG XMR (0xbe10fd36...)
+- Portfolio equity: $14,863.98 (+48.64%)
+
 ### 12:07 UTC — Daily refresh (Job A)
 - Leaderboard: 40378 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

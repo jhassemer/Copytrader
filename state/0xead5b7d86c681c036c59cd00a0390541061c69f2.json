@@ -1,0 +1,55 @@
+{
+  "positions": [
+    {
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 1588.4263,
+      "entry_price": 1760.35,
+      "position_value_usd": 2856149.33003,
+      "leverage": 25,
+      "unrealized_pnl": -59960.537636,
+      "liquidation_price": 2158.587510993
+    },
+    {
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 2897.77,
+      "entry_price": 72.0352,
+      "position_value_usd": 228822.40805,
+      "leverage": 20,
+      "unrealized_pnl": -20080.6894,
+      "liquidation_price": 275.6040135489
+    },
+    {
+      "coin": "WLD",
+      "side": "SHORT",
+      "size": 0.1,
+      "entry_price": 0.50387,
+      "position_value_usd": 0.038815,
+      "leverage": 10,
+      "unrealized_pnl": 0.011572,
+      "liquidation_price": 5562476.580038095
+    },
+    {
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 0.01,
+      "entry_price": 16.4808,
+      "position_value_usd": 0.11375,
+      "leverage": 3,
+      "unrealized_pnl": 0.051058,
+      "liquidation_price": 50062297.10202857
+    },
+    {
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 0.01,
+      "entry_price": 433.2647,
+      "position_value_usd": 5.056,
+      "leverage": 5,
+      "unrealized_pnl": -0.723353,
+      "liquidation_price": 55625267.51895238
+    }
+  ],
+  "timestamp_ms": 1783690426582
+}
