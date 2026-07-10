@@ -5,51 +5,51 @@
       "side": "SHORT",
       "size": 1588.4263,
       "entry_price": 1760.35,
-      "position_value_usd": 2845348.03119,
+      "position_value_usd": 2850907.52324,
       "leverage": 25,
-      "unrealized_pnl": -49159.238796,
-      "liquidation_price": 2160.878168466
+      "unrealized_pnl": -54718.730846,
+      "liquidation_price": 2160.502135724
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 2897.77,
       "entry_price": 72.0352,
-      "position_value_usd": 225463.89262,
+      "position_value_usd": 226133.27749,
       "leverage": 20,
-      "unrealized_pnl": -16722.17397,
-      "liquidation_price": 279.4037926008
+      "unrealized_pnl": -17391.55884,
+      "liquidation_price": 277.5204911851
     },
     {
       "coin": "WLD",
       "side": "SHORT",
       "size": 0.1,
       "entry_price": 0.50387,
-      "position_value_usd": 0.038045,
+      "position_value_usd": 0.03828,
       "leverage": 10,
-      "unrealized_pnl": 0.012342,
-      "liquidation_price": 5702749.298085714
+      "unrealized_pnl": 0.012107,
+      "liquidation_price": 5642940.460495238
     },
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 16.4808,
-      "position_value_usd": 0.11187,
+      "position_value_usd": 0.1138,
       "leverage": 3,
-      "unrealized_pnl": 0.052938,
-      "liquidation_price": 51324751.44574286
+      "unrealized_pnl": 0.051008,
+      "liquidation_price": 50786472.0792
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 433.2647,
-      "position_value_usd": 5.0551,
+      "position_value_usd": 4.9976,
       "leverage": 5,
-      "unrealized_pnl": -0.722453,
-      "liquidation_price": 57027994.686380945
+      "unrealized_pnl": -0.664953,
+      "liquidation_price": 56429900.536952384
     }
   ],
-  "timestamp_ms": 1783716929034
+  "timestamp_ms": 1783721359547
 }
