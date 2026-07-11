@@ -5,19 +5,19 @@
       "side": "LONG",
       "size": 1000.0557,
       "entry_price": 1985.98,
-      "position_value_usd": 1825801.69149,
+      "position_value_usd": 1814101.0398,
       "leverage": 25,
-      "unrealized_pnl": -160294.31588,
-      "liquidation_price": 153.1324291298
+      "unrealized_pnl": -171994.96757,
+      "liquidation_price": 160.8473249744
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 11032.73,
       "entry_price": 86.0965,
-      "position_value_usd": 1115078.0211,
+      "position_value_usd": 1108127.4012,
       "leverage": 10,
-      "unrealized_pnl": 165198.40056,
+      "unrealized_pnl": 158247.78066,
       "liquidation_price": 0.0
     },
     {
@@ -25,11 +25,11 @@
       "side": "LONG",
       "size": 1500.0,
       "entry_price": 375.713,
-      "position_value_usd": 484140.0,
+      "position_value_usd": 483120.0,
       "leverage": 5,
-      "unrealized_pnl": -79430.97288,
+      "unrealized_pnl": -80450.97288,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1783805328477
+  "timestamp_ms": 1783808821212
 }
