@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-14
+
+### 10:54 UTC — Daily refresh (Job A)
+- Leaderboard: 40354 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0xbe10fd36...
+- +added 0xa99767ff...
+- +added 0x6041f881...
+- +added 0x67fcc46e...
+- -removed 0x4937c6b3...
+- -removed 0x9e875bd2...
+- -removed 0x215b369a...
+- -removed 0x6bb97143...
+- #1 0xbe10fd36... acc=$1,824,487 month=$492,638 edge=435bps
+- #2 0xa99767ff... acc=$2,152,239 month=$260,113 edge=249bps
+- #3 0x9237794d... acc=$2,656,347 month=$1,043,023 edge=1929bps
+- #4 0x6041f881... acc=$1,982,181 month=$264,425 edge=529bps
+- #5 0x67fcc46e... acc=$1,867,952 month=$321,218 edge=161bps
+- Current positions across the shortlist:
+-   0xbe10fd36... 3 positions: LONG ETH x25, LONG AAVE x10, LONG XMR x5
+-   0xa99767ff... no open positions
+-   0x9237794d... no open positions
+-   0x6041f881... 3 positions: SHORT BTC x15, SHORT ETH x25, SHORT HYPE x10
+-   0x67fcc46e... 14 positions: SHORT ZRO x5, SHORT kBONK x10, SHORT JTO x5, SHORT ETHFI x5, SHORT GRASS x3, LONG TRUMP x10, LONG LAYER x3, SHORT XPL x10, SHORT MON x5, LONG MET x3, SHORT MEGA x3, SHORT AERO x3, SHORT LIT x5, SHORT GRAM x5
+
 ## 2026-07-13
 
 ### 13:33 UTC — Position poll (Job B)
