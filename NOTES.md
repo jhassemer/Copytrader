@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-14
 
+### 11:54 UTC — Position poll (Job B)
+- 17 signal(s) this poll
+- NEW SHORT BTC (0x6041f881...)
+- NEW SHORT ETH (0x6041f881...)
+- NEW SHORT HYPE (0x6041f881...)
+- NEW SHORT ZRO (0x67fcc46e...)
+- NEW SHORT kBONK (0x67fcc46e...)
+- NEW SHORT JTO (0x67fcc46e...)
+- NEW SHORT ETHFI (0x67fcc46e...)
+- NEW SHORT GRASS (0x67fcc46e...)
+- NEW LONG TRUMP (0x67fcc46e...)
+- NEW LONG LAYER (0x67fcc46e...)
+- NEW SHORT XPL (0x67fcc46e...)
+- NEW SHORT MON (0x67fcc46e...)
+- NEW LONG MET (0x67fcc46e...)
+- NEW SHORT MEGA (0x67fcc46e...)
+- NEW SHORT AERO (0x67fcc46e...)
+- NEW SHORT LIT (0x67fcc46e...)
+- NEW SHORT GRAM (0x67fcc46e...)
+- Portfolio equity: $15,402.12 (+54.02%)
+
 ### 10:54 UTC — Daily refresh (Job A)
 - Leaderboard: 40354 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
