@@ -1,0 +1,25 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 31.31624,
+      "entry_price": 65531.2,
+      "position_value_usd": 2026661.78784,
+      "leverage": 20,
+      "unrealized_pnl": -25529.240146,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 8092.4521,
+      "entry_price": 1658.44,
+      "position_value_usd": 15242133.53035,
+      "leverage": 15,
+      "unrealized_pnl": 1821269.001967,
+      "liquidation_price": 1403.3403699263
+    }
+  ],
+  "timestamp_ms": 1784116974955
+}

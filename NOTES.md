@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-15
 
+### 12:02 UTC — Position poll (Job B)
+- 17 signal(s) this poll
+- NEW SHORT AVAX (0x0748e296...)
+- NEW SHORT INJ (0x0748e296...)
+- NEW SHORT SUI (0x0748e296...)
+- NEW LONG LDO (0x0748e296...)
+- NEW SHORT XRP (0x0748e296...)
+- NEW LONG AAVE (0x0748e296...)
+- NEW SHORT ADA (0x0748e296...)
+- NEW LONG JUP (0x0748e296...)
+- NEW SHORT XLM (0x0748e296...)
+- NEW LONG HYPE (0x0748e296...)
+- NEW SHORT VVV (0x0748e296...)
+- NEW SHORT WLFI (0x0748e296...)
+- NEW LONG ZEC (0x0748e296...)
+- NEW LONG AERO (0x0748e296...)
+- NEW LONG LIT (0x0748e296...)
+- NEW LONG BTC (0x9eec98d0...)
+- NEW LONG ETH (0x9eec98d0...)
+- Portfolio equity: $15,028.71 (+50.29%)
+
 ### 11:00 UTC — Daily refresh (Job A)
 - Leaderboard: 40620 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
