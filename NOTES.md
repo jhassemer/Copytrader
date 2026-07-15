@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-15
 
+### 11:00 UTC — Daily refresh (Job A)
+- Leaderboard: 40620 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0xbf2a1200...
+- +added 0x668cec05...
+- +added 0x0748e296...
+- +added 0x9eec98d0...
+- -removed 0xbe10fd36...
+- -removed 0xa99767ff...
+- -removed 0x6041f881...
+- -removed 0x67fcc46e...
+- #1 0xbf2a1200... acc=$162,895 month=$212,455 edge=358bps
+- #2 0x668cec05... acc=$3,314,792 month=$523,556 edge=344bps
+- #3 0x0748e296... acc=$5,416,259 month=$1,095,408 edge=446bps
+- #4 0x9237794d... acc=$2,687,882 month=$1,073,723 edge=1986bps
+- #5 0x9eec98d0... acc=$6,985,148 month=$2,006,290 edge=2791bps
+- Current positions across the shortlist:
+-   0xbf2a1200... no open positions
+-   0x668cec05... no open positions
+-   0x0748e296... 15 positions: SHORT AVAX x10, SHORT INJ x5, SHORT SUI x10, LONG LDO x5, SHORT XRP x20, LONG AAVE x10, SHORT ADA x10, LONG JUP x10, SHORT XLM x5, LONG HYPE x10, SHORT VVV x3, SHORT WLFI x5, LONG ZEC x7, LONG AERO x3, LONG LIT x5
+-   0x9237794d... no open positions
+-   0x9eec98d0... 2 positions: LONG BTC x20, LONG ETH x15
+
 ### 08:40 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - NEW SHORT BTC (0xbe10fd36...)
