@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-16
 
+### 11:16 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW SHORT LINK (0x3dc90837...)
+- NEW SHORT HYPE (0x3dc90837...)
+- NEW SHORT VVV (0x3dc90837...)
+- Portfolio equity: $15,197.71 (+51.98%)
+
 ### 11:07 UTC — Daily refresh (Job A)
 - Leaderboard: 40583 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
