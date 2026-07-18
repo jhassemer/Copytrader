@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-18
 
+### 10:52 UTC — Position poll (Job B)
+- 15 signal(s) this poll
+- NEW SHORT HYPE (0xd7b19f8a...)
+- NEW SHORT HYPE (0x88560b72...)
+- CLOSED SHORT SOL (0x06cecfba...)
+- NEW SHORT ETH (0xb0fbfefc...)
+- NEW SHORT SOL (0xb0fbfefc...)
+- NEW SHORT AAVE (0xb0fbfefc...)
+- NEW SHORT ZRO (0xb0fbfefc...)
+- NEW SHORT NEAR (0xb0fbfefc...)
+- NEW SHORT JTO (0xb0fbfefc...)
+- NEW SHORT ENA (0xb0fbfefc...)
+- NEW SHORT MNT (0xb0fbfefc...)
+- NEW SHORT HYPE (0xb0fbfefc...)
+- NEW SHORT XPL (0xb0fbfefc...)
+- NEW SHORT XMR (0xb0fbfefc...)
+- NEW SHORT GRAM (0xb0fbfefc...)
+- Portfolio equity: $15,461.22 (+54.61%)
+
 ### 10:36 UTC — Daily refresh (Job A)
 - Leaderboard: 40367 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
