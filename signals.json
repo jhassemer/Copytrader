@@ -9436,5 +9436,18 @@
     "leverage": 5,
     "unrealized_pnl": 32502.7195,
     "liquidation_price": 7.9143901493
+  },
+  {
+    "ts": "2026-07-19T10:47:33.975697+00:00",
+    "trader": "0x484bc1608211d0604bf70bae72792a56884562f8",
+    "type": "NEW",
+    "coin": "FET",
+    "side": "LONG",
+    "size": 10558.0,
+    "entry_price": 0.188442,
+    "position_value_usd": 1664.605954,
+    "leverage": 5,
+    "unrealized_pnl": -324.975166,
+    "liquidation_price": 0.0
   }
 ]

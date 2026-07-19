@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-19
 
+### 10:47 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG FET (0x484bc160...)
+- Portfolio equity: $15,356.51 (+53.57%)
+
 ### 10:41 UTC — Daily refresh (Job A)
 - Leaderboard: 40636 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
