@@ -1,5 +1,5 @@
 {
-  "cash": 0.3740815596954534,
+  "cash": 0.3376086076251467,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7140,6 +7140,28 @@
       "margin": 0.019688503141865973,
       "notional": 0.05906550942559792,
       "opened_at": "2026-07-19T10:47:35.236945+00:00"
+    },
+    "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:ONDO:SHORT": {
+      "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+      "coin": "ONDO",
+      "side": "SHORT",
+      "size": 0.16049028489121425,
+      "entry_price": 0.3496300975,
+      "leverage": 3,
+      "margin": 0.018704077984772673,
+      "notional": 0.05611223395431802,
+      "opened_at": "2026-07-19T12:40:40.003883+00:00"
+    },
+    "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:VVV:SHORT": {
+      "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 0.004532253146467188,
+      "entry_price": 11.761616250000001,
+      "leverage": 3,
+      "margin": 0.01776887408553404,
+      "notional": 0.05330662225660211,
+      "opened_at": "2026-07-19T12:40:40.003906+00:00"
     }
   },
   "equity_history": [
@@ -10397,7 +10419,12 @@
       "ts": "2026-07-19T11:45:45.897444+00:00",
       "equity": 15418.629471277774,
       "cash": 0.3740815596954534
+    },
+    {
+      "ts": "2026-07-19T12:40:40.004104+00:00",
+      "equity": 15461.231377649641,
+      "cash": 0.3376086076251467
     }
   ],
-  "last_processed_signal_index": 726
+  "last_processed_signal_index": 728
 }

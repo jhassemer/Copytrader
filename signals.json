@@ -9449,5 +9449,31 @@
     "leverage": 5,
     "unrealized_pnl": -324.975166,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-19T12:40:38.369663+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "coin": "ONDO",
+    "side": "SHORT",
+    "size": 140000.0,
+    "entry_price": 0.351341,
+    "position_value_usd": 48967.8,
+    "leverage": 10,
+    "unrealized_pnl": 220.02771,
+    "liquidation_price": 8.277921858
+  },
+  {
+    "ts": "2026-07-19T12:40:38.369663+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 4200.0,
+    "entry_price": 11.7507,
+    "position_value_usd": 49413.0,
+    "leverage": 3,
+    "unrealized_pnl": -59.79401,
+    "liquidation_price": 249.6095557388
   }
 ]
