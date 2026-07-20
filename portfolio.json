@@ -1,5 +1,5 @@
 {
-  "cash": 0.3376086076251467,
+  "cash": 0.32072817724388936,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7162,6 +7162,17 @@
       "margin": 0.01776887408553404,
       "notional": 0.05330662225660211,
       "opened_at": "2026-07-19T12:40:40.003906+00:00"
+    },
+    "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:WLD:SHORT": {
+      "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+      "coin": "WLD",
+      "side": "SHORT",
+      "size": 0.13704794280768193,
+      "entry_price": 0.36951515,
+      "leverage": 3,
+      "margin": 0.016880430381257337,
+      "notional": 0.05064129114377201,
+      "opened_at": "2026-07-20T01:09:56.787139+00:00"
     }
   },
   "equity_history": [
@@ -10474,7 +10485,12 @@
       "ts": "2026-07-19T23:33:20.700250+00:00",
       "equity": 15584.3892711794,
       "cash": 0.3376086076251467
+    },
+    {
+      "ts": "2026-07-20T01:09:56.787335+00:00",
+      "equity": 15415.303223030389,
+      "cash": 0.32072817724388936
     }
   ],
-  "last_processed_signal_index": 728
+  "last_processed_signal_index": 729
 }
