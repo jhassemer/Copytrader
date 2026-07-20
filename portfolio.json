@@ -1,5 +1,5 @@
 {
-  "cash": 0.32072817724388936,
+  "cash": 0.34500391337429914,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7097,17 +7097,6 @@
       "notional": 0.07251695051523291,
       "opened_at": "2026-07-18T10:52:52.785502+00:00"
     },
-    "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:XPL:SHORT": {
-      "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
-      "coin": "XPL",
-      "side": "SHORT",
-      "size": 0.8220789543832812,
-      "entry_price": 0.0838010785,
-      "leverage": 3,
-      "margin": 0.02296370099649042,
-      "notional": 0.06889110298947126,
-      "opened_at": "2026-07-18T10:52:52.785506+00:00"
-    },
     "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:XMR:SHORT": {
       "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
       "coin": "XMR",
@@ -10490,7 +10479,12 @@
       "ts": "2026-07-20T01:09:56.787335+00:00",
       "equity": 15415.303223030389,
       "cash": 0.32072817724388936
+    },
+    {
+      "ts": "2026-07-20T04:52:54.361964+00:00",
+      "equity": 15593.29392135595,
+      "cash": 0.34500391337429914
     }
   ],
-  "last_processed_signal_index": 729
+  "last_processed_signal_index": 730
 }

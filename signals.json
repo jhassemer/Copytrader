@@ -9488,5 +9488,18 @@
     "leverage": 10,
     "unrealized_pnl": -239.796963,
     "liquidation_price": 8.0741458283
+  },
+  {
+    "ts": "2026-07-20T04:52:52.978750+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "CLOSED",
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 1500000.0,
+    "entry_price": 0.091448,
+    "position_value_usd": 123001.5,
+    "leverage": 10,
+    "unrealized_pnl": 14171.429745,
+    "liquidation_price": 0.801125544
   }
 ]
