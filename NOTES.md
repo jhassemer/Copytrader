@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-21
 
+### 11:16 UTC — Daily refresh (Job A)
+- Leaderboard: 40849 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x15a4f009...
+- +added 0xe2321c83...
+- +added 0xb4caaff7...
+- +added 0x5ad79acb...
+- -removed 0x45d26f28...
+- -removed 0xd7b19f8a...
+- -removed 0x88560b72...
+- -removed 0xdfd52640...
+- #1 0x15a4f009... acc=$10,476,094 month=$5,476,094 edge=672bps
+- #2 0xe2321c83... acc=$20,015,354 month=$1,058,942 edge=542bps
+- #3 0xb4caaff7... acc=$5,306,578 month=$599,877 edge=221bps
+- #4 0x9eec98d0... acc=$7,635,978 month=$2,631,471 edge=3661bps
+- #5 0x5ad79acb... acc=$119,490 month=$68,283 edge=33bps
+- Current positions across the shortlist:
+-   0x15a4f009... 2 positions: LONG BTC x40, LONG ETH x20
+-   0xe2321c83... no open positions
+-   0xb4caaff7... no open positions
+-   0x9eec98d0... 2 positions: LONG BTC x20, LONG ETH x15
+-   0x5ad79acb... 1 positions: LONG VVV x3
+
 ### 07:15 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - NEW SHORT CASHCAT (0x45d26f28...)
