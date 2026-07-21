@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-21
 
+### 11:31 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW LONG BTC (0x15a4f009...)
+- NEW LONG ETH (0x15a4f009...)
+- NEW LONG VVV (0x5ad79acb...)
+- Portfolio equity: $14,893.66 (+48.94%)
+
 ### 11:16 UTC — Daily refresh (Job A)
 - Leaderboard: 40849 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

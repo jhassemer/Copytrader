@@ -1,5 +1,5 @@
 {
-  "cash": 0.3277537177055842,
+  "cash": 0.2810078437178252,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7173,6 +7173,39 @@
       "margin": 0.017250195668714958,
       "notional": 0.05175058700614488,
       "opened_at": "2026-07-21T07:15:55.975338+00:00"
+    },
+    "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb:BTC:LONG": {
+      "trader": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 7.419090085929388e-07,
+      "entry_price": 66265.61624999999,
+      "leverage": 3,
+      "margin": 0.01638768588527921,
+      "notional": 0.04916305765583763,
+      "opened_at": "2026-07-21T11:31:24.380458+00:00"
+    },
+    "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb:ETH:LONG": {
+      "trader": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 2.4177943281652325e-05,
+      "entry_price": 1931.715375,
+      "leverage": 3,
+      "margin": 0.01556830159101525,
+      "notional": 0.04670490477304575,
+      "opened_at": "2026-07-21T11:31:24.380481+00:00"
+    },
+    "0x5ad79acbe4a9961ca921e5f28687119913e3e9ba:VVV:LONG": {
+      "trader": "0x5ad79acbe4a9961ca921e5f28687119913e3e9ba",
+      "coin": "VVV",
+      "side": "LONG",
+      "size": 0.003432866493129831,
+      "entry_price": 12.924959249999999,
+      "leverage": 3,
+      "margin": 0.01478988651146449,
+      "notional": 0.044369659534393466,
+      "opened_at": "2026-07-21T11:31:24.380488+00:00"
     }
   },
   "equity_history": [
@@ -10565,7 +10598,12 @@
       "ts": "2026-07-21T09:44:40.315813+00:00",
       "equity": 14935.1350951352,
       "cash": 0.3277537177055842
+    },
+    {
+      "ts": "2026-07-21T11:31:24.380682+00:00",
+      "equity": 14893.657131174055,
+      "cash": 0.2810078437178252
     }
   ],
-  "last_processed_signal_index": 731
+  "last_processed_signal_index": 734
 }
