@@ -9501,5 +9501,18 @@
     "leverage": 10,
     "unrealized_pnl": 14171.429745,
     "liquidation_price": 0.801125544
+  },
+  {
+    "ts": "2026-07-21T07:15:54.158467+00:00",
+    "trader": "0x45d26f28196d226497130c4bac709d808fed4029",
+    "type": "NEW",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 1730517.0,
+    "entry_price": 0.085409,
+    "position_value_usd": 145503.599877,
+    "leverage": 3,
+    "unrealized_pnl": 2299.046693,
+    "liquidation_price": 0.3948197241
   }
 ]
