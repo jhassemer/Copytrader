@@ -5,41 +5,41 @@
       "side": "SHORT",
       "size": 600.0025,
       "entry_price": 3130.19,
-      "position_value_usd": 1151464.79775,
+      "position_value_usd": 1157584.82325,
       "leverage": 6,
-      "unrealized_pnl": 726661.924378,
-      "liquidation_price": 2733.3635937023
+      "unrealized_pnl": 720541.898878,
+      "liquidation_price": 2734.1651954882
     },
     {
       "coin": "LTC",
       "side": "SHORT",
       "size": 81.4,
       "entry_price": 54.1733,
-      "position_value_usd": 3792.9958,
+      "position_value_usd": 3804.3918,
       "leverage": 10,
-      "unrealized_pnl": 616.71412,
-      "liquidation_price": 5877.0801603838
+      "unrealized_pnl": 605.31812,
+      "liquidation_price": 5809.923522113
     },
     {
       "coin": "BCH",
       "side": "SHORT",
       "size": 76.318,
       "entry_price": 375.073,
-      "position_value_usd": 16899.09474,
+      "position_value_usd": 16790.72318,
       "leverage": 5,
-      "unrealized_pnl": 11725.73177,
-      "liquidation_price": 6440.1638407091
+      "unrealized_pnl": 11834.10333,
+      "liquidation_price": 6366.9659330695
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 284.02,
       "entry_price": 543.8503,
-      "position_value_usd": 145852.7906,
+      "position_value_usd": 145384.1576,
       "leverage": 3,
-      "unrealized_pnl": 8611.596186,
-      "liquidation_price": 2184.5437640139
+      "unrealized_pnl": 9080.229186,
+      "liquidation_price": 2163.6065787621
     }
   ],
-  "timestamp_ms": 1784724610619
+  "timestamp_ms": 1784732132983
 }
