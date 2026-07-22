@@ -4,6 +4,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-22
 
+### 12:50 UTC — Position poll (Job B)
+- 5 signal(s) this poll
+- NEW LONG LIT (0xd487e26c...)
+- NEW SHORT ETH (0xdbd1bac8...)
+- NEW SHORT LTC (0xdbd1bac8...)
+- NEW SHORT BCH (0xdbd1bac8...)
+- NEW SHORT ZEC (0xdbd1bac8...)
+- Portfolio equity: $15,011.02 (+50.11%)
+
 ### 11:16 UTC — Daily refresh (Job A)
 - Leaderboard: 40728 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

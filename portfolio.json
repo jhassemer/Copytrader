@@ -1,5 +1,5 @@
 {
-  "cash": 0.2810078437178252,
+  "cash": 0.2174385127568323,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7206,6 +7206,61 @@
       "margin": 0.01478988651146449,
       "notional": 0.044369659534393466,
       "opened_at": "2026-07-21T11:31:24.380488+00:00"
+    },
+    "0xd487e26c62ed8c28ce3cc70b5791e501c2934982:LIT:LONG": {
+      "trader": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 0.018598027414436426,
+      "entry_price": 2.2664326499999996,
+      "leverage": 3,
+      "margin": 0.014050392185891263,
+      "notional": 0.04215117655767379,
+      "opened_at": "2026-07-22T12:50:11.524203+00:00"
+    },
+    "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd:ETH:SHORT": {
+      "trader": "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 2.0875726000868807e-05,
+      "entry_price": 1918.1904250000002,
+      "leverage": 3,
+      "margin": 0.013347872576596698,
+      "notional": 0.04004361772979009,
+      "opened_at": "2026-07-22T12:50:11.524225+00:00"
+    },
+    "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd:LTC:SHORT": {
+      "trader": "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd",
+      "coin": "LTC",
+      "side": "SHORT",
+      "size": 0.0008167569840199791,
+      "entry_price": 46.57620025,
+      "leverage": 3,
+      "margin": 0.012680478947766865,
+      "notional": 0.038041436843300594,
+      "opened_at": "2026-07-22T12:50:11.524231+00:00"
+    },
+    "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd:BCH:SHORT": {
+      "trader": "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd",
+      "coin": "BCH",
+      "side": "SHORT",
+      "size": 0.0001632795670392064,
+      "entry_price": 221.3342775,
+      "leverage": 3,
+      "margin": 0.012046455000378521,
+      "notional": 0.036139365001135564,
+      "opened_at": "2026-07-22T12:50:11.524235+00:00"
+    },
+    "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd:ZEC:SHORT": {
+      "trader": "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 6.688847213305268e-05,
+      "entry_price": 513.2782325,
+      "leverage": 3,
+      "margin": 0.011444132250359595,
+      "notional": 0.034332396751078784,
+      "opened_at": "2026-07-22T12:50:11.524239+00:00"
     }
   },
   "equity_history": [
@@ -10668,7 +10723,12 @@
       "ts": "2026-07-22T11:16:48.084223+00:00",
       "equity": 14928.751732219436,
       "cash": 0.2810078437178252
+    },
+    {
+      "ts": "2026-07-22T12:50:11.524423+00:00",
+      "equity": 15011.022171278,
+      "cash": 0.2174385127568323
     }
   ],
-  "last_processed_signal_index": 734
+  "last_processed_signal_index": 739
 }
