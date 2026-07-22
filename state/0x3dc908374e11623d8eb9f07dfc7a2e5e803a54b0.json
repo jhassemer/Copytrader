@@ -5,41 +5,41 @@
       "side": "SHORT",
       "size": 200000.0,
       "entry_price": 7.55579,
-      "position_value_usd": 1725780.0,
+      "position_value_usd": 1720160.0,
       "leverage": 10,
-      "unrealized_pnl": -214621.582923,
-      "liquidation_price": 36.2518670608
+      "unrealized_pnl": -209001.582923,
+      "liquidation_price": 36.1762709254
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 70000.0,
       "entry_price": 62.8016,
-      "position_value_usd": 4129580.0,
+      "position_value_usd": 4140710.0,
       "leverage": 10,
-      "unrealized_pnl": 266534.50347,
-      "liquidation_price": 137.9167630309
+      "unrealized_pnl": 255404.50347,
+      "liquidation_price": 137.9400597867
     },
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 80000.0,
       "entry_price": 20.519,
-      "position_value_usd": 974320.0,
+      "position_value_usd": 975360.0,
       "leverage": 3,
-      "unrealized_pnl": 667200.43411,
-      "liquidation_price": 74.3306758868
+      "unrealized_pnl": 666160.43411,
+      "liquidation_price": 74.2368095821
     },
     {
       "coin": "PAXG",
       "side": "SHORT",
       "size": 0.454,
       "entry_price": 4596.297,
-      "position_value_usd": 1870.396464,
+      "position_value_usd": 1867.302,
       "leverage": 10,
-      "unrealized_pnl": 216.322445,
-      "liquidation_price": 11919877.851539847
+      "unrealized_pnl": 219.416909,
+      "liquidation_price": 11899899.001651982
     }
   ],
-  "timestamp_ms": 1784759515188
+  "timestamp_ms": 1784763303307
 }
