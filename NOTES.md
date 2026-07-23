@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-23
+
+### 11:18 UTC — Daily refresh (Job A)
+- Leaderboard: 40824 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0xcb58b8f5...
+- +added 0xe2823659...
+- +added 0xdfd52640...
+- +added 0x4c6d679e...
+- +added 0x9eec98d0...
+- -removed 0xd487e26c...
+- -removed 0x88560b72...
+- -removed 0xb4caaff7...
+- -removed 0x3dc90837...
+- -removed 0xdbd1bac8...
+- #1 0xcb58b8f5... acc=$2,995,811 month=$166,478 edge=220bps
+- #2 0xe2823659... acc=$3,829,471 month=$2,873,364 edge=5513bps
+- #3 0xdfd52640... acc=$29,741,897 month=$3,253,749 edge=1157bps
+- #4 0x4c6d679e... acc=$18,843,645 month=$1,619,997 edge=867bps
+- #5 0x9eec98d0... acc=$7,426,805 month=$2,457,957 edge=3419bps
+- Current positions across the shortlist:
+-   0xcb58b8f5... 2 positions: LONG BTC x17, LONG AR x5
+-   0xe2823659... 11 positions: LONG BTC x10, LONG ETH x10, LONG LINK x10, LONG GMX x3, LONG AAVE x10, LONG UNI x10, LONG NEAR x5, LONG ONDO x10, LONG HYPE x10, LONG VVV x3, LONG ZEC x10
+-   0xdfd52640... no open positions
+-   0x4c6d679e... 1 positions: LONG XMR x3
+-   0x9eec98d0... 2 positions: LONG BTC x20, LONG ETH x15
+
 ## 2026-07-22
 
 ### 12:50 UTC — Position poll (Job B)
