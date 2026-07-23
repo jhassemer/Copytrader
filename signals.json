@@ -9618,5 +9618,44 @@
     "leverage": 3,
     "unrealized_pnl": 8611.596186,
     "liquidation_price": 2184.5437640139
+  },
+  {
+    "ts": "2026-07-23T11:34:10.339176+00:00",
+    "trader": "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 50.0,
+    "entry_price": 63862.9,
+    "position_value_usd": 3278925.0,
+    "leverage": 17,
+    "unrealized_pnl": 85776.37548,
+    "liquidation_price": 52222.4927034937
+  },
+  {
+    "ts": "2026-07-23T11:34:10.339176+00:00",
+    "trader": "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b",
+    "type": "NEW",
+    "coin": "AR",
+    "side": "LONG",
+    "size": 175000.0,
+    "entry_price": 2.3515,
+    "position_value_usd": 330015.0,
+    "leverage": 5,
+    "unrealized_pnl": -81513.29708,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-23T11:34:10.339176+00:00",
+    "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 3061.004,
+    "entry_price": 340.491,
+    "position_value_usd": 1080978.25758,
+    "leverage": 3,
+    "unrealized_pnl": 38732.162128,
+    "liquidation_price": 222.0532958551
   }
 ]

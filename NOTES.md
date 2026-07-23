@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-23
 
+### 11:34 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW LONG BTC (0xcb58b8f5...)
+- NEW LONG AR (0xcb58b8f5...)
+- NEW LONG XMR (0x4c6d679e...)
+- Portfolio equity: $14,998.71 (+49.99%)
+
 ### 11:18 UTC — Daily refresh (Job A)
 - Leaderboard: 40824 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
