@@ -1,5 +1,5 @@
 {
-  "cash": 0.18642634487488907,
+  "cash": 0.19697850046827367,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7262,17 +7262,6 @@
       "notional": 0.034332396751078784,
       "opened_at": "2026-07-22T12:50:11.524239+00:00"
     },
-    "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b:BTC:LONG": {
-      "trader": "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b",
-      "coin": "BTC",
-      "side": "LONG",
-      "size": 4.970834332081056e-07,
-      "entry_price": 65614.29075,
-      "leverage": 3,
-      "margin": 0.010871925637841616,
-      "notional": 0.032615776913524845,
-      "opened_at": "2026-07-23T11:34:11.724055+00:00"
-    },
     "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b:AR:LONG": {
       "trader": "0xcb58b8f5ec6d47985f0728465c25a08ef9ad2c7b",
       "coin": "AR",
@@ -10886,7 +10875,12 @@
       "ts": "2026-07-24T08:46:30.817609+00:00",
       "equity": 15214.981914192782,
       "cash": 0.18642634487488907
+    },
+    {
+      "ts": "2026-07-24T10:50:38.685529+00:00",
+      "equity": 15352.614753988186,
+      "cash": 0.19697850046827367
     }
   ],
-  "last_processed_signal_index": 742
+  "last_processed_signal_index": 743
 }
