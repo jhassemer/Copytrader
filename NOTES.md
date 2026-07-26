@@ -4,6 +4,18 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-26
 
+### 10:50 UTC — Position poll (Job B)
+- 8 signal(s) this poll
+- NEW SHORT DOGE (0x1e771e1b...)
+- NEW LONG TIA (0x1e771e1b...)
+- NEW LONG kBONK (0x1e771e1b...)
+- NEW LONG ENA (0x1e771e1b...)
+- NEW SHORT HYPE (0x1e771e1b...)
+- NEW LONG XPL (0x1e771e1b...)
+- NEW SHORT ZEC (0x1e771e1b...)
+- NEW LONG ETH (0xf9291229...)
+- Portfolio equity: $15,165.59 (+51.66%)
+
 ### 10:49 UTC — Daily refresh (Job A)
 - Leaderboard: 40871 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
