@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-07-27
+
+### 12:34 UTC — Daily refresh (Job A)
+- Leaderboard: 40995 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0xdb095d5a...
+- +added 0x66466428...
+- +added 0xec0b9ebf...
+- +added 0xe2321c83...
+- +added 0x92ea19ec...
+- -removed 0xe5ac6d42...
+- -removed 0xdfd52640...
+- -removed 0x1e771e1b...
+- -removed 0xf9291229...
+- -removed 0xb4caaff7...
+- #1 0xdb095d5a... acc=$9,376,477 month=$145,626 edge=49bps
+- #2 0x66466428... acc=$5,475,915 month=$4,049,022 edge=2210bps
+- #3 0xec0b9ebf... acc=$6,635,233 month=$3,976,317 edge=6020bps
+- #4 0xe2321c83... acc=$19,966,112 month=$2,044,099 edge=1046bps
+- #5 0x92ea19ec... acc=$65,847,768 month=$4,288,981 edge=2949bps
+- Current positions across the shortlist:
+-   0xdb095d5a... no open positions
+-   0x66466428... 2 positions: LONG BTC x29, LONG ETH x25
+-   0xec0b9ebf... 10 positions: LONG BTC x40, LONG ETH x25, LONG DOGE x10, LONG CRV x10, LONG XRP x20, LONG BCH x10, LONG WLD x10, LONG NEAR x10, LONG WIF x5, LONG ENA x10
+-   0xe2321c83... no open positions
+-   0x92ea19ec... 2 positions: LONG BTC x5, SHORT ZEC x2
+
 ## 2026-07-26
 
 ### 10:50 UTC — Position poll (Job B)
