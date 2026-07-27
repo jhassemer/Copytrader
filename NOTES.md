@@ -4,6 +4,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-27
 
+### 13:43 UTC — Position poll (Job B)
+- 12 signal(s) this poll
+- NEW LONG BTC (0x66466428...)
+- NEW LONG ETH (0x66466428...)
+- NEW LONG BTC (0xec0b9ebf...)
+- NEW LONG ETH (0xec0b9ebf...)
+- NEW LONG DOGE (0xec0b9ebf...)
+- NEW LONG CRV (0xec0b9ebf...)
+- NEW LONG XRP (0xec0b9ebf...)
+- NEW LONG BCH (0xec0b9ebf...)
+- NEW LONG WLD (0xec0b9ebf...)
+- NEW LONG NEAR (0xec0b9ebf...)
+- NEW LONG WIF (0xec0b9ebf...)
+- NEW LONG ENA (0xec0b9ebf...)
+- Portfolio equity: $14,849.30 (+48.49%)
+
 ### 12:34 UTC — Daily refresh (Job A)
 - Leaderboard: 40995 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
