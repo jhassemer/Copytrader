@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-28
 
+### 11:27 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW LONG HYPE (0x3e516cf3...)
+- NEW SHORT CASHCAT (0x3e516cf3...)
+- NEW SHORT HYPE (0x37b81ab9...)
+- Portfolio equity: $15,812.81 (+58.13%)
+
 ### 11:25 UTC — Daily refresh (Job A)
 - Leaderboard: 40782 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
