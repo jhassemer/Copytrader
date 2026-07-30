@@ -4,6 +4,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-30
 
+### 11:18 UTC — Position poll (Job B)
+- 7 signal(s) this poll
+- NEW SHORT BTC (0xe187055f...)
+- NEW SHORT XRP (0xe187055f...)
+- NEW SHORT HYPE (0xe187055f...)
+- NEW SHORT SPX (0xe187055f...)
+- NEW SHORT ASTER (0xe187055f...)
+- NEW SHORT LIT (0xe187055f...)
+- NEW LONG HYPE (0x07295d12...)
+- Portfolio equity: $15,920.28 (+59.20%)
+
 ### 11:17 UTC — Daily refresh (Job A)
 - Leaderboard: 40916 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

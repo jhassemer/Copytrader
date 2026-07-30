@@ -1,5 +1,5 @@
 {
-  "cash": 0.042279221863843613,
+  "cash": 0.02952515747734431,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7613,6 +7613,83 @@
       "margin": 0.00222522220336019,
       "notional": 0.00667566661008057,
       "opened_at": "2026-07-28T11:27:07.059465+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:BTC:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 9.817432647867929e-08,
+      "entry_price": 64598.18475,
+      "leverage": 3,
+      "margin": 0.0021139610931921807,
+      "notional": 0.006341883279576542,
+      "opened_at": "2026-07-30T11:18:37.307128+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:XRP:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "XRP",
+      "side": "SHORT",
+      "size": 0.005577425877498281,
+      "entry_price": 1.0802096250000002,
+      "leverage": 3,
+      "margin": 0.002008263038532572,
+      "notional": 0.0060247891155977154,
+      "opened_at": "2026-07-30T11:18:37.307148+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:HYPE:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.00010741522136615249,
+      "entry_price": 53.2843445,
+      "leverage": 3,
+      "margin": 0.0019078498866059435,
+      "notional": 0.00572354965981783,
+      "opened_at": "2026-07-30T11:18:37.307154+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:SPX:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "SPX",
+      "side": "SHORT",
+      "size": 0.01615181325654941,
+      "entry_price": 0.336641595,
+      "leverage": 3,
+      "margin": 0.001812457392275646,
+      "notional": 0.005437372176826938,
+      "opened_at": "2026-07-30T11:18:37.307158+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:ASTER:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "ASTER",
+      "side": "SHORT",
+      "size": 0.008552754793948774,
+      "entry_price": 0.60395787,
+      "leverage": 3,
+      "margin": 0.0017218345226618637,
+      "notional": 0.005165503567985591,
+      "opened_at": "2026-07-30T11:18:37.307162+00:00"
+    },
+    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:LIT:SHORT": {
+      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 0.0022306095868798587,
+      "entry_price": 2.199949475,
+      "leverage": 3,
+      "margin": 0.0016357427965287706,
+      "notional": 0.004907228389586312,
+      "opened_at": "2026-07-30T11:18:37.307167+00:00"
+    },
+    "0x07295d129f841f2854f9f298f137c2ffc5ccff34:HYPE:LONG": {
+      "trader": "0x07295d129f841f2854f9f298f137c2ffc5ccff34",
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 8.740292250203979e-05,
+      "entry_price": 53.3376555,
+      "leverage": 3,
+      "margin": 0.0015539556567023321,
+      "notional": 0.004661866970106996,
+      "opened_at": "2026-07-30T11:18:37.307171+00:00"
     }
   },
   "equity_history": [
@@ -11620,7 +11697,12 @@
       "ts": "2026-07-30T09:04:53.147039+00:00",
       "equity": 15982.347161284413,
       "cash": 0.042279221863843613
+    },
+    {
+      "ts": "2026-07-30T11:18:37.307350+00:00",
+      "equity": 15920.279069340695,
+      "cash": 0.02952515747734431
     }
   ],
-  "last_processed_signal_index": 773
+  "last_processed_signal_index": 780
 }
