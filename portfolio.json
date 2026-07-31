@@ -1,5 +1,5 @@
 {
-  "cash": 0.031247293815674336,
+  "cash": 0.02296963228787892,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7679,6 +7679,72 @@
       "margin": 0.0016357427965287706,
       "notional": 0.004907228389586312,
       "opened_at": "2026-07-30T11:18:37.307167+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:HBAR:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "HBAR",
+      "side": "SHORT",
+      "size": 0.068883321950513,
+      "entry_price": 0.068043961,
+      "leverage": 3,
+      "margin": 0.0015623646907837168,
+      "notional": 0.00468709407235115,
+      "opened_at": "2026-07-31T12:22:44.898252+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:XLM:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "XLM",
+      "side": "SHORT",
+      "size": 0.026386512584237107,
+      "entry_price": 0.16875058250000002,
+      "leverage": 3,
+      "margin": 0.001484246456244531,
+      "notional": 0.004452739368733593,
+      "opened_at": "2026-07-31T12:22:44.898277+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:VVV:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 0.0003539680098316137,
+      "entry_price": 11.95052175,
+      "leverage": 3,
+      "margin": 0.0014100341334323044,
+      "notional": 0.004230102400296913,
+      "opened_at": "2026-07-31T12:22:44.898283+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:WLFI:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "WLFI",
+      "side": "SHORT",
+      "size": 0.07375231741858396,
+      "entry_price": 0.054487742500000005,
+      "leverage": 3,
+      "margin": 0.0013395324267606893,
+      "notional": 0.004018597280282068,
+      "opened_at": "2026-07-31T12:22:44.898287+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:HEMI:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "HEMI",
+      "side": "SHORT",
+      "size": 0.8244284923096047,
+      "entry_price": 0.004630683500000001,
+      "leverage": 3,
+      "margin": 0.0012725558054226547,
+      "notional": 0.003817667416267964,
+      "opened_at": "2026-07-31T12:22:44.898291+00:00"
+    },
+    "0x77fee2df7bad4f1db93052fa82bf78eaab771a16:AERO:SHORT": {
+      "trader": "0x77fee2df7bad4f1db93052fa82bf78eaab771a16",
+      "coin": "AERO",
+      "side": "SHORT",
+      "size": 0.008649198733408527,
+      "entry_price": 0.41932023500000004,
+      "leverage": 3,
+      "margin": 0.0012089280151515221,
+      "notional": 0.0036267840454545664,
+      "opened_at": "2026-07-31T12:22:44.898294+00:00"
     }
   },
   "equity_history": [
@@ -11751,7 +11817,12 @@
       "ts": "2026-07-31T10:16:54.012130+00:00",
       "equity": 16009.466212630601,
       "cash": 0.031247293815674336
+    },
+    {
+      "ts": "2026-07-31T12:22:44.898526+00:00",
+      "equity": 16020.962658542081,
+      "cash": 0.02296963228787892
     }
   ],
-  "last_processed_signal_index": 781
+  "last_processed_signal_index": 787
 }

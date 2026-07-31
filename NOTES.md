@@ -4,6 +4,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-31
 
+### 12:22 UTC — Position poll (Job B)
+- 6 signal(s) this poll
+- NEW SHORT HBAR (0x77fee2df...)
+- NEW SHORT XLM (0x77fee2df...)
+- NEW SHORT VVV (0x77fee2df...)
+- NEW SHORT WLFI (0x77fee2df...)
+- NEW SHORT HEMI (0x77fee2df...)
+- NEW SHORT AERO (0x77fee2df...)
+- Portfolio equity: $16,020.96 (+60.21%)
+
 ### 11:33 UTC — Daily refresh (Job A)
 - Leaderboard: 40980 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
