@@ -2,6 +2,29 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-01
+
+### 10:45 UTC — Daily refresh (Job A)
+- Leaderboard: 40963 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- +added 0xbfc79c44...
+- +added 0x939f9503...
+- +added 0x3e516cf3...
+- -removed 0x77fee2df...
+- -removed 0x9a80d88c...
+- -removed 0x37b81ab9...
+- #1 0xbfc79c44... acc=$2,003,062 month=$172,568 edge=172bps
+- #2 0x88560b72... acc=$19,587,137 month=$4,340,133 edge=2415bps
+- #3 0xe187055f... acc=$5,968,606 month=$2,190,337 edge=842bps
+- #4 0x939f9503... acc=$16,001,049 month=$2,873,619 edge=1804bps
+- #5 0x3e516cf3... acc=$4,068,195 month=$1,520,788 edge=2577bps
+- Current positions across the shortlist:
+-   0xbfc79c44... 7 positions: SHORT BTC x40, SHORT ETH x25, SHORT UNI x10, SHORT NEAR x10, SHORT FARTCOIN x10, SHORT STBL x3, SHORT ZEC x5
+-   0x88560b72... 1 positions: SHORT HYPE x10
+-   0xe187055f... 6 positions: SHORT BTC x20, SHORT XRP x20, SHORT HYPE x10, SHORT SPX x5, SHORT ASTER x5, SHORT LIT x5
+-   0x939f9503... 2 positions: LONG BTC x40, SHORT HYPE x5
+-   0x3e516cf3... 2 positions: LONG HYPE x5, SHORT CASHCAT x3
+
 ## 2026-07-31
 
 ### 12:22 UTC — Position poll (Job B)
