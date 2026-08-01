@@ -4,6 +4,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-01
 
+### 10:54 UTC — Position poll (Job B)
+- 7 signal(s) this poll
+- NEW SHORT BTC (0xbfc79c44...)
+- NEW SHORT ETH (0xbfc79c44...)
+- NEW SHORT UNI (0xbfc79c44...)
+- NEW SHORT NEAR (0xbfc79c44...)
+- NEW SHORT FARTCOIN (0xbfc79c44...)
+- NEW SHORT STBL (0xbfc79c44...)
+- NEW SHORT ZEC (0xbfc79c44...)
+- Portfolio equity: $16,013.26 (+60.13%)
+
 ### 10:45 UTC — Daily refresh (Job A)
 - Leaderboard: 40963 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

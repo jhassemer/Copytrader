@@ -1,5 +1,5 @@
 {
-  "cash": 0.02296963228787892,
+  "cash": 0.016040550904185064,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7745,6 +7745,83 @@
       "margin": 0.0012089280151515221,
       "notional": 0.0036267840454545664,
       "opened_at": "2026-07-31T12:22:44.898294+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:BTC:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 5.470002820389776e-08,
+      "entry_price": 62987.99025,
+      "leverage": 3,
+      "margin": 0.001148481614393946,
+      "notional": 0.0034454448431818375,
+      "opened_at": "2026-08-01T10:54:28.625650+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:ETH:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 1.7546601687924339e-06,
+      "entry_price": 1865.416825,
+      "leverage": 3,
+      "margin": 0.0010910575336742488,
+      "notional": 0.0032731726010227463,
+      "opened_at": "2026-08-01T10:54:28.625669+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:UNI:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "UNI",
+      "side": "SHORT",
+      "size": 0.0007645502145962843,
+      "entry_price": 4.067115425,
+      "leverage": 3,
+      "margin": 0.0010365046569905361,
+      "notional": 0.003109513970971608,
+      "opened_at": "2026-08-01T10:54:28.625675+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:NEAR:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "NEAR",
+      "side": "SHORT",
+      "size": 0.0017847857908984254,
+      "entry_price": 1.655122025,
+      "leverage": 3,
+      "margin": 0.0009846794241410094,
+      "notional": 0.0029540382724230286,
+      "opened_at": "2026-08-01T10:54:28.625679+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:FARTCOIN:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "FARTCOIN",
+      "side": "SHORT",
+      "size": 0.021626282283881502,
+      "entry_price": 0.129765085,
+      "leverage": 3,
+      "margin": 0.000935445452933959,
+      "notional": 0.002806336358801877,
+      "opened_at": "2026-08-01T10:54:28.625682+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:STBL:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "STBL",
+      "side": "SHORT",
+      "size": 0.11623467044929921,
+      "entry_price": 0.022936526000000002,
+      "leverage": 3,
+      "margin": 0.0008886731802872611,
+      "notional": 0.0026660195408617833,
+      "opened_at": "2026-08-01T10:54:28.625686+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:ZEC:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 5.472320904853619e-06,
+      "entry_price": 462.82347250000004,
+      "leverage": 3,
+      "margin": 0.0008442395212728981,
+      "notional": 0.002532718563818694,
+      "opened_at": "2026-08-01T10:54:28.625691+00:00"
     }
   },
   "equity_history": [
@@ -11877,7 +11954,12 @@
       "ts": "2026-08-01T09:20:55.947077+00:00",
       "equity": 15932.532539141512,
       "cash": 0.02296963228787892
+    },
+    {
+      "ts": "2026-08-01T10:54:28.625878+00:00",
+      "equity": 16013.25743151274,
+      "cash": 0.016040550904185064
     }
   ],
-  "last_processed_signal_index": 787
+  "last_processed_signal_index": 794
 }

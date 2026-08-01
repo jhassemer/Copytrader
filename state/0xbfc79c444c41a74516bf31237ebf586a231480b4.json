@@ -1,0 +1,75 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 100.0,
+      "entry_price": 63112.1,
+      "position_value_usd": 6302190.0,
+      "leverage": 40,
+      "unrealized_pnl": 9020.0,
+      "liquidation_price": 75854.9221422617
+    },
+    {
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 1400.0,
+      "entry_price": 1844.7,
+      "position_value_usd": 2612960.0,
+      "leverage": 25,
+      "unrealized_pnl": -30367.27476,
+      "liquidation_price": 2776.3044060952
+    },
+    {
+      "coin": "UNI",
+      "side": "SHORT",
+      "size": 16000.0,
+      "entry_price": 6.88802,
+      "position_value_usd": 65105.6,
+      "leverage": 10,
+      "unrealized_pnl": 45102.779544,
+      "liquidation_price": 81.4109745181
+    },
+    {
+      "coin": "NEAR",
+      "side": "SHORT",
+      "size": 20000.0,
+      "entry_price": 2.25904,
+      "position_value_usd": 33120.0,
+      "leverage": 10,
+      "unrealized_pnl": 12060.822783,
+      "liquidation_price": 63.5294996145
+    },
+    {
+      "coin": "FARTCOIN",
+      "side": "SHORT",
+      "size": 100000.0,
+      "entry_price": 0.15452,
+      "position_value_usd": 12984.0,
+      "leverage": 10,
+      "unrealized_pnl": 2468.780657,
+      "liquidation_price": 12.5045399229
+    },
+    {
+      "coin": "STBL",
+      "side": "SHORT",
+      "size": 500000.0,
+      "entry_price": 0.440609,
+      "position_value_usd": 11476.0,
+      "leverage": 3,
+      "unrealized_pnl": 208828.72307,
+      "liquidation_price": 2.2503979861
+    },
+    {
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 2000.02,
+      "entry_price": 557.9341,
+      "position_value_usd": 926109.261,
+      "leverage": 5,
+      "unrealized_pnl": 189770.2545,
+      "liquidation_price": 1081.7788088567
+    }
+  ],
+  "timestamp_ms": 1785581667410
+}
