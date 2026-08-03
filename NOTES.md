@@ -4,6 +4,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-03
 
+### 13:45 UTC — Position poll (Job B)
+- 6 signal(s) this poll
+- NEW SHORT BTC (0x9751cec5...)
+- NEW SHORT ETH (0x9751cec5...)
+- NEW SHORT SOL (0x9751cec5...)
+- NEW SHORT HYPE (0x9751cec5...)
+- NEW SHORT PUMP (0x9751cec5...)
+- NEW SHORT CASHCAT (0x9751cec5...)
+- Portfolio equity: $16,014.36 (+60.14%)
+
 ### 12:34 UTC — Daily refresh (Job A)
 - Leaderboard: 41013 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
