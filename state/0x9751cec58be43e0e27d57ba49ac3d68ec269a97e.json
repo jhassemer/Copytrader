@@ -5,71 +5,71 @@
       "side": "SHORT",
       "size": 0.38,
       "entry_price": 65930.0,
-      "position_value_usd": 24208.66,
+      "position_value_usd": 24279.34,
       "leverage": 2,
-      "unrealized_pnl": 844.74,
-      "liquidation_price": 13669022.6154308
+      "unrealized_pnl": 774.06,
+      "liquidation_price": 13468774.573697207
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 12.9338,
       "entry_price": 1932.6,
-      "position_value_usd": 24086.61574,
+      "position_value_usd": 24185.429972,
       "leverage": 2,
-      "unrealized_pnl": 909.32765,
-      "liquidation_price": 398652.4994315699
+      "unrealized_pnl": 810.513418,
+      "liquidation_price": 392814.6106955966
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 321.0,
       "entry_price": 77.939,
-      "position_value_usd": 23593.5,
+      "position_value_usd": 23697.825,
       "leverage": 2,
-      "unrealized_pnl": 1424.919,
-      "liquidation_price": 15983.0666986916
+      "unrealized_pnl": 1320.594,
+      "liquidation_price": 15749.011339883
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 423.0,
       "entry_price": 58.9498,
-      "position_value_usd": 23040.387,
+      "position_value_usd": 23142.753,
       "leverage": 2,
-      "unrealized_pnl": 1895.40924,
-      "liquidation_price": 11840.2287276528
+      "unrealized_pnl": 1793.04324,
+      "liquidation_price": 11666.8424544186
     },
     {
       "coin": "PAXG",
       "side": "SHORT",
       "size": 188.97,
       "entry_price": 4002.181,
-      "position_value_usd": 762588.435,
+      "position_value_usd": 762210.495,
       "leverage": 2,
-      "unrealized_pnl": -6296.18892,
-      "liquidation_price": 29756.3492030337
+      "unrealized_pnl": -5918.24892,
+      "liquidation_price": 29383.4480953206
     },
     {
       "coin": "PUMP",
       "side": "SHORT",
       "size": 5239926.0,
       "entry_price": 0.001914,
-      "position_value_usd": 10904.286006,
+      "position_value_usd": 11674.555128,
       "leverage": 2,
-      "unrealized_pnl": -875.067642,
-      "liquidation_price": 0.9535021393
+      "unrealized_pnl": -1645.336764,
+      "liquidation_price": 0.9396327659
     },
     {
       "coin": "CASHCAT",
       "side": "SHORT",
       "size": 1072182.0,
       "entry_price": 0.111206,
-      "position_value_usd": 54262.058838,
+      "position_value_usd": 55891.775478,
       "leverage": 3,
-      "unrealized_pnl": 64971.84124,
-      "liquidation_price": 0.3406751362
+      "unrealized_pnl": 63342.1246,
+      "liquidation_price": 0.3406778116
     }
   ],
-  "timestamp_ms": 1785773418786
+  "timestamp_ms": 1785780395906
 }
