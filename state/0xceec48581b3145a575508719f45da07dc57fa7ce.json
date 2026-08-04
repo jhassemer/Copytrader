@@ -3,13 +3,13 @@
     {
       "coin": "HYPE",
       "side": "SHORT",
-      "size": 70000.0,
-      "entry_price": 53.5425,
-      "position_value_usd": 4397330.0,
+      "size": 100000.0,
+      "entry_price": 56.9644,
+      "position_value_usd": 5569600.0,
       "leverage": 5,
-      "unrealized_pnl": -649351.1709,
-      "liquidation_price": 80.488726305
+      "unrealized_pnl": 126846.123852,
+      "liquidation_price": 62.403445818
     }
   ],
-  "timestamp_ms": 1782553789449
+  "timestamp_ms": 1785845633940
 }

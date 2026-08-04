@@ -4,6 +4,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-04
 
+### 12:13 UTC — Position poll (Job B)
+- 10 signal(s) this poll
+- NEW SHORT XMR (0x4c6d679e...)
+- CLOSED LONG XMR (0x4c6d679e...)
+- NEW SHORT BTC (0x8787e15b...)
+- NEW SHORT ETH (0x8787e15b...)
+- NEW SHORT LDO (0x8787e15b...)
+- NEW SHORT UNI (0x8787e15b...)
+- NEW SHORT ONDO (0x8787e15b...)
+- NEW SHORT KAITO (0x8787e15b...)
+- NEW SHORT XPL (0x8787e15b...)
+- NEW SHORT LIT (0x8787e15b...)
+- Portfolio equity: $15,970.46 (+59.70%)
+
 ### 11:30 UTC — Daily refresh (Job A)
 - Leaderboard: 41187 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
