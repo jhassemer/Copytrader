@@ -1,5 +1,5 @@
 {
-  "cash": 0.014503335421770845,
+  "cash": 0.01181305734687874,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7976,6 +7976,50 @@
       "margin": 0.0007633334432510971,
       "notional": 0.0022900003297532914,
       "opened_at": "2026-08-04T12:13:54.456891+00:00"
+    },
+    "0xf21d494bb47339f399267c5519cbe11da0753b2d:UNI:LONG": {
+      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+      "coin": "UNI",
+      "side": "LONG",
+      "size": 0.0005481805845591366,
+      "entry_price": 3.9685832999999997,
+      "leverage": 3,
+      "margin": 0.0007251667710885423,
+      "notional": 0.002175500313265627,
+      "opened_at": "2026-08-05T12:09:05.250631+00:00"
+    },
+    "0xf21d494bb47339f399267c5519cbe11da0753b2d:PUMP:LONG": {
+      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 0.821348887227299,
+      "entry_price": 0.0025162574999999998,
+      "leverage": 3,
+      "margin": 0.0006889084325341151,
+      "notional": 0.0020667252976023453,
+      "opened_at": "2026-08-05T12:09:05.250641+00:00"
+    },
+    "0xf21d494bb47339f399267c5519cbe11da0753b2d:LIT:LONG": {
+      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 0.0009284450258121374,
+      "entry_price": 2.114706825,
+      "leverage": 3,
+      "margin": 0.0006544630109074093,
+      "notional": 0.001963389032722228,
+      "opened_at": "2026-08-05T12:09:05.250647+00:00"
+    },
+    "0xf21d494bb47339f399267c5519cbe11da0753b2d:CASHCAT:LONG": {
+      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+      "coin": "CASHCAT",
+      "side": "LONG",
+      "size": 0.019704972385238696,
+      "entry_price": 0.094657305,
+      "leverage": 3,
+      "margin": 0.0006217398603620389,
+      "notional": 0.0018652195810861167,
+      "opened_at": "2026-08-05T12:09:05.250651+00:00"
     }
   },
   "equity_history": [
@@ -12383,7 +12427,12 @@
       "ts": "2026-08-05T10:01:50.026038+00:00",
       "equity": 15895.316906671538,
       "cash": 0.014503335421770845
+    },
+    {
+      "ts": "2026-08-05T12:09:05.250830+00:00",
+      "equity": 15890.521834513704,
+      "cash": 0.01181305734687874
     }
   ],
-  "last_processed_signal_index": 810
+  "last_processed_signal_index": 814
 }

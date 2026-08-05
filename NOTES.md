@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-05
 
+### 12:09 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW LONG UNI (0xf21d494b...)
+- NEW LONG PUMP (0xf21d494b...)
+- NEW LONG LIT (0xf21d494b...)
+- NEW LONG CASHCAT (0xf21d494b...)
+- Portfolio equity: $15,890.52 (+58.91%)
+
 ### 11:26 UTC — Daily refresh (Job A)
 - Leaderboard: 41296 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
