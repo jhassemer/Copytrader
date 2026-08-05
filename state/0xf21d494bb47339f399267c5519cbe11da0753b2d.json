@@ -5,41 +5,41 @@
       "side": "LONG",
       "size": 212975.8,
       "entry_price": 3.55777,
-      "position_value_usd": 870346.90428,
+      "position_value_usd": 879078.91208,
       "leverage": 10,
-      "unrealized_pnl": 112626.198398,
-      "liquidation_price": 3.3828751968
+      "unrealized_pnl": 121358.206198,
+      "liquidation_price": 3.3829295257
     },
     {
       "coin": "PUMP",
       "side": "LONG",
       "size": 383067174.0,
       "entry_price": 0.001581,
-      "position_value_usd": 952688.061738,
+      "position_value_usd": 936216.173256,
       "leverage": 5,
-      "unrealized_pnl": 346687.268705,
-      "liquidation_price": 0.00134183
+      "unrealized_pnl": 330215.380223,
+      "liquidation_price": 0.0013418625
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 194584.0,
       "entry_price": 2.307849,
-      "position_value_usd": 409504.363008,
+      "position_value_usd": 418900.4352,
       "leverage": 5,
-      "unrealized_pnl": -39566.252914,
-      "liquidation_price": 1.9448835658
+      "unrealized_pnl": -30170.180722,
+      "liquidation_price": 1.9449131354
     },
     {
       "coin": "CASHCAT",
       "side": "LONG",
       "size": 2564695.0,
       "entry_price": 0.050227,
-      "position_value_usd": 238003.696,
+      "position_value_usd": 236698.266245,
       "leverage": 3,
-      "unrealized_pnl": 109184.57063,
-      "liquidation_price": 0.0347253665
+      "unrealized_pnl": 107879.140875,
+      "liquidation_price": 0.0347267238
     }
   ],
-  "timestamp_ms": 1785946711810
+  "timestamp_ms": 1785952670433
 }
