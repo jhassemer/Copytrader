@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-07
 
+### 10:11 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED SHORT HYPE (0xe867fbda...)
+- Portfolio equity: $15,834.79 (+58.35%)
+
 ### 10:07 UTC — Daily refresh (Job A)
 - Leaderboard: 41387 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
