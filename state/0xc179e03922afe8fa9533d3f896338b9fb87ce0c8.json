@@ -5,31 +5,31 @@
       "side": "LONG",
       "size": 3236.4098,
       "entry_price": 1782.51,
-      "position_value_usd": 6226205.17324,
+      "position_value_usd": 6224910.60932,
       "leverage": 4,
-      "unrealized_pnl": 457269.319795,
-      "liquidation_price": 296.515338615
+      "unrealized_pnl": 455974.755875,
+      "liquidation_price": 282.5381676351
     },
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 146564.64,
-      "entry_price": 63.601,
-      "position_value_usd": 7987597.002432,
+      "size": 146790.07,
+      "entry_price": 63.5871,
+      "position_value_usd": 8034994.85166,
       "leverage": 5,
-      "unrealized_pnl": -1334062.365809,
-      "liquidation_price": 17.430701942
+      "unrealized_pnl": -1298965.836901,
+      "liquidation_price": 17.4180276325
     },
     {
       "coin": "XMR",
       "side": "LONG",
       "size": 19234.355,
       "entry_price": 336.229,
-      "position_value_usd": 7370027.80535,
+      "position_value_usd": 7382722.47965,
       "leverage": 4,
-      "unrealized_pnl": 902874.613133,
-      "liquidation_price": 85.0212607036
+      "unrealized_pnl": 915569.287433,
+      "liquidation_price": 83.1936710968
     }
   ],
-  "timestamp_ms": 1786199829410
+  "timestamp_ms": 1786201335154
 }
