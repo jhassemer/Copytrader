@@ -5,61 +5,61 @@
       "side": "SHORT",
       "size": 1582954.0,
       "entry_price": 0.073307,
-      "position_value_usd": 110024.800724,
+      "position_value_usd": 109817.43375,
       "leverage": 5,
-      "unrealized_pnl": 6017.146585,
-      "liquidation_price": 0.4485985158
+      "unrealized_pnl": 6224.513559,
+      "liquidation_price": 0.4475857215
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 1174345.0,
       "entry_price": 0.206437,
-      "position_value_usd": 194166.2023,
+      "position_value_usd": 193919.58985,
       "leverage": 5,
-      "unrealized_pnl": 48262.43296,
-      "liquidation_price": 0.6763363548
+      "unrealized_pnl": 48509.04541,
+      "liquidation_price": 0.6749377434
     },
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 24593.21,
       "entry_price": 11.8789,
-      "position_value_usd": 275419.35879,
+      "position_value_usd": 277436.00201,
       "leverage": 3,
-      "unrealized_pnl": 16723.000528,
-      "liquidation_price": 34.2051624672
+      "unrealized_pnl": 14706.357308,
+      "liquidation_price": 34.2336486089
     },
     {
       "coin": "WLFI",
       "side": "SHORT",
       "size": 9275746.0,
       "entry_price": 0.058588,
-      "position_value_usd": 476847.550368,
+      "position_value_usd": 477162.925732,
       "leverage": 5,
-      "unrealized_pnl": 66600.822885,
-      "liquidation_price": 0.1161020973
+      "unrealized_pnl": 66285.447521,
+      "liquidation_price": 0.1159856145
     },
     {
       "coin": "HEMI",
       "side": "SHORT",
       "size": 13622301.0,
       "entry_price": 0.004844,
-      "position_value_usd": 75004.389306,
+      "position_value_usd": 74459.497266,
       "leverage": 3,
-      "unrealized_pnl": -9006.167576,
-      "liquidation_price": 0.0470404944
+      "unrealized_pnl": -8461.275536,
+      "liquidation_price": 0.0469038824
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 14064.0,
       "entry_price": 0.466067,
-      "position_value_usd": 6146.6712,
+      "position_value_usd": 6122.34048,
       "leverage": 3,
-      "unrealized_pnl": 408.104236,
-      "liquidation_price": 40.6670972732
+      "unrealized_pnl": 432.434956,
+      "liquidation_price": 40.5717895176
     }
   ],
-  "timestamp_ms": 1786211530674
+  "timestamp_ms": 1786213778443
 }
