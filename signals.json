@@ -10684,5 +10684,44 @@
     "leverage": 3,
     "unrealized_pnl": -424.249169,
     "liquidation_price": 551.1251145076
+  },
+  {
+    "ts": "2026-08-09T10:04:18.361249+00:00",
+    "trader": "0xbbe9e1588a359337c3235de3b808da991cfc2efe",
+    "type": "NEW",
+    "coin": "ADA",
+    "side": "SHORT",
+    "size": 500000.0,
+    "entry_price": 0.18696,
+    "position_value_usd": 98110.0,
+    "leverage": 10,
+    "unrealized_pnl": -4630.0,
+    "liquidation_price": 0.2711638949
+  },
+  {
+    "ts": "2026-08-09T10:04:18.361249+00:00",
+    "trader": "0xbbe9e1588a359337c3235de3b808da991cfc2efe",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 3000.0,
+    "entry_price": 61.6034,
+    "position_value_usd": 163482.0,
+    "leverage": 10,
+    "unrealized_pnl": -21328.48402,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-09T10:04:18.361249+00:00",
+    "trader": "0xbbe9e1588a359337c3235de3b808da991cfc2efe",
+    "type": "NEW",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 100000.0,
+    "entry_price": 2.422409,
+    "position_value_usd": 233760.0,
+    "leverage": 5,
+    "unrealized_pnl": -8480.9656,
+    "liquidation_price": 1.3927440105
   }
 ]

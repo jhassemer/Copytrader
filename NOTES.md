@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-09
 
+### 10:04 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- NEW SHORT ADA (0xbbe9e158...)
+- NEW LONG HYPE (0xbbe9e158...)
+- NEW LONG LIT (0xbbe9e158...)
+- Portfolio equity: $15,535.57 (+55.36%)
+
 ### 09:51 UTC — Daily refresh (Job A)
 - Leaderboard: 41392 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
