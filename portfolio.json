@@ -1,5 +1,5 @@
 {
-  "cash": 42.52372620679169,
+  "cash": 42.636453700436086,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -8076,16 +8076,16 @@
       "notional": 6.539923326557725,
       "opened_at": "2026-08-09T10:04:19.432761+00:00"
     },
-    "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:SHORT": {
+    "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
       "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
       "coin": "XMR",
-      "side": "SHORT",
-      "size": 0.01508380290662157,
-      "entry_price": 411.89395,
+      "side": "LONG",
+      "size": 0.015916145509776457,
+      "entry_price": 400.76027999999997,
       "leverage": 3,
-      "margin": 2.0709757200766132,
-      "notional": 6.21292716022984,
-      "opened_at": "2026-08-09T14:56:21.316747+00:00"
+      "margin": 2.126186310339585,
+      "notional": 6.3785589310187545,
+      "opened_at": "2026-08-09T20:37:28.574218+00:00"
     }
   },
   "equity_history": [
@@ -12968,7 +12968,12 @@
       "ts": "2026-08-09T19:55:37.042285+00:00",
       "equity": 15364.387492509759,
       "cash": 42.52372620679169
+    },
+    {
+      "ts": "2026-08-09T20:37:28.576106+00:00",
+      "equity": 15378.165962522306,
+      "cash": 42.636453700436086
     }
   ],
-  "last_processed_signal_index": 826
+  "last_processed_signal_index": 828
 }
