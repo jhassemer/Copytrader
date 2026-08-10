@@ -5,21 +5,21 @@
       "side": "LONG",
       "size": 58.52814,
       "entry_price": 70588.0,
-      "position_value_usd": 3749371.17654,
+      "position_value_usd": 3750717.32376,
       "leverage": 40,
-      "unrealized_pnl": -382014.706523,
-      "liquidation_price": 2140.8055536267
+      "unrealized_pnl": -380668.559303,
+      "liquidation_price": 2310.8530422754
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 240490.49,
       "entry_price": 62.5039,
-      "position_value_usd": 13376706.329074,
+      "position_value_usd": 13386181.65438,
       "leverage": 5,
-      "unrealized_pnl": 1654896.93111,
-      "liquidation_price": 69.7951152219
+      "unrealized_pnl": 1645421.605804,
+      "liquidation_price": 69.8008584676
     }
   ],
-  "timestamp_ms": 1786390535110
+  "timestamp_ms": 1786393228278
 }
