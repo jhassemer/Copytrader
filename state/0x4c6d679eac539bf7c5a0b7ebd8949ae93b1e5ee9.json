@@ -3,13 +3,13 @@
     {
       "coin": "XMR",
       "side": "LONG",
-      "size": 337.352,
+      "size": 334.232,
       "entry_price": 400.589,
-      "position_value_usd": 133827.5384,
+      "position_value_usd": 132045.03624,
       "leverage": 3,
-      "unrealized_pnl": -1312.156207,
-      "liquidation_price": 147.436364437
+      "unrealized_pnl": -1844.818886,
+      "liquidation_price": 146.9374080113
     }
   ],
-  "timestamp_ms": 1786428513016
+  "timestamp_ms": 1786433777975
 }
