@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-11
 
+### 10:34 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW SHORT MEGA (0xcafe9392...)
+- Portfolio equity: $15,635.90 (+56.36%)
+
 ### 10:07 UTC — Daily refresh (Job A)
 - Leaderboard: 41498 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
