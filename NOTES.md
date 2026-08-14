@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-14
+
+### 10:13 UTC — Daily refresh (Job A)
+- Leaderboard: 41652 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- +added 0xec0f6db3...
+- +added 0xfd81b27d...
+- +added 0x9a80d88c...
+- +added 0xe187055f...
+- +added 0xa8cde6a1...
+- -removed 0x1b2ad174...
+- -removed 0x053fa362...
+- -removed 0x4c6d679e...
+- -removed 0x9a5cd14d...
+- -removed 0xf21d494b...
+- #1 0xec0f6db3... acc=$632,283 month=$140,971 edge=79bps
+- #2 0xfd81b27d... acc=$2,293,120 month=$92,679 edge=136bps
+- #3 0x9a80d88c... acc=$24,617,349 month=$4,223,739 edge=3909bps
+- #4 0xe187055f... acc=$5,608,557 month=$1,870,476 edge=2909bps
+- #5 0xa8cde6a1... acc=$5,685,949 month=$2,737,997 edge=468bps
+- Current positions across the shortlist:
+-   0xec0f6db3... no open positions
+-   0xfd81b27d... 16 positions: SHORT BTC x20, SHORT ETH x20, SHORT OP x5, SHORT ARB x10, LONG LDO x5, SHORT WLD x10, SHORT ZRO x5, SHORT STRK x5, SHORT TAO x5, SHORT ENA x5, SHORT HYPE x3, SHORT TRUMP x10, SHORT XPL x3, LONG ZEC x5, SHORT LIT x5, SHORT AZTEC x1
+-   0x9a80d88c... no open positions
+-   0xe187055f... 6 positions: SHORT BTC x20, SHORT XRP x20, SHORT HYPE x10, SHORT SPX x5, SHORT ASTER x5, SHORT LIT x5
+-   0xa8cde6a1... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, SHORT HYPE x10, SHORT ZEC x10
+
 ## 2026-08-13
 
 ### 17:12 UTC — Position poll (Job B)
