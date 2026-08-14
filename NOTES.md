@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-14
 
+### 10:57 UTC — Position poll (Job B)
+- 21 signal(s) this poll
+- NEW SHORT BTC (0xfd81b27d...)
+- NEW SHORT ETH (0xfd81b27d...)
+- NEW SHORT OP (0xfd81b27d...)
+- NEW SHORT ARB (0xfd81b27d...)
+- NEW LONG LDO (0xfd81b27d...)
+- NEW SHORT WLD (0xfd81b27d...)
+- NEW SHORT ZRO (0xfd81b27d...)
+- NEW SHORT STRK (0xfd81b27d...)
+- NEW SHORT TAO (0xfd81b27d...)
+- NEW SHORT ENA (0xfd81b27d...)
+- NEW SHORT HYPE (0xfd81b27d...)
+- NEW SHORT TRUMP (0xfd81b27d...)
+- NEW SHORT XPL (0xfd81b27d...)
+- NEW LONG ZEC (0xfd81b27d...)
+- NEW SHORT LIT (0xfd81b27d...)
+- NEW SHORT AZTEC (0xfd81b27d...)
+- NEW SHORT BTC (0xa8cde6a1...)
+- NEW SHORT ETH (0xa8cde6a1...)
+- NEW SHORT SOL (0xa8cde6a1...)
+- NEW SHORT HYPE (0xa8cde6a1...)
+- NEW SHORT ZEC (0xa8cde6a1...)
+- Portfolio equity: $16,259.26 (+62.59%)
+
 ### 10:13 UTC — Daily refresh (Job A)
 - Leaderboard: 41652 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
