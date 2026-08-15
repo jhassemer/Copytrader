@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-15
 
+### 15:48 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED SHORT UNI (0x94b60c2a...)
+- Portfolio equity: $16,117.39 (+61.17%)
+
 ### 09:55 UTC — Position poll (Job B)
 - 5 signal(s) this poll
 - NEW SHORT BTC (0x94b60c2a...)
