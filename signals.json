@@ -11087,5 +11087,70 @@
     "leverage": 10,
     "unrealized_pnl": -140629.823115,
     "liquidation_price": 1091.9377333738
+  },
+  {
+    "ts": "2026-08-15T09:55:34.132481+00:00",
+    "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 21.10398,
+    "entry_price": 65680.0,
+    "position_value_usd": 1330057.23552,
+    "leverage": 40,
+    "unrealized_pnl": 56052.76028,
+    "liquidation_price": 72207.7040534827
+  },
+  {
+    "ts": "2026-08-15T09:55:34.132481+00:00",
+    "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+    "type": "NEW",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 183.1181,
+    "entry_price": 1922.81,
+    "position_value_usd": 344335.27524,
+    "leverage": 25,
+    "unrealized_pnl": 7767.77844,
+    "liquidation_price": 2931.0204096615
+  },
+  {
+    "ts": "2026-08-15T09:55:34.132481+00:00",
+    "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+    "type": "NEW",
+    "coin": "UNI",
+    "side": "SHORT",
+    "size": 7058.9,
+    "entry_price": 3.54386,
+    "position_value_usd": 22986.60196,
+    "leverage": 10,
+    "unrealized_pnl": 2029.16724,
+    "liquidation_price": 29.7323132853
+  },
+  {
+    "ts": "2026-08-15T09:55:34.132481+00:00",
+    "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+    "type": "NEW",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 1000285.0,
+    "entry_price": 0.085821,
+    "position_value_usd": 85053.233265,
+    "leverage": 10,
+    "unrealized_pnl": -792.954236,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-15T09:55:34.132481+00:00",
+    "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+    "type": "NEW",
+    "coin": "LIT",
+    "side": "SHORT",
+    "size": 22112.0,
+    "entry_price": 2.272372,
+    "position_value_usd": 50065.9904,
+    "leverage": 3,
+    "unrealized_pnl": 180.7073,
+    "liquidation_price": 10.332026828
   }
 ]
