@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-18
 
+### 10:03 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- CLOSED LONG LDO (0x265eac78...)
+- CLOSED LONG HYPE (0x265eac78...)
+- CLOSED LONG AERO (0x265eac78...)
+- Portfolio equity: $16,376.59 (+63.77%)
+
 ### 09:44 UTC — Daily refresh (Job A)
 - Leaderboard: 41975 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
