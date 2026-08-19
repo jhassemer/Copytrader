@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 09:57 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW LONG PUMP (0xaecfe4ef...)
+- NEW LONG GRAM (0xaecfe4ef...)
+- NEW LONG ETH (0x95da8596...)
+- NEW LONG SOL (0x95da8596...)
+- Portfolio equity: $16,277.35 (+62.77%)
+
 ### 09:45 UTC — Daily refresh (Job A)
 - Leaderboard: 41972 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
