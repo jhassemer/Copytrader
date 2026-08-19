@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-19
+
+### 09:45 UTC — Daily refresh (Job A)
+- Leaderboard: 41972 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0xe2321c83...
+- +added 0x13f2ca08...
+- +added 0xaecfe4ef...
+- +added 0x95da8596...
+- -removed 0x1b2ad174...
+- -removed 0x215b369a...
+- -removed 0x4c6d679e...
+- -removed 0x265eac78...
+- #1 0xceec4858... acc=$13,425,454 month=$171,334 edge=255bps
+- #2 0xe2321c83... acc=$19,939,235 month=$528,863 edge=595bps
+- #3 0x13f2ca08... acc=$2,987,691 month=$1,241,072 edge=798bps
+- #4 0xaecfe4ef... acc=$803,424 month=$599,743 edge=1109bps
+- #5 0x95da8596... acc=$1,171,865 month=$98,158 edge=129bps
+- Current positions across the shortlist:
+-   0xceec4858... 1 positions: SHORT HYPE x5
+-   0xe2321c83... no open positions
+-   0x13f2ca08... no open positions
+-   0xaecfe4ef... 2 positions: LONG PUMP x10, LONG GRAM x5
+-   0x95da8596... 2 positions: LONG ETH x5, LONG SOL x5
+
 ## 2026-08-18
 
 ### 10:03 UTC — Position poll (Job B)
