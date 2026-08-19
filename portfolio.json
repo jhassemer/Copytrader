@@ -1,5 +1,5 @@
 {
-  "cash": 9.211056868077735,
+  "cash": 9.857481970900569,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -8340,17 +8340,6 @@
       "notional": 1.6114985044019945,
       "opened_at": "2026-08-19T09:57:55.970805+00:00"
     },
-    "0x95da8596c44dd09f4b8becce87ad3b7894fb2328:ETH:LONG": {
-      "trader": "0x95da8596c44dd09f4b8becce87ad3b7894fb2328",
-      "coin": "ETH",
-      "side": "LONG",
-      "size": 0.0007978925824179007,
-      "entry_price": 1918.7088749999998,
-      "leverage": 3,
-      "margin": 0.5103078597272983,
-      "notional": 1.530923579181895,
-      "opened_at": "2026-08-19T09:57:55.970811+00:00"
-    },
     "0x95da8596c44dd09f4b8becce87ad3b7894fb2328:SOL:LONG": {
       "trader": "0x95da8596c44dd09f4b8becce87ad3b7894fb2328",
       "coin": "SOL",
@@ -14793,7 +14782,12 @@
       "ts": "2026-08-19T15:43:34.107706+00:00",
       "equity": 15506.740851931541,
       "cash": 9.211056868077735
+    },
+    {
+      "ts": "2026-08-19T16:11:58.514680+00:00",
+      "equity": 15587.91883412068,
+      "cash": 9.857481970900569
     }
   ],
-  "last_processed_signal_index": 865
+  "last_processed_signal_index": 866
 }

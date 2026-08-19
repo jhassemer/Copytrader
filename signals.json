@@ -11256,5 +11256,18 @@
     "leverage": 5,
     "unrealized_pnl": 2476.156217,
     "liquidation_price": 48.1440208814
+  },
+  {
+    "ts": "2026-08-19T16:11:57.013728+00:00",
+    "trader": "0x95da8596c44dd09f4b8becce87ad3b7894fb2328",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 26.9588,
+    "entry_price": 1862.08,
+    "position_value_usd": 56241.44856,
+    "leverage": 5,
+    "unrealized_pnl": 6041.78326,
+    "liquidation_price": 1523.5114449774
   }
 ]
