@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-20
+
+### 06:42 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED LONG HYPE (0x95da8596...)
+- Portfolio equity: $15,004.63 (+50.05%)
+
 ## 2026-08-19
 
 ### 23:52 UTC — Position poll (Job B)
