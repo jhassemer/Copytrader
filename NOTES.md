@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 10:05 UTC — Position poll (Job B)
+- 11 signal(s) this poll
+- NEW SHORT SOL (0xc179e039...)
+- NEW LONG BTC (0x563bf073...)
+- NEW LONG SOL (0x563bf073...)
+- NEW LONG BNB (0x563bf073...)
+- NEW SHORT SUI (0x563bf073...)
+- NEW LONG JUP (0x563bf073...)
+- NEW LONG JTO (0x563bf073...)
+- NEW LONG ACE (0x563bf073...)
+- NEW LONG MET (0x563bf073...)
+- NEW LONG LIT (0x563bf073...)
+- NEW LONG XMR (0x563bf073...)
+- Portfolio equity: $14,636.97 (+46.37%)
+
 ### 09:46 UTC — Daily refresh (Job A)
 - Leaderboard: 42779 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
