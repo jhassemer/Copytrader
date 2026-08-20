@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 09:46 UTC — Daily refresh (Job A)
+- Leaderboard: 42779 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x215b369a...
+- +added 0x4c6d679e...
+- +added 0xc179e039...
+- +added 0x563bf073...
+- -removed 0xceec4858...
+- -removed 0xe2321c83...
+- -removed 0xaecfe4ef...
+- -removed 0x95da8596...
+- #1 0x215b369a... acc=$2,404,318 month=$2,491,809 edge=778bps
+- #2 0x4c6d679e... acc=$24,849,740 month=$4,739,480 edge=5596bps
+- #3 0xc179e039... acc=$10,712,084 month=$4,266,276 edge=2300bps
+- #4 0x563bf073... acc=$3,025,570 month=$954,025 edge=72bps
+- #5 0x13f2ca08... acc=$3,086,876 month=$1,371,656 edge=882bps
+- Current positions across the shortlist:
+-   0x215b369a... no open positions
+-   0x4c6d679e... 1 positions: LONG XMR x3
+-   0xc179e039... 4 positions: LONG ETH x4, SHORT SOL x8, LONG HYPE x5, LONG XMR x4
+-   0x563bf073... 10 positions: LONG BTC x3, LONG SOL x7, LONG BNB x10, SHORT SUI x10, LONG JUP x10, LONG JTO x5, LONG ACE x3, LONG MET x3, LONG LIT x5, LONG XMR x5
+-   0x13f2ca08... no open positions
+
 ### 06:42 UTC — Position poll (Job B)
 - 1 signal(s) this poll
 - CLOSED LONG HYPE (0x95da8596...)
