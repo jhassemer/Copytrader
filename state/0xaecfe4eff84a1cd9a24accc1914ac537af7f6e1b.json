@@ -5,21 +5,21 @@
       "side": "LONG",
       "size": 15415.88,
       "entry_price": 70.143,
-      "position_value_usd": 1115724.315,
+      "position_value_usd": 1127933.69196,
       "leverage": 10,
-      "unrealized_pnl": 34408.132694,
-      "liquidation_price": 57.618348527
+      "unrealized_pnl": 46617.509654,
+      "liquidation_price": 57.6193081322
     },
     {
       "coin": "PUMP",
       "side": "LONG",
       "size": 669702341.0,
       "entry_price": 0.00224,
-      "position_value_usd": 2194614.571457,
+      "position_value_usd": 2258905.996193,
       "leverage": 10,
-      "unrealized_pnl": 694467.570669,
-      "liquidation_price": 0.0022754168
+      "unrealized_pnl": 758758.995405,
+      "liquidation_price": 0.0022754502
     }
   ],
-  "timestamp_ms": 1787216121826
+  "timestamp_ms": 1787218670863
 }
