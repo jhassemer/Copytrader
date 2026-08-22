@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 3.97333,
       "entry_price": 62186.7,
-      "position_value_usd": 311401.79209,
+      "position_value_usd": 312613.65774,
       "leverage": 29,
-      "unrealized_pnl": 64313.307245,
+      "unrealized_pnl": 65525.172895,
       "liquidation_price": 0.0
     },
     {
@@ -15,21 +15,21 @@
       "side": "LONG",
       "size": 10000.0,
       "entry_price": 1765.8,
-      "position_value_usd": 25138000.0,
+      "position_value_usd": 25234800.0,
       "leverage": 25,
-      "unrealized_pnl": 7479942.545719,
-      "liquidation_price": 1303.1343379974
+      "unrealized_pnl": 7576742.545719,
+      "liquidation_price": 1304.2499382699
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 1600.0,
       "entry_price": 660.6406,
-      "position_value_usd": 1312928.0,
+      "position_value_usd": 1324480.0,
       "leverage": 10,
-      "unrealized_pnl": -255903.026,
-      "liquidation_price": 7882.7963616815
+      "unrealized_pnl": -267455.026,
+      "liquidation_price": 7939.9753600923
     }
   ],
-  "timestamp_ms": 1787371469341
+  "timestamp_ms": 1787373947399
 }
