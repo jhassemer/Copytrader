@@ -5,21 +5,21 @@
       "side": "LONG",
       "size": 70.0,
       "entry_price": 64968.1,
-      "position_value_usd": 5409040.0,
+      "position_value_usd": 5437320.0,
       "leverage": 20,
-      "unrealized_pnl": 861270.46695,
-      "liquidation_price": 3171.0148279494
+      "unrealized_pnl": 889550.46695,
+      "liquidation_price": 3175.1825607957
     },
     {
       "coin": "CASHCAT",
       "side": "SHORT",
       "size": 1000090.0,
       "entry_price": 0.198989,
-      "position_value_usd": 107279.6543,
+      "position_value_usd": 112630.1358,
       "leverage": 3,
-      "unrealized_pnl": 91728.12905,
-      "liquidation_price": 0.560910239
+      "unrealized_pnl": 86377.64755,
+      "liquidation_price": 0.5609114356
     }
   ],
-  "timestamp_ms": 1787379245346
+  "timestamp_ms": 1787382208094
 }
