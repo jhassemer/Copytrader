@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-23
 
+### 09:48 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG PUMP (0xc36af149...)
+- Portfolio equity: $12,011.90 (+20.12%)
+
 ### 09:37 UTC — Daily refresh (Job A)
 - Leaderboard: 43417 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

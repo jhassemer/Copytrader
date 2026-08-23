@@ -1,5 +1,5 @@
 {
-  "cash": 4.6817694440947575,
+  "cash": 4.447680971890019,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -8515,6 +8515,17 @@
       "margin": 0.24640891811025042,
       "notional": 0.7392267543307512,
       "opened_at": "2026-08-21T16:35:44.442770+00:00"
+    },
+    "0xc36af149b64a41aab6c26ea6b71c37082d9e105b:PUMP:LONG": {
+      "trader": "0xc36af149b64a41aab6c26ea6b71c37082d9e105b",
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 137.38783702965776,
+      "entry_price": 0.0051115545,
+      "leverage": 3,
+      "margin": 0.2340884722047379,
+      "notional": 0.7022654166142137,
+      "opened_at": "2026-08-23T09:48:48.170975+00:00"
     }
   },
   "equity_history": [
@@ -15697,7 +15708,12 @@
       "ts": "2026-08-23T09:19:52.451488+00:00",
       "equity": 11954.283878559982,
       "cash": 4.6817694440947575
+    },
+    {
+      "ts": "2026-08-23T09:48:48.171215+00:00",
+      "equity": 12011.898519037215,
+      "cash": 4.447680971890019
     }
   ],
-  "last_processed_signal_index": 887
+  "last_processed_signal_index": 888
 }

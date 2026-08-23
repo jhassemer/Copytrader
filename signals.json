@@ -11542,5 +11542,18 @@
     "leverage": 10,
     "unrealized_pnl": -30799.026,
     "liquidation_price": 7233.4982289393
+  },
+  {
+    "ts": "2026-08-23T09:48:46.167590+00:00",
+    "trader": "0xc36af149b64a41aab6c26ea6b71c37082d9e105b",
+    "type": "NEW",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 2005956719.0,
+    "entry_price": 0.003226,
+    "position_value_usd": 10248432.877371,
+    "leverage": 10,
+    "unrealized_pnl": 3776006.434116,
+    "liquidation_price": 0.0017586717
   }
 ]
