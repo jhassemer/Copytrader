@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-24
 
+### 10:44 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- NEW LONG BTC (0x4d470e0a...)
+- NEW LONG SOL (0x051c2e6d...)
+- Portfolio equity: $11,435.78 (+14.36%)
+
 ### 09:58 UTC — Daily refresh (Job A)
 - Leaderboard: 43445 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
