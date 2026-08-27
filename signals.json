@@ -11659,5 +11659,57 @@
     "leverage": 10,
     "unrealized_pnl": 629412.347248,
     "liquidation_price": 52.7820680544
+  },
+  {
+    "ts": "2026-08-27T22:51:33.728495+00:00",
+    "trader": "0x278d09971da58e9eb5b83279c3c2a502266e989a",
+    "type": "NEW",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 206.9772,
+    "entry_price": 1933.2,
+    "position_value_usd": 519802.54008,
+    "leverage": 3,
+    "unrealized_pnl": 119674.21704,
+    "liquidation_price": 944.7019680064
+  },
+  {
+    "ts": "2026-08-27T22:51:33.728495+00:00",
+    "trader": "0xb14d1598dbfeaec11bae2a382b29adfcab9e8560",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 14.2897,
+    "entry_price": 63711.6,
+    "position_value_usd": 1146111.10438,
+    "leverage": 40,
+    "unrealized_pnl": 235691.07185,
+    "liquidation_price": 63144.1530674613
+  },
+  {
+    "ts": "2026-08-27T22:51:33.728495+00:00",
+    "trader": "0xb14d1598dbfeaec11bae2a382b29adfcab9e8560",
+    "type": "NEW",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 521.9818,
+    "entry_price": 1915.99,
+    "position_value_usd": 1310905.09252,
+    "leverage": 25,
+    "unrealized_pnl": 310789.27566,
+    "liquidation_price": 1883.4074100742
+  },
+  {
+    "ts": "2026-08-27T22:51:33.728495+00:00",
+    "trader": "0xb14d1598dbfeaec11bae2a382b29adfcab9e8560",
+    "type": "NEW",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 184865664.0,
+    "entry_price": 0.002168,
+    "position_value_usd": 908060.141568,
+    "leverage": 4,
+    "unrealized_pnl": 507112.825672,
+    "liquidation_price": 0.0017604691
   }
 ]

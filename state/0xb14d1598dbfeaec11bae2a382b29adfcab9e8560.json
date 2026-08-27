@@ -1,0 +1,35 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 14.2897,
+      "entry_price": 63711.6,
+      "position_value_usd": 1146111.10438,
+      "leverage": 40,
+      "unrealized_pnl": 235691.07185,
+      "liquidation_price": 63144.1530674613
+    },
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 521.9818,
+      "entry_price": 1915.99,
+      "position_value_usd": 1310905.09252,
+      "leverage": 25,
+      "unrealized_pnl": 310789.27566,
+      "liquidation_price": 1883.4074100742
+    },
+    {
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 184865664.0,
+      "entry_price": 0.002168,
+      "position_value_usd": 908060.141568,
+      "leverage": 4,
+      "unrealized_pnl": 507112.825672,
+      "liquidation_price": 0.0017604691
+    }
+  ],
+  "timestamp_ms": 1787871094668
+}
