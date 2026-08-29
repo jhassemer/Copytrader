@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-29
+
+### 02:03 UTC — Position poll (Job B)
+- 3 signal(s) this poll
+- CLOSED SHORT HYPE (0x7dacca32...)
+- NEW SHORT HYPE (0x77746ff0...)
+- NEW SHORT BTC (0x265eac78...)
+- Portfolio equity: $12,497.73 (+24.98%)
+
 ## 2026-08-28
 
 ### 20:49 UTC — Daily refresh (Job A)
