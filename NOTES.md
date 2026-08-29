@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-29
 
+### 14:25 UTC — Daily refresh (Job A)
+- Leaderboard: 44056 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- +added 0xd6e56265...
+- +added 0xe867fbda...
+- +added 0x5f94a519...
+- -removed 0x55b80f17...
+- -removed 0x77746ff0...
+- -removed 0x005844b2...
+- #1 0x7dacca32... acc=$33,701,643 month=$9,058,900 edge=6486bps
+- #2 0xd6e56265... acc=$9,961,616 month=$245,764 edge=151bps
+- #3 0x265eac78... acc=$9,556,427 month=$3,998,423 edge=4953bps
+- #4 0xe867fbda... acc=$87,891,744 month=$28,431,772 edge=4593bps
+- #5 0x5f94a519... acc=$15,103,828 month=$4,214,595 edge=4108bps
+- Current positions across the shortlist:
+-   0x7dacca32... no open positions
+-   0xd6e56265... 37 positions: SHORT ATOM x5, SHORT AVAX x10, SHORT OP x5, SHORT SUI x10, SHORT CRV x10, SHORT XRP x20, SHORT APT x10, SHORT WLD x10, SHORT SEI x5, SHORT ZRO x5, SHORT BLUR x3, SHORT TIA x5, SHORT ADA x10, SHORT MINA x3, SHORT NEAR x10, SHORT PYTH x5, SHORT XAI x3, SHORT ONDO x10, SHORT ZETA x3, SHORT W x5, SHORT TAO x5, SHORT MERL x3, SHORT GRASS x3, LONG HYPE x10, SHORT MORPHO x5, SHORT TRUMP x10, SHORT BERA x5, SHORT LAYER x3, SHORT KAITO x5, SHORT ZORA x3, SHORT ASTER x3, SHORT AVNT x5, SHORT STBL x3, SHORT HEMI x3, SHORT ICP x5, SHORT AERO x3, SHORT STABLE x3
+-   0x265eac78... 1 positions: SHORT BTC x20
+-   0xe867fbda... no open positions
+-   0x5f94a519... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+
 ### 02:03 UTC — Position poll (Job B)
 - 3 signal(s) this poll
 - CLOSED SHORT HYPE (0x7dacca32...)
