@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "UNI",
+      "side": "LONG",
+      "size": 83000.0,
+      "entry_price": 3.73653,
+      "position_value_usd": 429525.0,
+      "leverage": 10,
+      "unrealized_pnl": 119392.995865,
+      "liquidation_price": 2.2880282256
+    }
+  ],
+  "timestamp_ms": 1788103446529
+}

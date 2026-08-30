@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-30
 
+### 15:24 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- NEW LONG UNI (0x91867345...)
+- Portfolio equity: $12,005.97 (+20.06%)
+
 ### 14:23 UTC — Daily refresh (Job A)
 - Leaderboard: 44223 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
