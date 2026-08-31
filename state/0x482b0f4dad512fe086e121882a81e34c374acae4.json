@@ -1,0 +1,55 @@
+{
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 1e-05,
+      "entry_price": 71526.0,
+      "position_value_usd": 0.78602,
+      "leverage": 40,
+      "unrealized_pnl": 0.07076,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 18005.96,
+      "entry_price": 78.726,
+      "position_value_usd": 1854253.7608,
+      "leverage": 20,
+      "unrealized_pnl": -436714.78764,
+      "liquidation_price": 174.1867116246
+    },
+    {
+      "coin": "PURR",
+      "side": "LONG",
+      "size": 776599.0,
+      "entry_price": 0.095105,
+      "position_value_usd": 93712.20133,
+      "leverage": 3,
+      "unrealized_pnl": 19853.373883,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 45009.97,
+      "entry_price": 52.5944,
+      "position_value_usd": 3782844.924662,
+      "leverage": 10,
+      "unrealized_pnl": 1415571.278967,
+      "liquidation_price": 53.3099163107
+    },
+    {
+      "coin": "XPL",
+      "side": "LONG",
+      "size": 1.0,
+      "entry_price": 0.086585,
+      "position_value_usd": 0.085091,
+      "leverage": 10,
+      "unrealized_pnl": -0.001494,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1788197721706
+}
