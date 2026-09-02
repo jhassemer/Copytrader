@@ -5,21 +5,21 @@
       "side": "SHORT",
       "size": 63909.5,
       "entry_price": 76.3172,
-      "position_value_usd": 5210413.716,
+      "position_value_usd": 5202041.5715,
       "leverage": 10,
-      "unrealized_pnl": -333016.277947,
-      "liquidation_price": 122.0058229244
+      "unrealized_pnl": -324644.133447,
+      "liquidation_price": 121.7633849331
     },
     {
       "coin": "PONS",
       "side": "SHORT",
-      "size": 10500.0,
-      "entry_price": 0.42303,
-      "position_value_usd": 4447.065,
+      "size": 104500.0,
+      "entry_price": 0.457089,
+      "position_value_usd": 49089.92,
       "leverage": 3,
-      "unrealized_pnl": -5.245,
-      "liquidation_price": 222.1593092159
+      "unrealized_pnl": -1324.02,
+      "liquidation_price": 22.6880942593
     }
   ],
-  "timestamp_ms": 1788384005797
+  "timestamp_ms": 1788391566421
 }
