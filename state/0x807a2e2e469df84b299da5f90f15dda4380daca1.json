@@ -3,13 +3,13 @@
     {
       "coin": "LIT",
       "side": "SHORT",
-      "size": 125864.0,
-      "entry_price": 4.655788,
-      "position_value_usd": 603392.016,
+      "size": 127740.0,
+      "entry_price": 4.659608,
+      "position_value_usd": 591479.6316,
       "leverage": 1,
-      "unrealized_pnl": -17395.8344,
-      "liquidation_price": 18.6571809979
+      "unrealized_pnl": 3738.7784,
+      "liquidation_price": 18.4489135911
     }
   ],
-  "timestamp_ms": 1788543889071
+  "timestamp_ms": 1788551692602
 }
