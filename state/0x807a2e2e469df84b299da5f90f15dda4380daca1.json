@@ -1,4 +1,15 @@
 {
-  "positions": [],
-  "timestamp_ms": 1788347470992
+  "positions": [
+    {
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 76403.0,
+      "entry_price": 4.627533,
+      "position_value_usd": 351782.3329,
+      "leverage": 1,
+      "unrealized_pnl": 1775.0806,
+      "liquidation_price": 25.0733288314
+    }
+  ],
+  "timestamp_ms": 1788532195780
 }
