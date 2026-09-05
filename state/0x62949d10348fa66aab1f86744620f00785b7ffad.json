@@ -1,4 +1,15 @@
 {
-  "positions": [],
-  "timestamp_ms": 1788628738313
+  "positions": [
+    {
+      "coin": "BNB",
+      "side": "SHORT",
+      "size": 21.904,
+      "entry_price": 777.17,
+      "position_value_usd": 16986.77104,
+      "leverage": 8,
+      "unrealized_pnl": 36.36064,
+      "liquidation_price": 832.6176807454
+    }
+  ],
+  "timestamp_ms": 1788635347271
 }
