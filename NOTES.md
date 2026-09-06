@@ -2,6 +2,14 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-06
+
+### 09:29 UTC — Position poll (Job B)
+- 2 signal(s) this poll
+- CLOSED SHORT BNB (0x62949d10...)
+- NEW LONG DASH (0x9b864dde...)
+- Portfolio equity: $9,968.06 (-0.32%)
+
 ## 2026-09-05
 
 ### 19:09 UTC — Position poll (Job B)

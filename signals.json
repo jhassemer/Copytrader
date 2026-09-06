@@ -13128,5 +13128,31 @@
     "leverage": 8,
     "unrealized_pnl": 36.36064,
     "liquidation_price": 832.6176807454
+  },
+  {
+    "ts": "2026-09-06T09:29:14.186713+00:00",
+    "trader": "0x62949d10348fa66aab1f86744620f00785b7ffad",
+    "type": "CLOSED",
+    "coin": "BNB",
+    "side": "SHORT",
+    "size": 21.904,
+    "entry_price": 777.17,
+    "position_value_usd": 16712.09488,
+    "leverage": 8,
+    "unrealized_pnl": 311.0368,
+    "liquidation_price": 832.7127270514
+  },
+  {
+    "ts": "2026-09-06T09:29:14.186713+00:00",
+    "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "type": "NEW",
+    "coin": "DASH",
+    "side": "LONG",
+    "size": 710.55,
+    "entry_price": 70.4065,
+    "position_value_usd": 49707.2358,
+    "leverage": 5,
+    "unrealized_pnl": -320.12795,
+    "liquidation_price": 0.0
   }
 ]
