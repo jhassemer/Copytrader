@@ -13349,5 +13349,18 @@
     "leverage": 1,
     "unrealized_pnl": 1117.577516,
     "liquidation_price": 0.0689191791
+  },
+  {
+    "ts": "2026-09-07T09:44:55.564600+00:00",
+    "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
+    "type": "NEW",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 12339.8,
+    "entry_price": 0.44286,
+    "position_value_usd": 5671.98907,
+    "leverage": 10,
+    "unrealized_pnl": -207.178382,
+    "liquidation_price": 208.9806601691
   }
 ]
