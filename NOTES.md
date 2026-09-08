@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-08
 
+### 13:49 UTC — Position poll (Job B)
+- 4 signal(s) this poll
+- NEW SHORT MEGA (0xe71cbf47...)
+- NEW LONG LIT (0xf21d494b...)
+- CLOSED LONG PUMP (0xf21d494b...)
+- CLOSED LONG CASHCAT (0xf21d494b...)
+- Portfolio equity: $9,774.64 (-2.25%)
+
 ### 13:32 UTC — Daily refresh (Job A)
 - Leaderboard: 45006 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

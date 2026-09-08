@@ -1,5 +1,5 @@
 {
-  "cash": 1.752367773238322,
+  "cash": 1.5858166513168408,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -7856,28 +7856,6 @@
       "notional": 0.002175500313265627,
       "opened_at": "2026-08-05T12:09:05.250631+00:00"
     },
-    "0xf21d494bb47339f399267c5519cbe11da0753b2d:PUMP:LONG": {
-      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 0.821348887227299,
-      "entry_price": 0.0025162574999999998,
-      "leverage": 3,
-      "margin": 0.0006889084325341151,
-      "notional": 0.0020667252976023453,
-      "opened_at": "2026-08-05T12:09:05.250641+00:00"
-    },
-    "0xf21d494bb47339f399267c5519cbe11da0753b2d:CASHCAT:LONG": {
-      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
-      "coin": "CASHCAT",
-      "side": "LONG",
-      "size": 0.019704972385238696,
-      "entry_price": 0.094657305,
-      "leverage": 3,
-      "margin": 0.0006217398603620389,
-      "notional": 0.0018652195810861167,
-      "opened_at": "2026-08-05T12:09:05.250651+00:00"
-    },
     "0xc179e03922afe8fa9533d3f896338b9fb87ce0c8:ETH:LONG": {
       "trader": "0xc179e03922afe8fa9533d3f896338b9fb87ce0c8",
       "coin": "ETH",
@@ -9615,6 +9593,28 @@
       "margin": 0.09222988280201695,
       "notional": 0.27668964840605087,
       "opened_at": "2026-09-07T19:15:54.206857+00:00"
+    },
+    "0xe71cbf47fff309813bcea54f3ecf49a5f129264d:MEGA:SHORT": {
+      "trader": "0xe71cbf47fff309813bcea54f3ecf49a5f129264d",
+      "coin": "MEGA",
+      "side": "SHORT",
+      "size": 6.337944264602255,
+      "entry_price": 0.04147325300000001,
+      "leverage": 3,
+      "margin": 0.08761838866191611,
+      "notional": 0.2628551659857483,
+      "opened_at": "2026-09-08T13:49:42.436905+00:00"
+    },
+    "0xf21d494bb47339f399267c5519cbe11da0753b2d:LIT:LONG": {
+      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 0.05236396732954036,
+      "entry_price": 4.7687832,
+      "leverage": 3,
+      "margin": 0.0832374692288203,
+      "notional": 0.2497124076864609,
+      "opened_at": "2026-09-08T13:49:42.436925+00:00"
     }
   },
   "equity_history": [
@@ -17787,7 +17787,12 @@
       "ts": "2026-09-08T09:32:47.355212+00:00",
       "equity": 9511.019113386918,
       "cash": 1.752367773238322
+    },
+    {
+      "ts": "2026-09-08T13:49:42.440980+00:00",
+      "equity": 9774.639916185251,
+      "cash": 1.5858166513168408
     }
   ],
-  "last_processed_signal_index": 1033
+  "last_processed_signal_index": 1037
 }
