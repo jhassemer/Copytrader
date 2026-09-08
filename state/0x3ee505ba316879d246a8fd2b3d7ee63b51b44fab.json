@@ -5,19 +5,19 @@
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.03655,
+      "position_value_usd": 1.0355,
       "leverage": 20,
-      "unrealized_pnl": -0.187361,
-      "liquidation_price": 638205815.4633172
+      "unrealized_pnl": -0.186311,
+      "liquidation_price": 640828153.267122
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 5698784.028,
+      "position_value_usd": 5719569.8664,
       "leverage": 10,
-      "unrealized_pnl": 2349093.987205,
+      "unrealized_pnl": 2369879.825605,
       "liquidation_price": 0.0
     },
     {
@@ -25,9 +25,9 @@
       "side": "LONG",
       "size": 1925540.8,
       "entry_price": 1.05124,
-      "position_value_usd": 2185296.25392,
+      "position_value_usd": 2182022.83456,
       "leverage": 5,
-      "unrealized_pnl": 161079.798312,
+      "unrealized_pnl": 157806.378952,
       "liquidation_price": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.85203,
+      "position_value_usd": 0.84896,
       "leverage": 10,
-      "unrealized_pnl": 0.524655,
+      "unrealized_pnl": 0.521585,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 2561646.0,
       "entry_price": 0.056455,
-      "position_value_usd": 175608.518238,
+      "position_value_usd": 176125.97073,
       "leverage": 3,
-      "unrealized_pnl": 30989.339837,
+      "unrealized_pnl": 31506.792329,
       "liquidation_price": 0.0
     },
     {
@@ -55,11 +55,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1628526.6605,
+      "position_value_usd": 1619644.7267,
       "leverage": 5,
-      "unrealized_pnl": -232351.7862,
-      "liquidation_price": 22.0049425306
+      "unrealized_pnl": -223469.8524,
+      "liquidation_price": 22.0501218789
     }
   ],
-  "timestamp_ms": 1788818771110
+  "timestamp_ms": 1788826973822
 }
