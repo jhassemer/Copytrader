@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-09
+
+### 13:39 UTC — Daily refresh (Job A)
+- Leaderboard: 44982 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x52014b1c...
+- +added 0x563bf073...
+- +added 0x153c8444...
+- +added 0x5f94a519...
+- -removed 0xe71cbf47...
+- -removed 0xf21d494b...
+- -removed 0x9a80d88c...
+- -removed 0x13f2ca08...
+- #1 0x52014b1c... acc=$258,658 month=$54,431 edge=51bps
+- #2 0x563bf073... acc=$3,542,048 month=$1,068,887 edge=1203bps
+- #3 0x77746ff0... acc=$8,964,599 month=$3,191,871 edge=5896bps
+- #4 0x153c8444... acc=$3,307,530 month=$2,627,847 edge=2268bps
+- #5 0x5f94a519... acc=$17,125,925 month=$6,270,541 edge=5300bps
+- Current positions across the shortlist:
+-   0x52014b1c... 1 positions: LONG BTC x5
+-   0x563bf073... 10 positions: LONG BTC x3, LONG SOL x7, LONG BNB x10, SHORT SUI x10, LONG JUP x10, LONG JTO x5, LONG ACE x3, LONG MET x3, LONG LIT x5, LONG XMR x5
+-   0x77746ff0... 1 positions: SHORT HYPE x10
+-   0x153c8444... 10 positions: LONG kPEPE x10, LONG CFX x5, LONG WLD x10, LONG kSHIB x10, LONG FET x5, LONG NEAR x10, LONG IMX x5, LONG kBONK x10, LONG PNUT x3, LONG GRAM x5
+-   0x5f94a519... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+
 ## 2026-09-08
 
 ### 13:49 UTC — Position poll (Job B)
