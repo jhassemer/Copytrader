@@ -13635,5 +13635,18 @@
     "leverage": 5,
     "unrealized_pnl": -113890.084604,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-09T22:44:05.972314+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "NEW",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 848030.0,
+    "entry_price": 0.15,
+    "position_value_usd": 128222.136,
+    "leverage": 10,
+    "unrealized_pnl": 1017.636,
+    "liquidation_price": 0.0
   }
 ]
