@@ -1,5 +1,5 @@
 {
-  "cash": 1.5858166513168408,
+  "cash": 0.9020126576025659,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -9615,6 +9615,127 @@
       "margin": 0.0832374692288203,
       "notional": 0.2497124076864609,
       "opened_at": "2026-09-08T13:49:42.436925+00:00"
+    },
+    "0x52014b1c2c763a8be56344b7d61253e1a763d567:BTC:LONG": {
+      "trader": "0x52014b1c2c763a8be56344b7d61253e1a763d567",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 3.0115789919386245e-06,
+      "entry_price": 78985.97325,
+      "leverage": 3,
+      "margin": 0.07929083256584205,
+      "notional": 0.23787249769752614,
+      "opened_at": "2026-09-09T14:23:41.527205+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:kPEPE:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "kPEPE",
+      "side": "LONG",
+      "size": 61.57740998983874,
+      "entry_price": 0.0036698339999999994,
+      "leverage": 3,
+      "margin": 0.07532629093754994,
+      "notional": 0.22597887281264983,
+      "opened_at": "2026-09-09T14:23:41.527229+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:CFX:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "CFX",
+      "side": "LONG",
+      "size": 4.331563131610555,
+      "entry_price": 0.04956176849999999,
+      "leverage": 3,
+      "margin": 0.07155997639067245,
+      "notional": 0.21467992917201734,
+      "opened_at": "2026-09-09T14:23:41.527236+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:WLD:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 0.454988640480475,
+      "entry_price": 0.44824400999999997,
+      "leverage": 3,
+      "margin": 0.06798197757113882,
+      "notional": 0.20394593271341643,
+      "opened_at": "2026-09-09T14:23:41.527241+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:kSHIB:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "kSHIB",
+      "side": "LONG",
+      "size": 35.74890348396886,
+      "entry_price": 0.005419708499999999,
+      "leverage": 3,
+      "margin": 0.06458287869258188,
+      "notional": 0.19374863607774562,
+      "opened_at": "2026-09-09T14:23:41.527244+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:FET:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "FET",
+      "side": "LONG",
+      "size": 1.0362419785621222,
+      "entry_price": 0.1776237675,
+      "leverage": 3,
+      "margin": 0.061353734757952784,
+      "notional": 0.18406120427385836,
+      "opened_at": "2026-09-09T14:23:41.527248+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:NEAR:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 0.06677903776276677,
+      "entry_price": 2.618458575,
+      "leverage": 3,
+      "margin": 0.05828604802005515,
+      "notional": 0.17485814406016545,
+      "opened_at": "2026-09-09T14:23:41.527252+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:IMX:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "IMX",
+      "side": "LONG",
+      "size": 1.2680991426470924,
+      "entry_price": 0.13099546499999998,
+      "leverage": 3,
+      "margin": 0.05537174561905239,
+      "notional": 0.16611523685715718,
+      "opened_at": "2026-09-09T14:23:41.527263+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:kBONK:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "kBONK",
+      "side": "LONG",
+      "size": 52.14235031717178,
+      "entry_price": 0.0030265124999999996,
+      "leverage": 3,
+      "margin": 0.05260315833809978,
+      "notional": 0.15780947501429934,
+      "opened_at": "2026-09-09T14:23:41.527268+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:PNUT:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "PNUT",
+      "side": "LONG",
+      "size": 2.962516394305504,
+      "entry_price": 0.05060529,
+      "leverage": 3,
+      "margin": 0.04997300042119479,
+      "notional": 0.14991900126358437,
+      "opened_at": "2026-09-09T14:23:41.527273+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:GRAM:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "GRAM",
+      "side": "LONG",
+      "size": 0.10230102426358159,
+      "entry_price": 1.39219575,
+      "leverage": 3,
+      "margin": 0.047474350400135056,
+      "notional": 0.14242305120040516,
+      "opened_at": "2026-09-09T14:23:41.527276+00:00"
     }
   },
   "equity_history": [
@@ -17822,7 +17943,12 @@
       "ts": "2026-09-09T09:57:41.249424+00:00",
       "equity": 9312.266894742037,
       "cash": 1.5858166513168408
+    },
+    {
+      "ts": "2026-09-09T14:23:41.527507+00:00",
+      "equity": 9344.369744949747,
+      "cash": 0.9020126576025659
     }
   ],
-  "last_processed_signal_index": 1037
+  "last_processed_signal_index": 1048
 }

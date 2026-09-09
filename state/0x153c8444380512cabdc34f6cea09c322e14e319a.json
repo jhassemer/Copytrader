@@ -1,0 +1,105 @@
+{
+  "positions": [
+    {
+      "coin": "kPEPE",
+      "side": "LONG",
+      "size": 305417979.0,
+      "entry_price": 0.002898,
+      "position_value_usd": 1120578.564951,
+      "leverage": 10,
+      "unrealized_pnl": 235449.456868,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "CFX",
+      "side": "LONG",
+      "size": 15161872.0,
+      "entry_price": 0.047497,
+      "position_value_usd": 750831.063312,
+      "leverage": 5,
+      "unrealized_pnl": 30677.672623,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 5087735.7,
+      "entry_price": 0.39389,
+      "position_value_usd": 2279509.103028,
+      "leverage": 10,
+      "unrealized_pnl": 275483.680799,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "kSHIB",
+      "side": "LONG",
+      "size": 99152000.0,
+      "entry_price": 0.004945,
+      "position_value_usd": 537106.384,
+      "leverage": 10,
+      "unrealized_pnl": 46761.223486,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "FET",
+      "side": "LONG",
+      "size": 4952800.0,
+      "entry_price": 0.178337,
+      "position_value_usd": 879270.584,
+      "leverage": 5,
+      "unrealized_pnl": -3999.370543,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 1002721.4,
+      "entry_price": 1.96125,
+      "position_value_usd": 2624823.80878,
+      "leverage": 10,
+      "unrealized_pnl": 658233.138737,
+      "liquidation_price": 0.0584366611
+    },
+    {
+      "coin": "IMX",
+      "side": "LONG",
+      "size": 6092369.7,
+      "entry_price": 0.12631,
+      "position_value_usd": 797795.812215,
+      "leverage": 5,
+      "unrealized_pnl": 28207.916375,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "kBONK",
+      "side": "LONG",
+      "size": 191787580.0,
+      "entry_price": 0.003353,
+      "position_value_usd": 580349.21708,
+      "leverage": 10,
+      "unrealized_pnl": -62872.024753,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "PNUT",
+      "side": "LONG",
+      "size": 10096000.0,
+      "entry_price": 0.04982,
+      "position_value_usd": 510655.68,
+      "leverage": 3,
+      "unrealized_pnl": 7579.326389,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "GRAM",
+      "side": "LONG",
+      "size": 1000720.0,
+      "entry_price": 1.504908,
+      "position_value_usd": 1392101.592,
+      "leverage": 5,
+      "unrealized_pnl": -113890.084604,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1788963820576
+}
