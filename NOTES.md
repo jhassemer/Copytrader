@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-10
+
+### 13:31 UTC — Daily refresh (Job A)
+- Leaderboard: 45061 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0x8af700ba...
+- +added 0x7dacca32...
+- +added 0x80fb5880...
+- +added 0x005844b2...
+- -removed 0x52014b1c...
+- -removed 0x563bf073...
+- -removed 0x153c8444...
+- -removed 0x5f94a519...
+- #1 0x77746ff0... acc=$8,625,294 month=$2,734,328 edge=5051bps
+- #2 0x8af700ba... acc=$33,889,850 month=$6,728,572 edge=1790bps
+- #3 0x7dacca32... acc=$34,252,268 month=$9,137,925 edge=6542bps
+- #4 0x80fb5880... acc=$5,738,513 month=$2,255,979 edge=3884bps
+- #5 0x005844b2... acc=$5,898,246 month=$1,892,775 edge=3587bps
+- Current positions across the shortlist:
+-   0x77746ff0... 1 positions: SHORT HYPE x10
+-   0x8af700ba... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
+-   0x7dacca32... no open positions
+-   0x80fb5880... 1 positions: LONG XPL x4
+-   0x005844b2... no open positions
+
 ## 2026-09-09
 
 ### 22:44 UTC — Position poll (Job B)
