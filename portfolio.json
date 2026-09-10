@@ -1,5 +1,5 @@
 {
-  "cash": 0.8569120247224375,
+  "cash": 68.83129048836118,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0:PAXG:SHORT": {
@@ -794,17 +794,6 @@
       "notional": 31.27970582090196,
       "opened_at": "2026-05-31T11:18:08.401322+00:00"
     },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:ETH:SHORT": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 0.01470755439054552,
-      "entry_price": 2020.4392750000002,
-      "leverage": 3,
-      "margin": 9.905240176618953,
-      "notional": 29.71572052985686,
-      "opened_at": "2026-05-31T11:18:08.401341+00:00"
-    },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:AVAX:SHORT": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
       "coin": "AVAX",
@@ -815,17 +804,6 @@
       "margin": 9.409978167788006,
       "notional": 28.22993450336402,
       "opened_at": "2026-05-31T11:18:08.401347+00:00"
-    },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:DOGE:LONG": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "DOGE",
-      "side": "LONG",
-      "size": 266.17382712442816,
-      "entry_price": 0.10075535249999999,
-      "leverage": 3,
-      "margin": 8.939479259398606,
-      "notional": 26.81843777819582,
-      "opened_at": "2026-05-31T11:18:08.401351+00:00"
     },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:SUI:SHORT": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -882,28 +860,6 @@
       "notional": 20.75159592629778,
       "opened_at": "2026-05-31T11:18:08.401377+00:00"
     },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:APT:SHORT": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "APT",
-      "side": "SHORT",
-      "size": 21.041047652034777,
-      "entry_price": 0.9369313,
-      "leverage": 3,
-      "margin": 6.571338709994297,
-      "notional": 19.71401612998289,
-      "opened_at": "2026-05-31T11:18:08.401381+00:00"
-    },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:AAVE:LONG": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "AAVE",
-      "side": "LONG",
-      "size": 0.22620547957222745,
-      "entry_price": 82.793376,
-      "leverage": 3,
-      "margin": 6.242771774494582,
-      "notional": 18.728315323483745,
-      "opened_at": "2026-05-31T11:18:08.401385+00:00"
-    },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:kSHIB:SHORT": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
       "coin": "kSHIB",
@@ -915,17 +871,6 @@
       "notional": 17.79189955730956,
       "opened_at": "2026-05-31T11:18:08.401389+00:00"
     },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:DOT:SHORT": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "DOT",
-      "side": "SHORT",
-      "size": 14.174393327541841,
-      "entry_price": 1.192453475,
-      "leverage": 3,
-      "margin": 5.63410152648136,
-      "notional": 16.90230457944408,
-      "opened_at": "2026-05-31T11:18:08.401393+00:00"
-    },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:ADA:SHORT": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
       "coin": "ADA",
@@ -936,17 +881,6 @@
       "margin": 5.3523964501572925,
       "notional": 16.057189350471877,
       "opened_at": "2026-05-31T11:18:08.401396+00:00"
-    },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:TON:SHORT": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "TON",
-      "side": "SHORT",
-      "size": 8.080669700524156,
-      "entry_price": 1.8877556500000001,
-      "leverage": 3,
-      "margin": 5.084776627649428,
-      "notional": 15.254329882948284,
-      "opened_at": "2026-05-31T11:18:08.401399+00:00"
     },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:PENDLE:SHORT": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -1002,28 +936,6 @@
       "margin": 3.934503225920663,
       "notional": 11.803509677761989,
       "opened_at": "2026-05-31T11:18:08.401419+00:00"
-    },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:HYPE:LONG": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 0.1645920393677789,
-      "entry_price": 68.128047,
-      "leverage": 3,
-      "margin": 3.7377780646246297,
-      "notional": 11.213334193873889,
-      "opened_at": "2026-05-31T11:18:08.401422+00:00"
-    },
-    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:PUMP:LONG": {
-      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 5985.0161957695655,
-      "entry_price": 0.0017798895,
-      "leverage": 3,
-      "margin": 3.550889161393398,
-      "notional": 10.652667484180194,
-      "opened_at": "2026-05-31T11:18:08.401425+00:00"
     },
     "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:ZEC:LONG": {
       "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -9747,6 +9659,50 @@
       "margin": 0.0451006328801283,
       "notional": 0.1353018986403849,
       "opened_at": "2026-09-09T22:44:07.525265+00:00"
+    },
+    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:ETH:LONG": {
+      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 5.2701289067645704e-05,
+      "entry_price": 2438.968875,
+      "leverage": 3,
+      "margin": 0.04284560123612188,
+      "notional": 0.12853680370836565,
+      "opened_at": "2026-09-10T14:03:05.360180+00:00"
+    },
+    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:AAVE:SHORT": {
+      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
+      "coin": "AAVE",
+      "side": "SHORT",
+      "size": 0.0009954051333969209,
+      "entry_price": 122.67363250000001,
+      "leverage": 3,
+      "margin": 0.040703321174315785,
+      "notional": 0.12210996352294735,
+      "opened_at": "2026-09-10T14:03:05.360201+00:00"
+    },
+    "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05:HYPE:SHORT": {
+      "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.0014254176815673306,
+      "entry_price": 81.38278825,
+      "leverage": 3,
+      "margin": 0.0386681551156,
+      "notional": 0.11600446534679999,
+      "opened_at": "2026-09-10T14:03:05.360205+00:00"
+    },
+    "0x80fb5880f38185661962e475ac1557817dc9faea:XPL:LONG": {
+      "trader": "0x80fb5880f38185661962e475ac1557817dc9faea",
+      "coin": "XPL",
+      "side": "LONG",
+      "size": 124.13909266524963,
+      "entry_price": 0.08754775199999999,
+      "leverage": 3,
+      "margin": 3.6226994993874313,
+      "notional": 10.868098498162293,
+      "opened_at": "2026-09-10T14:03:05.370994+00:00"
     }
   },
   "equity_history": [
@@ -17989,7 +17945,12 @@
       "ts": "2026-09-10T09:53:06.843446+00:00",
       "equity": 10657.009152148004,
       "cash": 0.8569120247224375
+    },
+    {
+      "ts": "2026-09-10T14:03:05.371241+00:00",
+      "equity": 10812.241370447933,
+      "cash": 68.83129048836118
     }
   ],
-  "last_processed_signal_index": 1049
+  "last_processed_signal_index": 1061
 }

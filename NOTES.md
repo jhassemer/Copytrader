@@ -4,6 +4,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-10
 
+### 14:03 UTC — Position poll (Job B)
+- 12 signal(s) this poll
+- NEW LONG ETH (0x8af700ba...)
+- NEW SHORT AAVE (0x8af700ba...)
+- NEW SHORT HYPE (0x8af700ba...)
+- CLOSED SHORT ETH (0x8af700ba...)
+- CLOSED LONG DOGE (0x8af700ba...)
+- CLOSED SHORT APT (0x8af700ba...)
+- CLOSED LONG AAVE (0x8af700ba...)
+- CLOSED SHORT DOT (0x8af700ba...)
+- CLOSED SHORT TON (0x8af700ba...)
+- CLOSED LONG HYPE (0x8af700ba...)
+- CLOSED LONG PUMP (0x8af700ba...)
+- NEW LONG XPL (0x80fb5880...)
+- Portfolio equity: $10,812.24 (+8.12%)
+
 ### 13:31 UTC — Daily refresh (Job A)
 - Leaderboard: 45061 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
