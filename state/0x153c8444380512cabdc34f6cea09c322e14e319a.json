@@ -5,9 +5,9 @@
       "side": "LONG",
       "size": 305417979.0,
       "entry_price": 0.002898,
-      "position_value_usd": 1051554.101697,
+      "position_value_usd": 1059189.551172,
       "leverage": 10,
-      "unrealized_pnl": 166424.993614,
+      "unrealized_pnl": 174060.443089,
       "liquidation_price": 0.0
     },
     {
@@ -15,9 +15,9 @@
       "side": "LONG",
       "size": 15161872.0,
       "entry_price": 0.047497,
-      "position_value_usd": 733379.74864,
+      "position_value_usd": 735851.133776,
       "leverage": 5,
-      "unrealized_pnl": 13226.357951,
+      "unrealized_pnl": 15697.743087,
       "liquidation_price": 0.0
     },
     {
@@ -25,19 +25,19 @@
       "side": "LONG",
       "size": 5087735.7,
       "entry_price": 0.39389,
-      "position_value_usd": 2112478.739997,
+      "position_value_usd": 2092229.551911,
       "leverage": 10,
-      "unrealized_pnl": 108453.317768,
-      "liquidation_price": 0.0254158843
+      "unrealized_pnl": 88204.129682,
+      "liquidation_price": 0.0175154877
     },
     {
       "coin": "kSHIB",
       "side": "LONG",
       "size": 99152000.0,
       "entry_price": 0.004945,
-      "position_value_usd": 516383.616,
+      "position_value_usd": 519754.784,
       "leverage": 10,
-      "unrealized_pnl": 26038.455486,
+      "unrealized_pnl": 29409.623486,
       "liquidation_price": 0.0
     },
     {
@@ -45,9 +45,9 @@
       "side": "LONG",
       "size": 4952800.0,
       "entry_price": 0.178337,
-      "position_value_usd": 831921.816,
+      "position_value_usd": 837171.784,
       "leverage": 5,
-      "unrealized_pnl": -51348.138543,
+      "unrealized_pnl": -46098.170543,
       "liquidation_price": 0.0
     },
     {
@@ -55,19 +55,19 @@
       "side": "LONG",
       "size": 1002721.4,
       "entry_price": 1.96125,
-      "position_value_usd": 2472109.33956,
+      "position_value_usd": 2487852.06554,
       "leverage": 10,
-      "unrealized_pnl": 505518.669517,
-      "liquidation_price": 0.4876129117
+      "unrealized_pnl": 521261.395497,
+      "liquidation_price": 0.4834211036
     },
     {
       "coin": "IMX",
       "side": "LONG",
       "size": 6092369.7,
       "entry_price": 0.12631,
-      "position_value_usd": 763678.541895,
+      "position_value_usd": 772999.867536,
       "leverage": 5,
-      "unrealized_pnl": -5909.353945,
+      "unrealized_pnl": 3411.971696,
       "liquidation_price": 0.0
     },
     {
@@ -75,9 +75,9 @@
       "side": "LONG",
       "size": 191787580.0,
       "entry_price": 0.003353,
-      "position_value_usd": 546594.603,
+      "position_value_usd": 546786.39058,
       "leverage": 10,
-      "unrealized_pnl": -96626.638833,
+      "unrealized_pnl": -96434.851253,
       "liquidation_price": 0.0
     },
     {
@@ -85,9 +85,9 @@
       "side": "LONG",
       "size": 10096000.0,
       "entry_price": 0.04982,
-      "position_value_usd": 484305.12,
+      "position_value_usd": 481074.4,
       "leverage": 3,
-      "unrealized_pnl": -18771.233611,
+      "unrealized_pnl": -22001.953611,
       "liquidation_price": 0.0
     },
     {
@@ -101,5 +101,5 @@
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1788993846644
+  "timestamp_ms": 1789000761534
 }
