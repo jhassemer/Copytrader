@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-11
 
+### 13:50 UTC — Position poll (Job B)
+- 15 signal(s) this poll
+- NEW SHORT BTC (0x77eeda19...)
+- NEW LONG ETH (0x77eeda19...)
+- NEW SHORT SOL (0x77eeda19...)
+- NEW SHORT OP (0x77eeda19...)
+- NEW LONG WLD (0x77eeda19...)
+- NEW SHORT ADA (0x77eeda19...)
+- NEW LONG NEAR (0x77eeda19...)
+- NEW SHORT VVV (0x77eeda19...)
+- NEW SHORT PUMP (0x77eeda19...)
+- NEW SHORT ZEC (0x77eeda19...)
+- NEW LONG ICP (0x77eeda19...)
+- NEW SHORT PENDLE (0x7facb3ec...)
+- NEW SHORT ETHFI (0x7facb3ec...)
+- NEW SHORT HYPE (0x7facb3ec...)
+- NEW SHORT HYPE (0x8cf05140...)
+- Portfolio equity: $10,402.75 (+4.03%)
+
 ### 13:29 UTC — Daily refresh (Job A)
 - Leaderboard: 44982 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
