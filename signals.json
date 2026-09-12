@@ -14025,5 +14025,57 @@
     "leverage": 5,
     "unrealized_pnl": -3152.465454,
     "liquidation_price": 38.0619052816
+  },
+  {
+    "ts": "2026-09-12T12:52:28.573183+00:00",
+    "trader": "0x88560b720239179d7f3f9e49ca934a4861593d7f",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 134000.53,
+    "entry_price": 59.7787,
+    "position_value_usd": 7324468.9698,
+    "leverage": 10,
+    "unrealized_pnl": 685920.784108,
+    "liquidation_price": 96.2136691745
+  },
+  {
+    "ts": "2026-09-12T12:52:28.573183+00:00",
+    "trader": "0xf78c5d8d4b604a140d43a46209fade655536c581",
+    "type": "NEW",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 4836.2685,
+    "entry_price": 2297.91,
+    "position_value_usd": 12246882.72255,
+    "leverage": 20,
+    "unrealized_pnl": 1133527.297187,
+    "liquidation_price": 1705.5778911926
+  },
+  {
+    "ts": "2026-09-12T12:52:28.573183+00:00",
+    "trader": "0x2ab7c8c121bba1b6b744664237ae00ded55ec2f8",
+    "type": "NEW",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 1455.38,
+    "entry_price": 813.262,
+    "position_value_usd": 1686494.344,
+    "leverage": 3,
+    "unrealized_pnl": 502888.9673,
+    "liquidation_price": 474.9165589526
+  },
+  {
+    "ts": "2026-09-12T12:52:28.573183+00:00",
+    "trader": "0x2ab7c8c121bba1b6b744664237ae00ded55ec2f8",
+    "type": "NEW",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 83515.0,
+    "entry_price": 3.117326,
+    "position_value_usd": 364000.1275,
+    "leverage": 3,
+    "unrealized_pnl": 103656.5873,
+    "liquidation_price": 0.0
   }
 ]
