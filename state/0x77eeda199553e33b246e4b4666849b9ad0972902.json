@@ -5,19 +5,19 @@
       "side": "SHORT",
       "size": 59.74543,
       "entry_price": 78648.4,
-      "position_value_usd": 4614617.52234,
+      "position_value_usd": 4612765.41401,
       "leverage": 40,
-      "unrealized_pnl": 84267.048212,
-      "liquidation_price": 156967.2202867036
+      "unrealized_pnl": 86119.156542,
+      "liquidation_price": 157078.9429274453
     },
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 4.6877,
       "entry_price": 1885.75,
-      "position_value_usd": 11741.28219,
+      "position_value_usd": 11737.53203,
       "leverage": 25,
-      "unrealized_pnl": 2901.409887,
+      "unrealized_pnl": 2897.659727,
       "liquidation_price": 0.0
     },
     {
@@ -25,29 +25,29 @@
       "side": "SHORT",
       "size": 23326.03,
       "entry_price": 105.2994,
-      "position_value_usd": 2353829.6873,
+      "position_value_usd": 2352663.3858,
       "leverage": 20,
-      "unrealized_pnl": 102388.866826,
-      "liquidation_price": 302.6316652839
+      "unrealized_pnl": 103555.168326,
+      "liquidation_price": 302.9427656265
     },
     {
       "coin": "OP",
       "side": "SHORT",
       "size": 351507.8,
       "entry_price": 0.09776,
-      "position_value_usd": 34461.824712,
+      "position_value_usd": 34275.525578,
       "leverage": 5,
-      "unrealized_pnl": -96.649548,
-      "liquidation_price": 12.5715761012
+      "unrealized_pnl": 89.649586,
+      "liquidation_price": 12.5933748786
     },
     {
       "coin": "WLD",
       "side": "LONG",
       "size": 10231829.5,
       "entry_price": 0.34865,
-      "position_value_usd": 4049348.84292,
+      "position_value_usd": 3961559.74581,
       "leverage": 10,
-      "unrealized_pnl": 481978.534985,
+      "unrealized_pnl": 394189.437875,
       "liquidation_price": 0.0
     },
     {
@@ -55,19 +55,19 @@
       "side": "SHORT",
       "size": 22640508.0,
       "entry_price": 0.190545,
-      "position_value_usd": 4718734.67736,
+      "position_value_usd": 4710357.6894,
       "leverage": 10,
-      "unrealized_pnl": -404683.004361,
-      "liquidation_price": 0.4113011854
+      "unrealized_pnl": -396306.016401,
+      "liquidation_price": 0.4112943614
     },
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 2120957.8,
       "entry_price": 1.81369,
-      "position_value_usd": 4981705.68064,
+      "position_value_usd": 4928469.63986,
       "leverage": 10,
-      "unrealized_pnl": 1134927.004199,
+      "unrealized_pnl": 1081690.963419,
       "liquidation_price": 0.0
     },
     {
@@ -75,41 +75,41 @@
       "side": "SHORT",
       "size": 5189.46,
       "entry_price": 24.6917,
-      "position_value_usd": 115216.39092,
+      "position_value_usd": 113083.52286,
       "leverage": 3,
-      "unrealized_pnl": 12920.6028,
-      "liquidation_price": 818.8166364467
+      "unrealized_pnl": 15053.47086,
+      "liquidation_price": 819.8316499479
     },
     {
       "coin": "PUMP",
       "side": "SHORT",
       "size": 471102848.0,
       "entry_price": 0.001431,
-      "position_value_usd": 1701623.486976,
+      "position_value_usd": 1680423.858816,
       "leverage": 10,
-      "unrealized_pnl": -1027068.590294,
-      "liquidation_price": 0.0133621705
+      "unrealized_pnl": -1005868.962134,
+      "liquidation_price": 0.0133346242
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 4065.05,
       "entry_price": 759.8431,
-      "position_value_usd": 4522774.63,
+      "position_value_usd": 4421554.885,
       "leverage": 10,
-      "unrealized_pnl": -1433974.3521,
-      "liquidation_price": 2242.5573440411
+      "unrealized_pnl": -1332754.6071,
+      "liquidation_price": 2219.680071662
     },
     {
       "coin": "ICP",
       "side": "LONG",
       "size": 21777.4,
       "entry_price": 2.73662,
-      "position_value_usd": 60968.00904,
+      "position_value_usd": 60223.22196,
       "leverage": 5,
-      "unrealized_pnl": 1371.444018,
+      "unrealized_pnl": 626.656938,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1789320691585
+  "timestamp_ms": 1789328593641
 }
