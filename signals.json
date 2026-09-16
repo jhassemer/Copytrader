@@ -14090,5 +14090,18 @@
     "leverage": 5,
     "unrealized_pnl": -1559.672384,
     "liquidation_price": 2329.8939766604
+  },
+  {
+    "ts": "2026-09-16T14:47:06.003319+00:00",
+    "trader": "0x03ef8f736498047c3349bb2c18311d1bb4a79054",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 152500.0,
+    "entry_price": 0.479706,
+    "position_value_usd": 82125.825,
+    "leverage": 3,
+    "unrealized_pnl": -8970.555,
+    "liquidation_price": 15.6899804881
   }
 ]

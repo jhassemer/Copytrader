@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-16
 
+### 14:47 UTC — Position poll (Job B)
+- 1 signal(s) this poll
+- CLOSED SHORT PONS (0x03ef8f73...)
+- Portfolio equity: $12,038.26 (+20.38%)
+
 ### 14:10 UTC — Daily refresh (Job A)
 - Leaderboard: 45008 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
