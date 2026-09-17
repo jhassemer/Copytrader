@@ -1,0 +1,85 @@
+{
+  "positions": [
+    {
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 605193.0,
+      "entry_price": 2.16224,
+      "position_value_usd": 1821691.4493,
+      "leverage": 10,
+      "unrealized_pnl": 513113.412073,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "TAO",
+      "side": "LONG",
+      "size": 50.612,
+      "entry_price": 236.363,
+      "position_value_usd": 11594.70308,
+      "leverage": 5,
+      "unrealized_pnl": -368.114014,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ENA",
+      "side": "LONG",
+      "size": 4276596.0,
+      "entry_price": 0.153942,
+      "position_value_usd": 668645.7846,
+      "leverage": 5,
+      "unrealized_pnl": 10295.946459,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 31003.82,
+      "entry_price": 64.4116,
+      "position_value_usd": 2553564.526278,
+      "leverage": 10,
+      "unrealized_pnl": 556555.939698,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "SYRUP",
+      "side": "LONG",
+      "size": 1495696.0,
+      "entry_price": 0.201593,
+      "position_value_usd": 309938.12512,
+      "leverage": 3,
+      "unrealized_pnl": 8415.76541,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 145143275.0,
+      "entry_price": 0.003407,
+      "position_value_usd": 572735.36315,
+      "leverage": 10,
+      "unrealized_pnl": 78216.366034,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 2051.37,
+      "entry_price": 640.4589,
+      "position_value_usd": 3032950.545,
+      "leverage": 10,
+      "unrealized_pnl": 1719132.315757,
+      "liquidation_price": 159.6466976662
+    },
+    {
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 150097.0,
+      "entry_price": 2.629238,
+      "position_value_usd": 708034.116169,
+      "leverage": 5,
+      "unrealized_pnl": 313393.24025,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1789667132942
+}

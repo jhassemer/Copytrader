@@ -4,6 +4,30 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-17
 
+### 17:45 UTC — Position poll (Job B)
+- 20 signal(s) this poll
+- NEW LONG ETH (0xd1424799...)
+- NEW LONG ARB (0xd1424799...)
+- NEW LONG UNI (0xd1424799...)
+- NEW LONG ONDO (0xd1424799...)
+- NEW LONG BOME (0xd1424799...)
+- NEW LONG INJ (0x30afce2f...)
+- NEW LONG NEAR (0x30afce2f...)
+- CLOSED SHORT ETH (0xfdf891f2...)
+- CLOSED LONG NEAR (0xfdf891f2...)
+- CLOSED LONG ENA (0xfdf891f2...)
+- CLOSED LONG VVV (0xfdf891f2...)
+- CLOSED LONG LIT (0xfdf891f2...)
+- NEW LONG NEAR (0x4cae5bed...)
+- NEW LONG TAO (0x4cae5bed...)
+- NEW LONG ENA (0x4cae5bed...)
+- NEW LONG HYPE (0x4cae5bed...)
+- NEW LONG SYRUP (0x4cae5bed...)
+- NEW LONG PUMP (0x4cae5bed...)
+- NEW LONG ZEC (0x4cae5bed...)
+- NEW LONG LIT (0x4cae5bed...)
+- Portfolio equity: $10,168.09 (+1.68%)
+
 ### 14:15 UTC — Daily refresh (Job A)
 - Leaderboard: 45389 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

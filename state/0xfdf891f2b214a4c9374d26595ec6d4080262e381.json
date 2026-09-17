@@ -1,85 +1,35 @@
 {
   "positions": [
     {
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 1800.0,
-      "entry_price": 1663.07,
-      "position_value_usd": 3165480.0,
-      "leverage": 20,
-      "unrealized_pnl": -171943.828986,
-      "liquidation_price": 2488.2960342925
-    },
-    {
-      "coin": "NEAR",
-      "side": "LONG",
-      "size": 200000.0,
-      "entry_price": 2.03763,
-      "position_value_usd": 393040.0,
-      "leverage": 10,
-      "unrealized_pnl": -14486.26925,
-      "liquidation_price": 0.0
-    },
-    {
-      "coin": "ENA",
-      "side": "LONG",
-      "size": 24000000.0,
-      "entry_price": 0.086338,
-      "position_value_usd": 1861032.0,
-      "leverage": 10,
-      "unrealized_pnl": -211097.834646,
-      "liquidation_price": 0.0187832667
-    },
-    {
       "coin": "GRASS",
       "side": "LONG",
-      "size": 4100000.0,
-      "entry_price": 0.40591,
-      "position_value_usd": 2267997.0,
+      "size": 5050000.0,
+      "entry_price": 0.38295,
+      "position_value_usd": 1675337.5,
       "leverage": 3,
-      "unrealized_pnl": 603759.667223,
-      "liquidation_price": 0.1610562676
+      "unrealized_pnl": -258591.85704,
+      "liquidation_price": 0.1272361059
     },
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 22000.0,
+      "size": 6000.0,
       "entry_price": 48.0945,
-      "position_value_usd": 1560966.0,
+      "position_value_usd": 494177.4,
       "leverage": 10,
-      "unrealized_pnl": 502886.928241,
-      "liquidation_price": 6.851472777
-    },
-    {
-      "coin": "VVV",
-      "side": "LONG",
-      "size": 9430.0,
-      "entry_price": 11.1704,
-      "position_value_usd": 117818.42,
-      "leverage": 3,
-      "unrealized_pnl": 12480.785466,
+      "unrealized_pnl": 205610.380798,
       "liquidation_price": 0.0
     },
     {
       "coin": "AERO",
       "side": "LONG",
-      "size": 4300000.0,
-      "entry_price": 0.39911,
-      "position_value_usd": 2372611.0,
+      "size": 5460000.0,
+      "entry_price": 0.459278,
+      "position_value_usd": 3223365.6,
       "leverage": 3,
-      "unrealized_pnl": 656433.904952,
-      "liquidation_price": 0.1778941156
-    },
-    {
-      "coin": "LIT",
-      "side": "LONG",
-      "size": 29606.0,
-      "entry_price": 1.234807,
-      "position_value_usd": 64443.3802,
-      "leverage": 5,
-      "unrealized_pnl": 27885.669125,
-      "liquidation_price": 0.0
+      "unrealized_pnl": 715705.826258,
+      "liquidation_price": 0.4012033764
     }
   ],
-  "timestamp_ms": 1783158911362
+  "timestamp_ms": 1789667132799
 }
