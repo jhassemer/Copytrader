@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-17
+
+### 14:15 UTC — Daily refresh (Job A)
+- Leaderboard: 45389 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- +added 0xd1424799...
+- +added 0x30afce2f...
+- +added 0xfdf891f2...
+- +added 0x4cae5bed...
+- -removed 0xde8a6d58...
+- -removed 0xe71cbf47...
+- -removed 0x03ef8f73...
+- -removed 0xdcb0b5e4...
+- #1 0x37b81ab9... acc=$12,964,018 month=$1,529,428 edge=1474bps
+- #2 0xd1424799... acc=$1,675,800 month=$839,101 edge=256bps
+- #3 0x30afce2f... acc=$7,895,433 month=$3,052,880 edge=211bps
+- #4 0xfdf891f2... acc=$1,771,779 month=$611,653 edge=536bps
+- #5 0x4cae5bed... acc=$2,773,800 month=$2,607,066 edge=2863bps
+- Current positions across the shortlist:
+-   0x37b81ab9... 1 positions: SHORT HYPE x10
+-   0xd1424799... 5 positions: LONG ETH x3, LONG ARB x10, LONG UNI x3, LONG ONDO x5, LONG BOME x2
+-   0x30afce2f... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xfdf891f2... 3 positions: LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0x4cae5bed... 8 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG ZEC x10, LONG LIT x5
+
 ## 2026-09-16
 
 ### 14:47 UTC — Position poll (Job B)
