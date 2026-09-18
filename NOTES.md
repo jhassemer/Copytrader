@@ -4,6 +4,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-18
 
+### 14:57 UTC — Position poll (Job B)
+- 5 signal(s) this poll
+- NEW SHORT HYPE (0xead5b7d8...)
+- CLOSED SHORT ETH (0xead5b7d8...)
+- CLOSED SHORT SOL (0xead5b7d8...)
+- CLOSED SHORT WLD (0xead5b7d8...)
+- NEW LONG PONS (0x025c6243...)
+- Portfolio equity: $8,654.60 (-13.45%)
+
 ### 13:33 UTC — Daily refresh (Job A)
 - Leaderboard: 45948 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
