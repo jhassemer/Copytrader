@@ -3,13 +3,13 @@
     {
       "coin": "PONS",
       "side": "LONG",
-      "size": 450393.0,
-      "entry_price": 0.81477,
-      "position_value_usd": 318949.406094,
+      "size": 500393.0,
+      "entry_price": 0.801303,
+      "position_value_usd": 333897.23711,
       "leverage": 2,
-      "unrealized_pnl": -48017.356826,
+      "unrealized_pnl": -67069.52581,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1789743466428
+  "timestamp_ms": 1789755477472
 }
