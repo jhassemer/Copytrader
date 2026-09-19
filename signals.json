@@ -14454,5 +14454,18 @@
     "leverage": 2,
     "unrealized_pnl": -48017.356826,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-19T14:01:48.981052+00:00",
+    "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 500.0,
+    "entry_price": 489.071,
+    "position_value_usd": 290390.0,
+    "leverage": 5,
+    "unrealized_pnl": 45854.15837,
+    "liquidation_price": 0.0
   }
 ]
