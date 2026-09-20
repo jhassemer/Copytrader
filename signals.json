@@ -14467,5 +14467,18 @@
     "leverage": 5,
     "unrealized_pnl": 45854.15837,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-20T06:57:06.108129+00:00",
+    "trader": "0x79cc76364b5fb263a25bd52930e3d9788fcfeea8",
+    "type": "NEW",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 83406.0,
+    "entry_price": 4.622116,
+    "position_value_usd": 392061.16281,
+    "leverage": 3,
+    "unrealized_pnl": 6548.92271,
+    "liquidation_price": 0.0
   }
 ]
