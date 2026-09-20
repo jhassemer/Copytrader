@@ -1,0 +1,15 @@
+{
+  "positions": [
+    {
+      "coin": "ARB",
+      "side": "LONG",
+      "size": 4219124.2,
+      "entry_price": 0.14875,
+      "position_value_usd": 864540.739822,
+      "leverage": 10,
+      "unrealized_pnl": 236944.68326,
+      "liquidation_price": 0.1441458177
+    }
+  ],
+  "timestamp_ms": 1789920784751
+}

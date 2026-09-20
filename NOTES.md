@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-20
 
+### 16:13 UTC — Position poll (Job B)
+- 11 signal(s) this poll
+- NEW LONG ARB (0xe7795fce...)
+- NEW SHORT ETH (0xb0026ca4...)
+- NEW SHORT CASHCAT (0xb0026ca4...)
+- CLOSED LONG BTC (0xfd81b27d...)
+- CLOSED LONG ETH (0xfd81b27d...)
+- CLOSED SHORT OP (0xfd81b27d...)
+- CLOSED LONG LDO (0xfd81b27d...)
+- CLOSED SHORT WLD (0xfd81b27d...)
+- CLOSED LONG HYPE (0xfd81b27d...)
+- CLOSED SHORT TRUMP (0xfd81b27d...)
+- CLOSED LONG ZEC (0xfd81b27d...)
+- Portfolio equity: $7,948.51 (-20.51%)
+
 ### 13:33 UTC — Daily refresh (Job A)
 - Leaderboard: 46106 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
