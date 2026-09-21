@@ -1,5 +1,19 @@
 # Copytrade
 
+> ## ⛔ RETIRED — shut down 2026-09-21
+>
+> This system is no longer running. All three GitHub Actions workflows have
+> been deleted; nothing polls Hyperliquid, applies paper trades, or posts to
+> Slack. A position-lifecycle bug meant paper positions belonging to traders
+> who rotated off the daily shortlist were never closed — 904 of 905 open
+> positions at shutdown were orphans, and locked margin had drained free cash
+> to $20.02.
+>
+> See **[POSTMORTEM.md](POSTMORTEM.md)** for the final numbers, the root cause,
+> and what a rebuild would need to change.
+>
+> Everything below describes the system as it was designed, for reference only.
+
 Automatically find the most profitable and consistent traders on
 [Hyperliquid](https://hyperliquid.xyz) (a perp DEX) every day, and mirror their
 position entries as **paper trades**. No real money — the goal is to validate

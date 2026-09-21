@@ -4,6 +4,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-21
 
+### 17:52 UTC — SYSTEM SHUT DOWN
+- All three workflows deleted — no more polling, paper trading, or Slack reports.
+- Root cause: job_positions.py polls only the current shortlist, so traders rotated off never emit a CLOSED signal.
+- 905 open positions at shutdown, 904 orphaned (trader no longer followed), oldest open since 2026-05-20.
+- Margin locked $10,832.39; free cash $20.02 — engine had already stopped opening positions.
+- Final equity $6,451.66 from $10,000 start (peak $16,938.41 on 2026-06-06, -61.9% from peak).
+- Realized PnL across the 110 trades that did close: +$852.40.
+- See POSTMORTEM.md. Remaining manual steps: delete cron-job.org jobs, revoke PAT, remove Slack webhook.
+
 ### 15:51 UTC — Daily refresh (Job A)
 - Leaderboard: 46587 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
