@@ -20,6 +20,16 @@ _Auto-generated. Newest entry at top._
 - NEW LONG HYPE (0x825714ba...)
 - Portfolio equity: $6,774.35 (-32.26%)
 
+### 17:52 UTC — SHUTDOWN PREPARED (not yet in effect)
+- Teardown staged on branch claude/ecstatic-euler-kkn37l, PR #1. The workflows keep running on main until it merges.
+- On merge: all three workflows are deleted — no more polling, paper trading, or Slack reports.
+- Root cause: job_positions.py polls only the current shortlist, so traders rotated off never emit a CLOSED signal.
+- 905 open positions at that point, 904 orphaned (trader no longer followed), oldest open since 2026-05-20.
+- Margin locked $10,832.39; free cash $20.02 — engine had already stopped opening positions.
+- Equity $6,451.66 from $10,000 start (peak $16,938.41 on 2026-06-06, -61.9% from peak).
+- Realized PnL across the 110 trades that did close: +$852.40.
+- See POSTMORTEM.md. Manual steps after merge: delete cron-job.org jobs, revoke PAT, remove Slack webhook.
+
 ### 15:51 UTC — Daily refresh (Job A)
 - Leaderboard: 46587 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
