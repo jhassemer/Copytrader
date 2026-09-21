@@ -2,12 +2,12 @@
 
 > ## ⛔ RETIRED — shut down 2026-09-21
 >
-> This system is no longer running. All three GitHub Actions workflows have
-> been deleted; nothing polls Hyperliquid, applies paper trades, or posts to
+> This system is retired. All three GitHub Actions workflows have been
+> deleted; nothing polls Hyperliquid, applies paper trades, or posts to
 > Slack. A position-lifecycle bug meant paper positions belonging to traders
-> who rotated off the daily shortlist were never closed — 904 of 905 open
+> who rotated off the daily shortlist were never closed — 904 of the 917 open
 > positions at shutdown were orphans, and locked margin had drained free cash
-> to $20.02.
+> from $10,000 to $10.82.
 >
 > See **[POSTMORTEM.md](POSTMORTEM.md)** for the final numbers, the root cause,
 > and what a rebuild would need to change.
